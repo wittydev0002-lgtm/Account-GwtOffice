@@ -1,0 +1,16 @@
+GOLDTECH G.S. LIVE|data source=TILL001-PC;initial catalog=gwtDynamicsNew;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH DEMOSTRATION DB|data source=.\;initial catalog=LightDemo;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH G.S. ACCOUNTS PORTAL|data source=.\;initial catalog=goldtechAccounts;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH G.S. SALARIES PORTAL|data source=.\;initial catalog=goldtechSalaries;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH G.S. SALARIES PORTAL GRACE MACHINE|data source=.\;initial catalog=gwtSalaries;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH INEZ ACCOUNTS PORTAL|data source=.\;initial catalog=InezAccounts;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH SPEKE ACCOUNTS PORTAL|data source=.\;initial catalog=SpekeAccounts;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH MUTARE MANICA ACCOUNTS PORTAL|data source=.\;initial catalog=MutareManicaAccounts;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH MUTARE HERBERT ACCOUNTS PORTAL|data source=.\;initial catalog=MutareHebertAccounts;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GREAT WITS TECHNOLOGIES|data source=.\;initial catalog=GreatWits;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALIAIR CONDICTIONING|data source=.\;initial catalog=gtilive;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GREENCROFT VETENARY SURGERY|Data Source=.\;Initial Catalog=Green_Vet;User ID=sa;Password=ochmas;provider=SQLOLEDB
+FREENGEZ HAIR CLINIC|Data Source=.\;Initial Catalog=Fringez;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GREENCROFT VETENARY SURGERY NETWORK|Data Source=user-PC;Initial Catalog=gwtDynamics;User ID=sa;Password=ochmas;provider=SQLOLEDB
+TRAINING DATABASE|Data Source=.\;Initial Catalog=TrainingDb;User ID=sa;Password=ochmas;provider=SQLOLEDB
+CELLONE AUDIT|Data Source=.\;Initial Catalog=CelloneAudit;User ID=sa;Password=ochmas;provider=SQLOLEDB

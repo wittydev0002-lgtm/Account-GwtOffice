@@ -1,0 +1,29 @@
+MODULES FOR TRAINING
+	Bank Add
+KryptonMessageBox.Show
+
+Save button in the batch details view
+
+tsSave
+tsDelete
+
+INCLUSIVE
+11500 - March : INEZ TERRACE
+-------------------------------------------------
+	61168 - March 	 2014 : GEORGE SILUNDIKA (53189.57) - [ACTUAL 53179.21]
+	64640 - February 2014 (56208.70) - [ACTUAL 56140.12]
+-------------------------------------------------
+
+Private Sub ButtonItem1_Click(sender As System.Object, e As System.EventArgs) Handles btnPrintList.Click
+        DataGridViewPrinter.StartPrint(grd, False, True, "Proforma Invoices Summary List : " & Format(dpStartFrom.Value, "dd-MMM-yyyy") & " TO " & Format(dpEndTo.Value, "dd-MMM-yyyy"), "Brain Motion Technologies")
+    End Sub
+
+merge print copies to the printer selection dialog form 
+
+
+strPublicPurchasesAccount
+strPublicCreditorsAccount
+
+Suppliers : Show orders and invoices as well
+
+Accounting for inventory transfers

@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0EB3A18F-45D6-4347-B3A8-319B17B9AAE9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>LightPurchasing</RootNamespace>
+    <AssemblyName>LightPurchasing</AssemblyName>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LightPurchasing.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LightPurchasing.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridViewControl">
+      <HintPath>..\..\Controls\AdvancedDataGridViewControl\AdvancedDataGridViewControl\bin\Debug\AdvancedDataGridViewControl.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.7.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="MTGCCombobox">
+      <HintPath>..\AccountingLight\AccountingLight\bin\Debug\MTGCCombobox.dll</HintPath>
+    </Reference>
+    <Reference Include="Numberbox">
+      <HintPath>..\AccountingLight\AccountingLight\bin\Debug\Numberbox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonFunctions.vb" />
+    <Compile Include="frmCategorySetup.Designer.vb">
+      <DependentUpon>frmCategorySetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategorySetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGoodReceivingMain.Designer.vb">
+      <DependentUpon>frmGoodReceivingMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGoodReceivingMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGoodsReceipt.Designer.vb">
+      <DependentUpon>frmGoodsReceipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGoodsReceipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInventoryNewCode.Designer.vb">
+      <DependentUpon>frmInventoryNewCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInventoryNewCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInventorySetup.Designer.vb">
+      <DependentUpon>frmInventorySetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInventorySetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrderFromInventory.Designer.vb">
+      <DependentUpon>frmOrderFromInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrderFromInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrdersPlacement.Designer.vb">
+      <DependentUpon>frmOrdersPlacement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrdersPlacement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPurchasingMain.Designer.vb">
+      <DependentUpon>frmPurchasingMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPurchasingMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuantitySplit.Designer.vb">
+      <DependentUpon>frmQuantitySplit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuantitySplit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReceivedItemsCostAdjust.Designer.vb">
+      <DependentUpon>frmReceivedItemsCostAdjust.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReceivedItemsCostAdjust.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReceivedOrdersAccountsPosting.Designer.vb">
+      <DependentUpon>frmReceivedOrdersAccountsPosting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReceivedOrdersAccountsPosting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResetAndReinputInventory.Designer.vb">
+      <DependentUpon>frmResetAndReinputInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmResetAndReinputInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSerialNumbersEntry.Designer.vb">
+      <DependentUpon>frmSerialNumbersEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSerialNumbersEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShortCodeDescriptionSetup.Designer.vb">
+      <DependentUpon>frmShortCodeDescriptionSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmShortCodeDescriptionSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubCategorySetup.Designer.vb">
+      <DependentUpon>frmSubCategorySetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubCategorySetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplierAccountPayments.Designer.vb">
+      <DependentUpon>frmSupplierAccountPayments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplierAccountPayments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplierDetails.Designer.vb">
+      <DependentUpon>frmSupplierDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplierDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplierGroupings.Designer.vb">
+      <DependentUpon>frmSupplierGroupings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplierGroupings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplierInvoice.Designer.vb">
+      <DependentUpon>frmSupplierInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplierInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplierOrdersListing.Designer.vb">
+      <DependentUpon>frmSupplierOrdersListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplierOrdersListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Purchasing.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmCategorySetup.resx">
+      <DependentUpon>frmCategorySetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGoodReceivingMain.resx">
+      <DependentUpon>frmGoodReceivingMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGoodsReceipt.resx">
+      <DependentUpon>frmGoodsReceipt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInventoryNewCode.resx">
+      <DependentUpon>frmInventoryNewCode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInventorySetup.resx">
+      <DependentUpon>frmInventorySetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrderFromInventory.resx">
+      <DependentUpon>frmOrderFromInventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrdersPlacement.resx">
+      <DependentUpon>frmOrdersPlacement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPurchasingMain.resx">
+      <DependentUpon>frmPurchasingMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuantitySplit.resx">
+      <DependentUpon>frmQuantitySplit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceivedItemsCostAdjust.resx">
+      <DependentUpon>frmReceivedItemsCostAdjust.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceivedOrdersAccountsPosting.resx">
+      <DependentUpon>frmReceivedOrdersAccountsPosting.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResetAndReinputInventory.resx">
+      <DependentUpon>frmResetAndReinputInventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSerialNumbersEntry.resx">
+      <DependentUpon>frmSerialNumbersEntry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShortCodeDescriptionSetup.resx">
+      <DependentUpon>frmShortCodeDescriptionSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubCategorySetup.resx">
+      <DependentUpon>frmSubCategorySetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplierAccountPayments.resx">
+      <DependentUpon>frmSupplierAccountPayments.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplierDetails.resx">
+      <DependentUpon>frmSupplierDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplierGroupings.resx">
+      <DependentUpon>frmSupplierGroupings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplierInvoice.resx">
+      <DependentUpon>frmSupplierInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplierOrdersListing.resx">
+      <DependentUpon>frmSupplierOrdersListing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\gwtCommonLibrary\gwtCommonLibrary\gwtCommonLibrary.vbproj">
+      <Project>{F666E796-F44A-42E9-9343-E533B7458620}</Project>
+      <Name>gwtCommonLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SmartColumnReportWriter\SmartColumnReportWriter\SmartColumnReportWriter.vbproj">
+      <Project>{080e336b-0f0c-4484-b229-86f93021613b}</Project>
+      <Name>SmartColumnReportWriter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SmartReportWriter\SmartReportWriter\SmartReportWriter.vbproj">
+      <Project>{c3cce5db-0d7a-4c02-88c3-f419fd1e40e8}</Project>
+      <Name>SmartReportWriter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SmartRichReportWriter\SmartRichReportWriter\SmartRichReportWriter.vbproj">
+      <Project>{ba393236-7563-4b9e-9e6d-27f2dddc0cd8}</Project>
+      <Name>SmartRichReportWriter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1 @@
+INSERT INTO GroupCashbookTransactions (BranchName, AccountNumber, TransactionDate, Amount, Description, ContraAccount, UserName, UserBranch, TransactionType, Reference) VALUES ('HEAD OFFICE', '10002012', '10/08/11', 33, 'CASH SALE - PHIRI EMBASSY ', '40010001', 'Embassy', 'HEAD OFFICE', 'DEBIT', 116)

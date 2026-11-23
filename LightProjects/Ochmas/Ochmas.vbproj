@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B071504D-8780-4BFB-8F2E-9115E07ED4B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Ochmas.My.MyApplication</StartupObject>
+    <RootNamespace>Ochmas</RootNamespace>
+    <AssemblyName>Ochmas</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Ochmas.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Ochmas.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Surgeon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridViewControl">
+      <HintPath>..\..\Controls\AdvancedDataGridViewControl\AdvancedDataGridViewControl\bin\Debug\AdvancedDataGridViewControl.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.7.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="MTGCCombobox">
+      <HintPath>..\AccountingLight\AccountingLight\bin\Debug\MTGCCombobox.dll</HintPath>
+    </Reference>
+    <Reference Include="Numberbox">
+      <HintPath>..\AccountingLight\AccountingLight\bin\Debug\Numberbox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultationCodesListing.Designer.vb">
+      <DependentUpon>frmConsultationCodesListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultationCodesListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultations.Designer.vb">
+      <DependentUpon>frmConsultations.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultations.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControlNumber.Designer.vb">
+      <DependentUpon>frmControlNumber.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmControlNumber.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDependents.Designer.vb">
+      <DependentUpon>frmDependents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDependents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDiagnosisCodesListing.Designer.vb">
+      <DependentUpon>frmDiagnosisCodesListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDiagnosisCodesListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDiagnosticsCodeSetup.Designer.vb">
+      <DependentUpon>frmDiagnosticsCodeSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDiagnosticsCodeSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDispensingCiphersSearch.Designer.vb">
+      <DependentUpon>frmDispensingCiphersSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDispensingCiphersSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDrugCategories.Designer.vb">
+      <DependentUpon>frmDrugCategories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDrugCategories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDrugManufacturers.Designer.vb">
+      <DependentUpon>frmDrugManufacturers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDrugManufacturers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDrugSearch.Designer.vb">
+      <DependentUpon>frmDrugSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDrugSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDrugSetup.Designer.vb">
+      <DependentUpon>frmDrugSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDrugSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMedicalAid.Designer.vb">
+      <DependentUpon>frmMedicalAid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMedicalAid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMedicalAidsListing.Designer.vb">
+      <DependentUpon>frmMedicalAidsListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMedicalAidsListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMedication.Designer.vb">
+      <DependentUpon>frmMedication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMedication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOchmasMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOchmasMain.Designer.vb">
+      <DependentUpon>frmOchmasMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPatientDetails.Designer.vb">
+      <DependentUpon>frmPatientDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPatientDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPatientSetup.Designer.vb">
+      <DependentUpon>frmPatientSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPatientSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modCommons.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultationCodesListing.resx">
+      <DependentUpon>frmConsultationCodesListing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultations.resx">
+      <DependentUpon>frmConsultations.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControlNumber.resx">
+      <DependentUpon>frmControlNumber.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDependents.resx">
+      <DependentUpon>frmDependents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDiagnosisCodesListing.resx">
+      <DependentUpon>frmDiagnosisCodesListing.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDiagnosticsCodeSetup.resx">
+      <DependentUpon>frmDiagnosticsCodeSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDispensingCiphersSearch.resx">
+      <DependentUpon>frmDispensingCiphersSearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDrugCategories.resx">
+      <DependentUpon>frmDrugCategories.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDrugManufacturers.resx">
+      <DependentUpon>frmDrugManufacturers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDrugSearch.resx">
+      <DependentUpon>frmDrugSearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDrugSetup.resx">
+      <DependentUpon>frmDrugSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMedicalAid.resx">
+      <DependentUpon>frmMedicalAid.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMedicalAidsListing.resx">
+      <DependentUpon>frmMedicalAidsListing.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMedication.resx">
+      <DependentUpon>frmMedication.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOchmasMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmOchmasMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPatientDetails.resx">
+      <DependentUpon>frmPatientDetails.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPatientSetup.resx">
+      <DependentUpon>frmPatientSetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\gwtCommonLibrary\gwtCommonLibrary\gwtCommonLibrary.vbproj">
+      <Project>{f666e796-f44a-42e9-9343-e533b7458620}</Project>
+      <Name>gwtCommonLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SmartColumnReportWriter\SmartColumnReportWriter\SmartColumnReportWriter.vbproj">
+      <Project>{080e336b-0f0c-4484-b229-86f93021613b}</Project>
+      <Name>SmartColumnReportWriter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SmartReportWriter\SmartReportWriter\SmartReportWriter.vbproj">
+      <Project>{c3cce5db-0d7a-4c02-88c3-f419fd1e40e8}</Project>
+      <Name>SmartReportWriter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SmartRichReportWriter\SmartRichReportWriter\SmartRichReportWriter.vbproj">
+      <Project>{ba393236-7563-4b9e-9e6d-27f2dddc0cd8}</Project>
+      <Name>SmartRichReportWriter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Surgeon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

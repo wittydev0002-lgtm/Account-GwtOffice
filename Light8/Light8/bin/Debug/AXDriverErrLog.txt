@@ -1,0 +1,110 @@
+>> 04.04.22 19:35:29 ver:Fiscal Printer Driver. ZW. 2.0.0.1; 
+>> LOG
+    [Init] ComPort=3 PortSpeed=115200 DevAddress=0 Locale=1 Language=0 SerialKey=''
+    Get dev.status
+    Connected device has firmware "08.2021".
+    Fiscal device data: "Model/Version "PRP250F/ZWE,KL7008.2108.0.3" Date "18Aug21"
+    Device serial "44005100"
+    Dll verison "2.0.0.1"
+    Init complete.
+    Log file "C:\Users\Greatwits\Documents\Eltrade\FPActiveX\Log\"
+    New log.folder "D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\"
+>> 04.04.22 19:35:32 ver:Fiscal Printer Driver. ZW. 2.0.0.1; 
+>> LOG
+    [StartBon] BonType=1 PLUNumbering=1 CashierName='Cashier 1' InvNumber='9000000001' InvTaxNumber='123456789' InvVATNumber='BG123456789' InvCompany='Company Name' InvCity='City' InvAddress='Address' InvMOL='MOL' InvReceiver='Receiver' Receipt currency '1' 
+    Set operator name "Cashier 1"
+    [AddLine] Line=' ' Command='' WordWrap=1
+    [AddLine] Line='Free text at the top of receipt,' Command='' WordWrap=1
+    [AddLine] Line=' ' Command='' WordWrap=1
+    [AddLine] Line='Dbwidth sample' Command='DBWIDTH' WordWrap=1
+    [AddLine] Line='Dbstrike sample' Command='DBSTRIKE' WordWrap=1
+    [AddLine] Line='Underline sample' Command='UNDERLINE' WordWrap=1
+    [AddLine] Line=' ' Command='' WordWrap=1
+    [AddLine] Line='Sample PLU with percentage add on' Command='' WordWrap=1
+    [AddLine] Line=' ' Command='' WordWrap=1
+    [Add PLU]Item Numb "1" Name "PLU number 1" TaxGrp "1" Price "1.23" Quantity "1.000 CurrID "0"
+>> ERROR
+    [FAddPlu] Invalid value for CurrencyID "0". Valid vaules 1-5
+-------------------------------
+>> 04.04.22 19:42:34 ver:Fiscal Printer Driver. ZW. 2.0.0.1; 
+>> LOG
+    [Init] ComPort=3 PortSpeed=115200 DevAddress=0 Locale=0 Language=0 SerialKey=''
+    Get dev.status
+    Connected device has firmware "08.2021".
+    Fiscal device data: "Model/Version "PRP250F/ZWE,KL7008.2108.0.3" Date "18Aug21"
+    Device serial "44005100"
+    Dll verison "2.0.0.1"
+    Init complete.
+    Log file "C:\Users\Greatwits\Documents\Eltrade\FPActiveX\Log\"
+    New log.folder "D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\"
+>> 04.04.22 19:42:34 ver:Fiscal Printer Driver. ZW. 2.0.0.1; 
+>> LOG
+    [StartBon] BonType=1 PLUNumbering=1 CashierName='Cashier 1' InvNumber='9000000001' InvTaxNumber='123456789' InvVATNumber='BG123456789' InvCompany='Company Name' InvCity='City' InvAddress='Address' InvMOL='MOL' InvReceiver='Receiver' Receipt currency '1' 
+    Set operator name "Cashier 1"
+>> ERROR
+    [StartBon] Fail open receipt:  : Not opened comment receipt. [2/5]# Z report should be done 
+-------------------------------
+>> 04.04.22 19:48:59 ver:Fiscal Printer Driver. ZW. 2.0.0.1; 
+>> LOG
+    [Init] ComPort=3 PortSpeed=115200 DevAddress=0 Locale=0 Language=0 SerialKey=''
+    Get dev.status
+    Connected device has firmware "08.2021".
+    Fiscal device data: "Model/Version "PRP250F/ZWE,KL7008.2108.0.3" Date "18Aug21"
+    Device serial "44005100"
+    Dll verison "2.0.0.1"
+    Init complete.
+    Log file "C:\Users\Greatwits\Documents\Eltrade\FPActiveX\Log\"
+    New log.folder "D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\"
+>> 04.04.22 19:49:00 ver:Fiscal Printer Driver. ZW. 2.0.0.1; 
+>> LOG
+    [StartBon] BonType=1 PLUNumbering=1 CashierName='Cashier 1' InvNumber='9000000001' InvTaxNumber='123456789' InvVATNumber='BG123456789' InvCompany='Company Name' InvCity='City' InvAddress='Address' InvMOL='MOL' InvReceiver='Receiver' Receipt currency '1' 
+    Set operator name "Cashier 1"
+>> ERROR
+    [StartBon] Fail open receipt:  : Not opened comment receipt. [2/5]# Z report should be done 
+-------------------------------
+>> 04.04.22 19:54:08 ver:Fiscal Printer Driver. ZW. 2.0.0.1; 
+>> LOG
+    [Init] ComPort=3 PortSpeed=115200 DevAddress=0 Locale=0 Language=0 SerialKey=''
+    Get dev.status
+    Connected device has firmware "08.2021".
+    Fiscal device data: "Model/Version "PRP250F/ZWE,KL7008.2108.0.3" Date "18Aug21"
+    Device serial "44005100"
+    Dll verison "2.0.0.1"
+    Init complete.
+    Log file "C:\Users\Greatwits\Documents\Eltrade\FPActiveX\Log\"
+    New log.folder "D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\"
+>> 04.04.22 19:54:08 ver:Fiscal Printer Driver. ZW. 2.0.0.1; 
+>> LOG
+    [StartBon] BonType=2 PLUNumbering=0 CashierName='Cashier 1' InvNumber='9000000001' InvTaxNumber='123456789' InvVATNumber='BG123456789' InvCompany='Company Name' InvCity='City' InvAddress='Address' InvMOL='MOL' InvReceiver='Receiver' Receipt currency '1' 
+    Set operator name "Cashier 1"
+>> ERROR
+    [StartBon] Fail open receipt:  : Not opened fisc. receipt. [2/3]# Z report should be done 
+-------------------------------
+>> 04.04.22 19:58:39 ver:Fiscal Printer Driver. ZW. 2.0.0.1; 
+>> LOG
+    [Init] ComPort=3 PortSpeed=115200 DevAddress=0 Locale=0 Language=0 SerialKey=''
+    Get dev.status
+    Connected device has firmware "08.2021".
+    Fiscal device data: "Model/Version "PRP250F/ZWE,KL7008.2108.0.3" Date "18Aug21"
+    Device serial "44005100"
+    Dll verison "2.0.0.1"
+    Init complete.
+    Log file "C:\Users\Greatwits\Documents\Eltrade\FPActiveX\Log\"
+    New log.folder "D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\"
+>> 04.04.22 19:58:45 ver:Fiscal Printer Driver. ZW. 2.0.0.1; 
+>> LOG
+    [StartBon] BonType=1 PLUNumbering=1 CashierName='Cashier 1' InvNumber='9000000001' InvTaxNumber='123456789' InvVATNumber='BG123456789' InvCompany='Company Name' InvCity='City' InvAddress='Address' InvMOL='MOL' InvReceiver='Receiver' Receipt currency '1' 
+    Set operator name "Cashier 1"
+    [AddLine] Line=' ' Command='' WordWrap=1
+    [AddLine] Line='Free text at the top of receipt,' Command='' WordWrap=1
+    [AddLine] Line=' ' Command='' WordWrap=1
+    [AddLine] Line='Dbwidth sample' Command='DBWIDTH' WordWrap=1
+    [AddLine] Line='Dbstrike sample' Command='DBSTRIKE' WordWrap=1
+    [AddLine] Line='Underline sample' Command='UNDERLINE' WordWrap=1
+    [AddLine] Line=' ' Command='' WordWrap=1
+    [AddLine] Line='Sample PLU with percentage add on' Command='' WordWrap=1
+    [AddLine] Line=' ' Command='' WordWrap=1
+    [Add PLU]Item Numb "1" Name "PLU number 1" TaxGrp "1" Price "1.23" Quantity "1.000 CurrID "0"
+>> ERROR
+    [FAddPlu] Invalid value for CurrencyID "0". Valid vaules 1-5
+-------------------------------

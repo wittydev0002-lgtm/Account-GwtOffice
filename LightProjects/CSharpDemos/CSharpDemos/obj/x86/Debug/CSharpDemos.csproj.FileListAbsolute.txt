@@ -1,0 +1,7 @@
+C:\Embassy\gwtOffice\CSharpDemos\CSharpDemos\bin\Debug\CSharpDemos.exe
+C:\Embassy\gwtOffice\CSharpDemos\CSharpDemos\bin\Debug\CSharpDemos.pdb
+C:\Embassy\gwtOffice\CSharpDemos\CSharpDemos\obj\x86\Debug\CSharpDemos.Form1.resources
+C:\Embassy\gwtOffice\CSharpDemos\CSharpDemos\obj\x86\Debug\CSharpDemos.Properties.Resources.resources
+C:\Embassy\gwtOffice\CSharpDemos\CSharpDemos\obj\x86\Debug\CSharpDemos.csproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\CSharpDemos\CSharpDemos\obj\x86\Debug\CSharpDemos.exe
+C:\Embassy\gwtOffice\CSharpDemos\CSharpDemos\obj\x86\Debug\CSharpDemos.pdb

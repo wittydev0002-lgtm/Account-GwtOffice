@@ -1,0 +1,1 @@
+MOC CHITUNGWIZA|data source=.\;initial catalog=MocChitungwiza;User ID=sa;Password=ochmas;provider=SQLOLEDB

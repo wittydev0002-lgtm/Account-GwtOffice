@@ -1,0 +1,1 @@
+INSERT INTO GroupSalesMain (BranchName, InvoiceNumber, CustomerId, TransDate, Discount, Taxes, Amount, UserName, SalesRep, ContactNumber) VALUES ('HEAD OFFICE', 114, '0000', '10/08/11', 5, 0, 2, 'Embassy', 'Phiri Embassy ', '')

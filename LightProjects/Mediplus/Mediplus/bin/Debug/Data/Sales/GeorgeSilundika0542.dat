@@ -1,0 +1,1 @@
+INSERT INTO CashbookTransactions (AccountNumber, TransactionDate, Amount, Description, ContraAccount, UserName, UserBranch, TransactionType, Reference) VALUES ('George Silundika', 'CB10002', '07-Jun-2012', 500, 'SUPPLIER PAYMENT - EMBASSY-50016201', '', 'Embassy', 'George Silundika', 'CREDIT', 0)

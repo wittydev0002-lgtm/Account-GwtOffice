@@ -1,0 +1,39 @@
+C:\Embassy\gwtOffice\Light8\DateDataGridView\bin\Debug\DateDataGridView.dll
+C:\Embassy\gwtOffice\Light8\DateDataGridView\bin\Debug\DateDataGridView.pdb
+C:\Embassy\gwtOffice\Light8\DateDataGridView\bin\Debug\DateDataGridView.xml
+C:\Embassy\gwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.Resources.resources
+C:\Embassy\gwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.dll
+C:\Embassy\gwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.xml
+C:\Embassy\gwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.pdb
+C:\Embassy\gwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\DateDataGridView.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\DateDataGridView.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\DateDataGridView.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\DateDataGridView.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\DateDataGridView.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\DateDataGridView.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\DateDataGridView.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\DateDataGridView.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\DateDataGridView.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateDataGridView.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\QRCoder.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\QRCoder.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateData.F794E78E.Up2Date

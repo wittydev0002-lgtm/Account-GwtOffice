@@ -1,0 +1,222 @@
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\gwtEmployees.dll
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\gwtEmployees.pdb
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\gwtEmployees.xml
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\Light8\gwtEmployees\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmAttitudeEntries.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmDependents.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationAndTraining.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationLevels.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationSubjects.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeClassesSetup.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmGradeSetup.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobCategories.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobCategoriesListing.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobProfileSetup.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobQualificationsEntry.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmSkillsEntry.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmTaskEntries.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmTrainingAndAcademicCourses.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeDetails.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeQualifications.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeesMain.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeSubjectsGrades.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.Resources.resources
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.dll
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.xml
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.pdb
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\Light8\gwtEmployees\obj\Debug\gwtEmployees.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtEmployees.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtEmployees.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtEmployees.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmAttitudeEntries.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmDependents.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationAndTraining.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationLevels.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationSubjects.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeClassesSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmGradeSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobCategories.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobCategoriesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobProfileSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobQualificationsEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmSkillsEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmTaskEntries.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmTrainingAndAcademicCourses.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeDetails.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeQualifications.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeesMain.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeSubjectsGrades.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmAttitudeEntries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmDependents.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationAndTraining.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationLevels.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationSubjects.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeClassesSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmGradeSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobCategories.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobCategoriesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobProfileSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobQualificationsEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmSkillsEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmTaskEntries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmTrainingAndAcademicCourses.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeQualifications.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeesMain.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeSubjectsGrades.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtEmployees.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtEmployees.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtEmployees.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCryptor.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\MultiColumnComboBox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCryptor.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCryptor.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\MultiColumnComboBox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\FreeFlowDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.vbproj.CopyComplete
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtEmployees.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtEmployees.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtEmployees.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCryptor.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\MultiColumnComboBox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\MetroFramework.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\FreeFlowDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCommonLibrary.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartRichReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartColumnReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\SmartReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCryptor.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtCryptor.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\MultiColumnComboBox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\FreeFlowDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\FreeFlowDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmAttitudeEntries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmDependents.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationAndTraining.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationLevels.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEducationSubjects.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeClassesSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmGradeSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobCategories.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobCategoriesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobProfileSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmJobQualificationsEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmSkillsEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmTaskEntries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmTrainingAndAcademicCourses.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeQualifications.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeesMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.frmEmployeeSubjectsGrades.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmployees.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\obj\Debug\gwtEmplo.8D5F9346.Up2Date
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\gwtEmployees.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\QRCoder.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtEmployees\bin\Debug\QRCoder.xml

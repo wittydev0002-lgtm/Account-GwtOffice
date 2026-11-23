@@ -1,0 +1,151 @@
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\HotelManagement.dll.config
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\HotelManagement.dll
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\HotelManagement.xml
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\HotelManagement\obj\Debug\HotelManagement.Form1.resources
+C:\Embassy\gwtOffice\Light8\HotelManagement\obj\Debug\HotelManagement.frmBooking.resources
+C:\Embassy\gwtOffice\Light8\HotelManagement\obj\Debug\HotelManagement.frmHotelierMain.resources
+C:\Embassy\gwtOffice\Light8\HotelManagement\obj\Debug\HotelManagement.frmRoomSetup.resources
+C:\Embassy\gwtOffice\Light8\HotelManagement\obj\Debug\HotelManagement.Resources.resources
+C:\Embassy\gwtOffice\Light8\HotelManagement\obj\Debug\HotelManagement.dll
+C:\Embassy\gwtOffice\Light8\HotelManagement\obj\Debug\HotelManagement.xml
+C:\Embassy\gwtOffice\Light8\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Embassy\gwtOffice\Light8\HotelManagement\obj\Debug\HotelManagement.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\Light8\HotelManagement\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\Light8\HotelManagement\obj\Debug\HotelManagement.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.dll.config
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.Form1.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.frmBooking.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.frmHotelierMain.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.frmRoomSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.Form1.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.frmBooking.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.frmHotelierMain.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.frmRoomSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCryptor.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\MTGCCombobox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\MultiColumnComboBox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCryptor.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCryptor.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\MultiColumnComboBox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\FreeFlowDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.vbproj.CopyComplete
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\HotelManagement.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCryptor.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\MTGCCombobox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\MultiColumnComboBox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\MetroFramework.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\FreeFlowDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCommonLibrary.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartColumnReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\SmartReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCryptor.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\gwtCryptor.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\MultiColumnComboBox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\FreeFlowDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\FreeFlowDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.Form1.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.frmBooking.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.frmHotelierMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.frmRoomSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelManagement.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\HotelManagement\obj\Debug\HotelMan.E831BFF2.Up2Date

@@ -1,0 +1,1 @@
+data source=.\;initial catalog=AliLive;User ID=sa;Password=ochmas;provider=SQLOLEDB

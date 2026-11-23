@@ -1,0 +1,170 @@
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class frmSerialNumberSelection
+    Inherits ComponentFactory.Krypton.Toolkit.KryptonForm
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        If disposing AndAlso components IsNot Nothing Then
+            components.Dispose()
+        End If
+        MyBase.Dispose(disposing)
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.KryptonPanel1 = New ComponentFactory.Krypton.Toolkit.KryptonPanel()
+        Me.btnCancel = New ComponentFactory.Krypton.Toolkit.KryptonButton()
+        Me.btnOK = New ComponentFactory.Krypton.Toolkit.KryptonButton()
+        Me.KryptonGroup1 = New ComponentFactory.Krypton.Toolkit.KryptonGroup()
+        Me.KryptonPanel2 = New ComponentFactory.Krypton.Toolkit.KryptonPanel()
+        Me.chkSerials = New System.Windows.Forms.CheckedListBox()
+        CType(Me.KryptonPanel1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.KryptonPanel1.SuspendLayout()
+        CType(Me.KryptonGroup1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.KryptonGroup1.Panel, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.KryptonGroup1.Panel.SuspendLayout()
+        Me.KryptonGroup1.SuspendLayout()
+        CType(Me.KryptonPanel2, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.KryptonPanel2.SuspendLayout()
+        Me.SuspendLayout()
+        '
+        'KryptonPanel1
+        '
+        Me.KryptonPanel1.Controls.Add(Me.btnCancel)
+        Me.KryptonPanel1.Controls.Add(Me.btnOK)
+        Me.KryptonPanel1.Controls.Add(Me.KryptonGroup1)
+        Me.KryptonPanel1.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.KryptonPanel1.Location = New System.Drawing.Point(0, 0)
+        Me.KryptonPanel1.Name = "KryptonPanel1"
+        Me.KryptonPanel1.Padding = New System.Windows.Forms.Padding(12)
+        Me.KryptonPanel1.Size = New System.Drawing.Size(266, 387)
+        Me.KryptonPanel1.StateCommon.Color1 = System.Drawing.Color.FromArgb(CType(CType(223, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(223, Byte), Integer))
+        Me.KryptonPanel1.StateCommon.Color2 = System.Drawing.Color.White
+        Me.KryptonPanel1.StateCommon.ColorAngle = 100.0!
+        Me.KryptonPanel1.StateCommon.ColorStyle = ComponentFactory.Krypton.Toolkit.PaletteColorStyle.Rounding2
+        Me.KryptonPanel1.TabIndex = 0
+        '
+        'btnCancel
+        '
+        Me.btnCancel.Location = New System.Drawing.Point(179, 351)
+        Me.btnCancel.Name = "btnCancel"
+        Me.btnCancel.Size = New System.Drawing.Size(75, 25)
+        Me.btnCancel.StateCommon.Back.Color1 = System.Drawing.Color.FromArgb(CType(CType(223, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(223, Byte), Integer))
+        Me.btnCancel.StateCommon.Back.Color2 = System.Drawing.Color.White
+        Me.btnCancel.StateCommon.Back.ColorAngle = 100.0!
+        Me.btnCancel.StateCommon.Back.ColorStyle = ComponentFactory.Krypton.Toolkit.PaletteColorStyle.Rounding2
+        Me.btnCancel.StateCommon.Border.DrawBorders = CType((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right), ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)
+        Me.btnCancel.StateCommon.Border.Rounding = 0
+        Me.btnCancel.TabIndex = 2
+        Me.btnCancel.Values.Text = "&Cancel"
+        '
+        'btnOK
+        '
+        Me.btnOK.Location = New System.Drawing.Point(98, 351)
+        Me.btnOK.Name = "btnOK"
+        Me.btnOK.Size = New System.Drawing.Size(75, 25)
+        Me.btnOK.StateCommon.Back.Color1 = System.Drawing.Color.FromArgb(CType(CType(223, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(223, Byte), Integer))
+        Me.btnOK.StateCommon.Back.Color2 = System.Drawing.Color.White
+        Me.btnOK.StateCommon.Back.ColorAngle = 100.0!
+        Me.btnOK.StateCommon.Back.ColorStyle = ComponentFactory.Krypton.Toolkit.PaletteColorStyle.Rounding2
+        Me.btnOK.StateCommon.Border.DrawBorders = CType((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right), ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)
+        Me.btnOK.StateCommon.Border.Rounding = 0
+        Me.btnOK.TabIndex = 1
+        Me.btnOK.Values.Text = "&OK"
+        '
+        'KryptonGroup1
+        '
+        Me.KryptonGroup1.Dock = System.Windows.Forms.DockStyle.Top
+        Me.KryptonGroup1.Location = New System.Drawing.Point(12, 12)
+        Me.KryptonGroup1.Name = "KryptonGroup1"
+        '
+        'KryptonGroup1.Panel
+        '
+        Me.KryptonGroup1.Panel.Controls.Add(Me.KryptonPanel2)
+        Me.KryptonGroup1.Size = New System.Drawing.Size(242, 333)
+        Me.KryptonGroup1.StateCommon.Back.Color1 = System.Drawing.Color.Transparent
+        Me.KryptonGroup1.StateCommon.Border.DrawBorders = CType((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right), ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)
+        Me.KryptonGroup1.StateCommon.Border.Rounding = 1
+        Me.KryptonGroup1.StateCommon.Border.Width = 0
+        Me.KryptonGroup1.TabIndex = 0
+        '
+        'KryptonPanel2
+        '
+        Me.KryptonPanel2.Controls.Add(Me.chkSerials)
+        Me.KryptonPanel2.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.KryptonPanel2.Location = New System.Drawing.Point(0, 0)
+        Me.KryptonPanel2.Name = "KryptonPanel2"
+        Me.KryptonPanel2.Size = New System.Drawing.Size(240, 331)
+        Me.KryptonPanel2.TabIndex = 0
+        '
+        'chkSerials
+        '
+        Me.chkSerials.BackColor = System.Drawing.SystemColors.Window
+        Me.chkSerials.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.chkSerials.Font = New System.Drawing.Font("Arial Narrow", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.chkSerials.FormattingEnabled = True
+        Me.chkSerials.Location = New System.Drawing.Point(0, 0)
+        Me.chkSerials.Name = "chkSerials"
+        Me.chkSerials.Size = New System.Drawing.Size(240, 331)
+        Me.chkSerials.Sorted = True
+        Me.chkSerials.TabIndex = 1
+        '
+        'frmSerialNumberSelection
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(266, 387)
+        Me.ControlBox = False
+        Me.Controls.Add(Me.KryptonPanel1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
+        Me.HeaderStyle = ComponentFactory.Krypton.Toolkit.HeaderStyle.Secondary
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
+        Me.Name = "frmSerialNumberSelection"
+        Me.ShowIcon = False
+        Me.ShowInTaskbar = False
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
+        Me.StateCommon.Back.Color1 = System.Drawing.Color.FromArgb(CType(CType(223, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(223, Byte), Integer))
+        Me.StateCommon.Back.Color2 = System.Drawing.Color.White
+        Me.StateCommon.Back.ColorAngle = 100.0!
+        Me.StateCommon.Back.ColorStyle = ComponentFactory.Krypton.Toolkit.PaletteColorStyle.Rounding2
+        Me.StateCommon.Border.DrawBorders = CType((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right), ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)
+        Me.StateCommon.Border.Rounding = 0
+        Me.StateCommon.Header.Back.Color1 = System.Drawing.Color.FromArgb(CType(CType(223, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(223, Byte), Integer))
+        Me.StateCommon.Header.Back.Color2 = System.Drawing.Color.White
+        Me.StateCommon.Header.Back.ColorAngle = 100.0!
+        Me.StateCommon.Header.Back.ColorStyle = ComponentFactory.Krypton.Toolkit.PaletteColorStyle.Rounding2
+        Me.Text = "Serial Numbers"
+        CType(Me.KryptonPanel1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.KryptonPanel1.ResumeLayout(False)
+        CType(Me.KryptonGroup1.Panel, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.KryptonGroup1.Panel.ResumeLayout(False)
+        CType(Me.KryptonGroup1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.KryptonGroup1.ResumeLayout(False)
+        CType(Me.KryptonPanel2, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.KryptonPanel2.ResumeLayout(False)
+        Me.ResumeLayout(False)
+
+    End Sub
+    Friend WithEvents KryptonPanel1 As ComponentFactory.Krypton.Toolkit.KryptonPanel
+    Friend WithEvents KryptonGroup1 As ComponentFactory.Krypton.Toolkit.KryptonGroup
+    Friend WithEvents KryptonPanel2 As ComponentFactory.Krypton.Toolkit.KryptonPanel
+    Friend WithEvents btnCancel As ComponentFactory.Krypton.Toolkit.KryptonButton
+    Friend WithEvents btnOK As ComponentFactory.Krypton.Toolkit.KryptonButton
+    Friend WithEvents chkSerials As System.Windows.Forms.CheckedListBox
+End Class

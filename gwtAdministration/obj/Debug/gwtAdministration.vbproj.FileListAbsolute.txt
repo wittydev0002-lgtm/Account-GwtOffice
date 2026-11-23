@@ -1,0 +1,236 @@
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\gwtAdministration.dll
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\gwtAdministration.pdb
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\gwtAdministration.xml
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\MTGCCombobox.dll
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\Numberbox.dll
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\SmartReportWriter.dll
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\SmartReportWriter.xml
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\Numberbox.pdb
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\Numberbox.xml
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.vbprojResolveAssemblyReference.cache
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmAdministrationMain.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmCostPriceAdjustmentOnSales.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmExternalDbConnection.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmPayMethodChange.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmResetReceiptNumbers.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDailyPostings.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetailedCommissionView.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetails.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmSalesQuantityUpdate.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmSalesReconcilliation.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmSalesToAgents.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.frmTaxInvoiceCustomerDetails.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.Resources.resources
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.vbproj.GenerateResource.Cache
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.dll
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.xml
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\obj\Debug\gwtAdministration.pdb
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Embassy\WitsLibraries\Light8\gwtAdministration\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.dll
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.pdb
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.xml
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.dll
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.dll
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.dll
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.dll
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.pdb
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.xml
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.pdb
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.xml
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.pdb
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.xml
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.pdb
+D:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.xml
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.vbprojResolveAssemblyReference.cache
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmAdministrationMain.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmCostPriceAdjustmentOnSales.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmExternalDbConnection.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmPayMethodChange.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmResetReceiptNumbers.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDailyPostings.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetailedCommissionView.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetails.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesQuantityUpdate.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesReconcilliation.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesToAgents.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmTaxInvoiceCustomerDetails.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.Resources.resources
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.vbproj.GenerateResource.Cache
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.dll
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.xml
+D:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.pdb
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.dll
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.pdb
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.xml
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.dll
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.dll
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.dll
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.dll
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.pdb
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.xml
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.pdb
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.xml
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.pdb
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.xml
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.pdb
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.xml
+E:\Projects\gwtOffice\gwtAdministration\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.vbprojResolveAssemblyReference.cache
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmAdministrationMain.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmCostPriceAdjustmentOnSales.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmExternalDbConnection.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmPayMethodChange.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmResetReceiptNumbers.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDailyPostings.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetailedCommissionView.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetails.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesQuantityUpdate.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesReconcilliation.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesToAgents.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmTaxInvoiceCustomerDetails.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.Resources.resources
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.vbproj.GenerateResource.Cache
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.dll
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.xml
+E:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.pdb
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.dll
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.pdb
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.xml
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.dll
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.dll
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.dll
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.dll
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.pdb
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.xml
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.pdb
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.xml
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.pdb
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.xml
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.pdb
+F:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.xml
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.vbprojResolveAssemblyReference.cache
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmAdministrationMain.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmCostPriceAdjustmentOnSales.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmExternalDbConnection.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmPayMethodChange.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmResetReceiptNumbers.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDailyPostings.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetailedCommissionView.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetails.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesQuantityUpdate.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesReconcilliation.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesToAgents.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmTaxInvoiceCustomerDetails.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.Resources.resources
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.vbproj.GenerateResource.Cache
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.dll
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.xml
+F:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.pdb
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmAdministrationMain.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmCostPriceAdjustmentOnSales.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmExternalDbConnection.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmPayMethodChange.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmResetReceiptNumbers.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDailyPostings.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetailedCommissionView.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetails.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesQuantityUpdate.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesReconcilliation.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmSalesToAgents.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.frmTaxInvoiceCustomerDetails.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.Resources.resources
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\GenerateResource.read.1.tlog
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\GenerateResource.write.1.tlog
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.dll
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.xml
+G:\Projects\gwtOffice\gwtAdministration\obj\Debug\gwtAdministration.pdb
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.dll
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.pdb
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtAdministration.xml
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.dll
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.dll
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.dll
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.dll
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.pdb
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\gwtCommonLibrary.xml
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.pdb
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartRichReportWriter.xml
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.pdb
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartColumnReportWriter.xml
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.pdb
+G:\Projects\gwtOffice\gwtAdministration\bin\Debug\SmartReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmAdministrationMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmCostPriceAdjustmentOnSales.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmExternalDbConnection.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmPayMethodChange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmResetReceiptNumbers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDailyPostings.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetailedCommissionView.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmSalesDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmSalesQuantityUpdate.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmSalesReconcilliation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmSalesToAgents.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.frmTaxInvoiceCustomerDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\gwtAdministration.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\gwtAdministration.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\gwtAdministration.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\AdvancedDataGridViewControl.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\gwtCommonLibrary.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\MTGCCombobox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\Numberbox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\SmartColumnReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\SmartReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\SmartRichReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\gwtCryptor.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\MultiColumnComboBox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\MetroFramework.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\FreeFlowDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\AdvancedDataGridViewControl.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\AdvancedDataGridViewControl.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\gwtCommonLibrary.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\gwtCommonLibrary.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\gwtCommonLibrary.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\Numberbox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\Numberbox.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\SmartColumnReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\SmartColumnReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\SmartReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\SmartReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\SmartRichReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\SmartRichReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\gwtCryptor.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\gwtCryptor.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\MultiColumnComboBox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\FreeFlowDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\FreeFlowDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdministration.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\obj\Debug\gwtAdmin.5579B79B.Up2Date
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\QRCoder.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\gwtAdministration\bin\Debug\QRCoder.xml

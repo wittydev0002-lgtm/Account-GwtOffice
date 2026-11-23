@@ -1,0 +1,1 @@
+NEHANDA HOUSING COOP|data source=.\;initial catalog=NehandaHousingCoop;User ID=sa;Password=ochmas;provider=SQLOLEDB

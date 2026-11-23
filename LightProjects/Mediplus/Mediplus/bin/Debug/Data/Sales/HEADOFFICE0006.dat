@@ -1,0 +1,1 @@
+INSERT INTO GroupLedgerTransactions ([AccountNumber],[TransactionDate],[Amount],[TransactionType],[ContraAccount],[Description],[UserName],[UserBranch], [Reference]) VALUES ('40010001', '10/08/11', 85, 'CREDIT', '10002012', 'CASH SALE - PHIRI EMBASSY ', 'Embassy', 'HEAD OFFICE', 108)

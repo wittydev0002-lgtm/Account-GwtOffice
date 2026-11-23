@@ -1,0 +1,13 @@
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\bin\Debug\RegularExpressionsTest.exe
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\bin\Debug\RegularExpressionsTest.pdb
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\bin\Debug\RegularExpressionsTest.xml
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\obj\x86\Debug\RegularExpressionsTest.Form1.resources
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\obj\x86\Debug\RegularExpressionsTest.Resources.resources
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\obj\x86\Debug\RegularExpressionsTest.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\obj\x86\Debug\RegularExpressionsTest.exe
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\obj\x86\Debug\RegularExpressionsTest.xml
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\obj\x86\Debug\RegularExpressionsTest.pdb
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice\RegularExpressionsTest\RegularExpressionsTest\obj\x86\Debug\RegularExpressionsTest.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,112 @@
+C:\Embassy\gwtOffice\LightInvoice\bin\Debug\LightInvoice.dll.config
+C:\Embassy\gwtOffice\LightInvoice\bin\Debug\LightInvoice.dll
+C:\Embassy\gwtOffice\LightInvoice\bin\Debug\LightInvoice.pdb
+C:\Embassy\gwtOffice\LightInvoice\bin\Debug\LightInvoice.xml
+C:\Embassy\gwtOffice\LightInvoice\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\LightInvoice\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\LightInvoice\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\LightInvoice\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\LightInvoice\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\LightInvoice\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\LightInvoice\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\gwtLightInvoice.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmAdvanceInvoiceSettlement.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmAgingAnalysisParameters.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmBrowseDebtors.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmCashbookExpenses.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmCashbookSelection.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmCreditNoteEntry.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmCustomerAccountsAdjustment.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmCustomerCashSale.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmCustomerDetails.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmCustomerReferenceChange.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmCustomerTradingHistory.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmDenyAcces.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmDocumentConversion.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmEmailDocument.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmFindInventory.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmInvoice.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmInvoiceDeliveryNote.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmInvoiceMain.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmInvoiceSeries.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmMatchInvoicesToPayments.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmPastEmployers.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmPrintCopies.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmPrinterSetup.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmProformaInvoice.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmQuotation.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmSupervisorAuthorizaton.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.frmTenderAmount.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.Resources.resources
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\gwtLightInvoice.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.dll
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.xml
+C:\Embassy\gwtOffice\LightInvoice\obj\Debug\LightInvoice.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\gwtLightInvoice.vbprojAssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmAdvanceInvoiceSettlement.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmAgingAnalysisParameters.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmBrowseDebtors.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCashbookExpenses.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCashbookSelection.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCreditNoteEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCustomerAccountsAdjustment.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCustomerCashSale.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCustomerDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCustomerReferenceChange.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCustomerTradingHistory.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmDenyAcces.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmDocumentConversion.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmEmailDocument.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmFindInventory.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmInvoice.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmInvoiceDeliveryNote.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmInvoiceMain.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmInvoiceSeries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmMatchInvoicesToPayments.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmPastEmployers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmPrintCopies.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmPrinterSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmProformaInvoice.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmQuotation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmSupervisorAuthorizaton.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmTenderAmount.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\gwtLightInvoice.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\gwtLightInvoice.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\gwtLightInvoice.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmAdvanceInvoiceSettlement.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmAgingAnalysisParameters.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmBrowseDebtors.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCashbookExpenses.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCashbookSelection.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCreditNoteEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCustomerAccountsAdjustment.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCustomerCashSale.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCustomerDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCustomerReferenceChange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmCustomerTradingHistory.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmDenyAcces.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmDocumentConversion.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmEmailDocument.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmFindInventory.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmInvoice.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmInvoiceDeliveryNote.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmInvoiceMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmInvoiceSeries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmMatchInvoicesToPayments.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmPastEmployers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmPrintCopies.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmPrinterSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmProformaInvoice.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmQuotation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmSupervisorAuthorizaton.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.frmTenderAmount.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\gwtLightInvoice.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\gwtLightInvoice.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightInvoice\obj\Debug\LightInvoice.pdb

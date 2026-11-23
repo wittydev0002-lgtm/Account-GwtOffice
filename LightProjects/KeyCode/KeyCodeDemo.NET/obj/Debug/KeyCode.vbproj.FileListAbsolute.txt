@@ -1,0 +1,9 @@
+C:\Embassy\gwtOffice\KeyCode\KeyCodeDemo.NET\obj\Debug\KeyCode.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\KeyCode\KeyCodeDemo.NET\bin\KeyCodeDemo.exe
+C:\Embassy\gwtOffice\KeyCode\KeyCodeDemo.NET\bin\KeyCodeDemo.pdb
+C:\Embassy\gwtOffice\KeyCode\KeyCodeDemo.NET\bin\KeyCodeDemo.xml
+C:\Embassy\gwtOffice\KeyCode\KeyCodeDemo.NET\obj\Debug\KeyCodeDemo.exe
+C:\Embassy\gwtOffice\KeyCode\KeyCodeDemo.NET\obj\Debug\KeyCodeDemo.xml
+C:\Embassy\gwtOffice\KeyCode\KeyCodeDemo.NET\obj\Debug\KeyCodeDemo.pdb
+C:\Embassy\gwtOffice\KeyCode\KeyCodeDemo.NET\obj\Debug\KeyCodeDemo.frmApplicationLicensing.resources
+C:\Embassy\gwtOffice\KeyCode\KeyCodeDemo.NET\obj\Debug\KeyCodeDemo.frmKeyGenerator.resources

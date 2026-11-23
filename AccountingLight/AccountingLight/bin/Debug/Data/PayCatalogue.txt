@@ -1,0 +1,15 @@
+GOLDTECH GEORGE SILUNDIKA ACCOUNTS LIVE|data source=.\;initial catalog=NewGoldtech;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH MUTARE HC MAY 2016|data source=.\;initial catalog=MutareMay2016;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH MUTARE HC JUNE 2016|data source=.\;initial catalog=MTREJUNE2016;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH NETWORK|data source=TILL001-PC;initial catalog=NewGoldtech;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH FULL|data source=.\;initial catalog=GTFULL;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GREAT WITS TECHNOLOGIES|data source=.\;initial catalog=Greatwits;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALI AIR SOUTH AFRICA-2016|data source=.\;initial catalog=Aliair_2016;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALI AIR SOUTH AFRICA-2015|data source=.\;initial catalog=Aliair;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALI AIR SOUTH AFRICA-YE15|data source=.\;initial catalog=GtiYearEnd2016;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALI AIR SA TAX YEAR|data source=.\;initial catalog=Gti2016a;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALI AIR SA 2015|data source=.\;initial catalog=GTI_29MAR2016;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GTE MUTARE-04|data source=.\;initial catalog=GTECHMTR_04;User ID=sa;Password=ochmas;provider=SQLOLEDB
+MANGWANA AND PARTNERS|data source=.\;initial catalog=MangwanaLocalLive;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALRICH PAINT AND BRUSH|data source=.\;initial catalog=Alrich;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH MUTARE JULY|data source=.\;initial catalog=MTR_JULY_2016;User ID=sa;Password=ochmas;provider=SQLOLEDB

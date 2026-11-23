@@ -1,0 +1,241 @@
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\LightPurchasing.dll.config
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\LightPurchasing.dll
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\LightPurchasing.pdb
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\LightPurchasing.xml
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\LightPurchasing\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmCategorySetup.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmGoodReceivingMain.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmGoodsReceipt.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmInventoryNewCode.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmInventorySetup.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmOrderFromInventory.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmOrdersPlacement.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmPurchasingMain.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmQuantitySplit.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmReceivedItemsCostAdjust.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmReceivedOrdersAccountsPosting.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmResetAndReinputInventory.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmSerialNumbersEntry.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmShortCodeDescriptionSetup.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmSubCategorySetup.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierAccountPayments.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierDetails.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierGroupings.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierInvoice.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierOrdersListing.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.Resources.resources
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.dll
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.xml
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.pdb
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\LightPurchasing\obj\Debug\LightPurchasing.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.dll.config
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.dll
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.pdb
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.xml
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmCategorySetup.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmGoodReceivingMain.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmGoodsReceipt.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmInventoryNewCode.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmInventorySetup.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmOrderFromInventory.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmOrdersPlacement.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmPurchasingMain.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmQuantitySplit.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmReceivedItemsCostAdjust.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmReceivedOrdersAccountsPosting.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmResetAndReinputInventory.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSerialNumbersEntry.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmShortCodeDescriptionSetup.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSubCategorySetup.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierAccountPayments.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierDetails.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierGroupings.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierInvoice.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierOrdersListing.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.dll
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.xml
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.pdb
+C:\Embassy\gwtOffice_Goldtech\LightPurchasing\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmCategorySetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmGoodReceivingMain.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmGoodsReceipt.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmInventoryNewCode.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmInventorySetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmOrderFromInventory.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmOrdersPlacement.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmPurchasingMain.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmQuantitySplit.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmReceivedItemsCostAdjust.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmReceivedOrdersAccountsPosting.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmResetAndReinputInventory.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSerialNumbersEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmShortCodeDescriptionSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSubCategorySetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierAccountPayments.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierGroupings.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierInvoice.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierOrdersListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\MTGCCombobox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\Numberbox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCryptor.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\MultiColumnComboBox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCommonLibrary.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\Numberbox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\Numberbox.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCryptor.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCryptor.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\MultiColumnComboBox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\FreeFlowDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.vbproj.CopyComplete
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\LightPurchasing.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCommonLibrary.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\MTGCCombobox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\Numberbox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartColumnReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartRichReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCryptor.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\MultiColumnComboBox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\MetroFramework.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\FreeFlowDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCommonLibrary.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCommonLibrary.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCommonLibrary.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartRichReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartRichReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\Numberbox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\Numberbox.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartColumnReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartColumnReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\SmartReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCryptor.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\gwtCryptor.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\MultiColumnComboBox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\FreeFlowDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\FreeFlowDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmCategorySetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmGoodReceivingMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmGoodsReceipt.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmInventoryNewCode.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmInventorySetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmOrderFromInventory.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmOrdersPlacement.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmPurchasingMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmQuantitySplit.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmReceivedItemsCostAdjust.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmReceivedOrdersAccountsPosting.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmResetAndReinputInventory.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSerialNumbersEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmShortCodeDescriptionSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSubCategorySetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierAccountPayments.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierGroupings.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierInvoice.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.frmSupplierOrdersListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPurchasing.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\obj\Debug\LightPur.98C4126B.Up2Date
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\QRCoder.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\LightPurchasing\bin\Debug\QRCoder.xml

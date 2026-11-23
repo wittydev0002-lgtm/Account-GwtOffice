@@ -1,0 +1,101 @@
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\CustomerDocumentWriter.dll
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\CustomerDocumentWriter.pdb
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\CustomerDocumentWriter.xml
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.Resources.resources
+C:\Embassy\gwtOffice\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.dll
+C:\Embassy\gwtOffice\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.xml
+C:\Embassy\gwtOffice\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.pdb
+C:\Embassy\gwtOffice\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\Light8\DocumentWriter\bin\Debug\Numberbox.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.vbprojAssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\CustomerDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\CustomerDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\CustomerDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCryptor.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\MTGCCombobox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\MultiColumnComboBox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\Numberbox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCommonLibrary.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCryptor.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCryptor.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\MultiColumnComboBox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\Numberbox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\Numberbox.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.vbproj.CopyComplete
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\CustomerDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\CustomerDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\CustomerDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCommonLibrary.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartColumnReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\AdvancedDataGridViewControl.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCryptor.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\MTGCCombobox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\Numberbox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\MultiColumnComboBox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\MetroFramework.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\FreeFlowDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCommonLibrary.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCommonLibrary.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCommonLibrary.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartColumnReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartColumnReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\SmartReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\AdvancedDataGridViewControl.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\AdvancedDataGridViewControl.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCryptor.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\gwtCryptor.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\Numberbox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\Numberbox.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\MultiColumnComboBox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\FreeFlowDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\bin\Debug\FreeFlowDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\CustomerDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DocumentWriter\obj\Debug\Customer.C1447E20.Up2Date

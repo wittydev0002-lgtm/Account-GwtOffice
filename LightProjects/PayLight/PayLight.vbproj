@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C2AD50E7-54FF-4CE0-8BD8-E7213D60C98C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>PayLight</RootNamespace>
+    <AssemblyName>PayLight</AssemblyName>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PayLight.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PayLight.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Dollar.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridViewControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.7.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MTGCCombobox">
+      <HintPath>..\..\Controls\MTGCCombobox.dll</HintPath>
+    </Reference>
+    <Reference Include="Numberbox">
+      <HintPath>..\..\Controls\Numberbox\Numberbox\bin\Debug\Numberbox.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartColumnReportWriter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SmartColumnReportWriter\SmartColumnReportWriter\bin\Debug\SmartColumnReportWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartReportWriter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SmartReportWriter\SmartReportWriter\bin\Debug\SmartReportWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonFunctions.vb" />
+    <Compile Include="frmAuditPrintSpecification.Designer.vb">
+      <DependentUpon>frmAuditPrintSpecification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAuditPrintSpecification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBankExtract.Designer.vb">
+      <DependentUpon>frmBankExtract.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBankExtract.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDateSpecificationCustom.Designer.vb">
+      <DependentUpon>frmDateSpecificationCustom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDateSpecificationCustom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeFlagOptions.Designer.vb">
+      <DependentUpon>frmEmployeeFlagOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeFlagOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeSplitBanks.Designer.vb">
+      <DependentUpon>frmEmployeeSplitBanks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeSplitBanks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeTaxCertificates.Designer.vb">
+      <DependentUpon>frmEmployeeTaxCertificates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeTaxCertificates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExtractName.Designer.vb">
+      <DependentUpon>frmExtractName.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmExtractName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeDetails.Designer.vb">
+      <DependentUpon>frmEmployeeDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaylightMain.Designer.vb">
+      <DependentUpon>frmPaylightMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaylightMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPayrollSummarySortOptions.Designer.vb">
+      <DependentUpon>frmPayrollSummarySortOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPayrollSummarySortOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintPayrollRegister.Designer.vb">
+      <DependentUpon>frmPrintPayrollRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintPayrollRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportDefinition.Designer.vb">
+      <DependentUpon>frmReportDefinition.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportDefinition.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRunMode.Designer.vb">
+      <DependentUpon>frmRunMode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRunMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTransactionBatches.Designer.vb">
+      <DependentUpon>frmTransactionBatches.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTransactionBatches.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTransactionBatchesListing.Designer.vb">
+      <DependentUpon>frmTransactionBatchesListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTransactionBatchesListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListViewColumnSorter.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Payroll.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAuditPrintSpecification.resx">
+      <DependentUpon>frmAuditPrintSpecification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBankExtract.resx">
+      <DependentUpon>frmBankExtract.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDateSpecificationCustom.resx">
+      <DependentUpon>frmDateSpecificationCustom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeFlagOptions.resx">
+      <DependentUpon>frmEmployeeFlagOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeSplitBanks.resx">
+      <DependentUpon>frmEmployeeSplitBanks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeTaxCertificates.resx">
+      <DependentUpon>frmEmployeeTaxCertificates.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExtractName.resx">
+      <DependentUpon>frmExtractName.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeDetails.resx">
+      <DependentUpon>frmEmployeeDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaylightMain.resx">
+      <DependentUpon>frmPaylightMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPayrollSummarySortOptions.resx">
+      <DependentUpon>frmPayrollSummarySortOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintPayrollRegister.resx">
+      <DependentUpon>frmPrintPayrollRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportDefinition.resx">
+      <DependentUpon>frmReportDefinition.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRunMode.resx">
+      <DependentUpon>frmRunMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTransactionBatches.resx">
+      <DependentUpon>frmTransactionBatches.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTransactionBatchesListing.resx">
+      <DependentUpon>frmTransactionBatchesListing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\gwtCommonLibrary\gwtCommonLibrary\gwtCommonLibrary.vbproj">
+      <Project>{F666E796-F44A-42E9-9343-E533B7458620}</Project>
+      <Name>gwtCommonLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Dollar.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

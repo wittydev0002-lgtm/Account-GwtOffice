@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "eManager", "eManager\eManager.vbproj", "{A4F98C55-19A7-41C3-9E00-B4B29E0530E7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "eManagerDeploy", "eManagerDeploy\eManagerDeploy.vdproj", "{BE659109-14C5-42BE-836C-A5CA5DCFEFFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4F98C55-19A7-41C3-9E00-B4B29E0530E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F98C55-19A7-41C3-9E00-B4B29E0530E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F98C55-19A7-41C3-9E00-B4B29E0530E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F98C55-19A7-41C3-9E00-B4B29E0530E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE659109-14C5-42BE-836C-A5CA5DCFEFFF}.Debug|Any CPU.ActiveCfg = Debug
+		{BE659109-14C5-42BE-836C-A5CA5DCFEFFF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

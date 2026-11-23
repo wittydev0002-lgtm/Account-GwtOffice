@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DebtCollector
+</name>
+</assembly>
+<members>
+<member name="M:DebtCollector.clTreeUtil.FlattenBreath(System.Windows.Forms.TreeView)">
+	<summary>
+ This static utiltiy method flattens all the nodes in a tree view using
+ a queue based breath first search rather than the overhead
+ of recursive method calls.
+ </summary>
+	<param name="tree"></param>
+	<returns></returns>
+</member><member name="M:DebtCollector.clTreeUtil.FlattenDepth(System.Windows.Forms.TreeView)">
+	<summary>
+ This static utiltiy method flattens all the nodes in a tree view using
+ a stack based depth first search rather than the overhead
+ of recursive method calls.
+ </summary>
+	<param name="tree"></param>
+	<returns></returns>
+</member><member name="P:DebtCollector.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DebtCollector.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DebtCollector.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

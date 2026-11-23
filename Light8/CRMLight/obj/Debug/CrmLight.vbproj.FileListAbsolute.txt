@@ -1,0 +1,155 @@
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\CrmLight.dll.config
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\CrmLight.dll
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\CrmLight.pdb
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\CrmLight.xml
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\CRMLight\obj\Debug\CRMLight.frmCrmOne.resources
+C:\Embassy\gwtOffice\Light8\CRMLight\obj\Debug\CRMLight.frmCrmServices.resources
+C:\Embassy\gwtOffice\Light8\CRMLight\obj\Debug\CRMLight.frmCrmNoteEntry.resources
+C:\Embassy\gwtOffice\Light8\CRMLight\obj\Debug\CRMLight.frmCrmProspectSetup.resources
+C:\Embassy\gwtOffice\Light8\CRMLight\obj\Debug\CRMLight.Resources.resources
+C:\Embassy\gwtOffice\Light8\CRMLight\obj\Debug\CrmLight.dll
+C:\Embassy\gwtOffice\Light8\CRMLight\obj\Debug\CrmLight.xml
+C:\Embassy\gwtOffice\Light8\CRMLight\obj\Debug\CrmLight.pdb
+C:\Embassy\gwtOffice\Light8\CRMLight\obj\Debug\CrmLight.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\Light8\CRMLight\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\Light8\CRMLight\obj\Debug\CrmLight.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.dll.config
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmOne.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmServices.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmNoteEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmProspectSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmOne.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmServices.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmNoteEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmProspectSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCryptor.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\MultiColumnComboBox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCommonLibrary.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCryptor.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCryptor.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\MultiColumnComboBox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\FreeFlowDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.vbproj.CopyComplete
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\CrmLight.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCommonLibrary.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCryptor.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\MultiColumnComboBox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\MetroFramework.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\FreeFlowDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCommonLibrary.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCommonLibrary.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCommonLibrary.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartColumnReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\SmartReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCryptor.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\gwtCryptor.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\MultiColumnComboBox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\FreeFlowDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\FreeFlowDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmOne.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmServices.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmNoteEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.frmCrmProspectSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CRMLight.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\CRMLight\obj\Debug\CrmLight.vbproj.Up2Date

@@ -1,0 +1,1 @@
+OCHMAS DEMO SYSTEM|data source=.\;initial catalog=Ochmas;User ID=sa;Password=ochmas;provider=SQLOLEDB

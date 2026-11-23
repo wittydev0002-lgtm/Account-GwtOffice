@@ -1,0 +1,1 @@
+data source=.\;initial catalog=Aliair_2016;User ID=sa;Password=ochmas;provider=SQLOLEDB

@@ -1,0 +1,244 @@
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\GreatPayLight.exe.config
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\GreatPayLight.exe
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\GreatPayLight.pdb
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\GreatPayLight.xml
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\Light8\GreatPayLight\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmAddBank.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmAttitudeEntries.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmAuditPrintSpecification.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBankAccountEntry.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBankCodeChange.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBankExtract.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBanksMaintenance.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBanksPreview.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBranchDetails.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDateSpecificationCustom.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeSplitBanks.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeTaxCertificates.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmExtractName.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFinancialPeriods.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmImportBanksFileName.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmOrganisation.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollBatchesListing.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBrowseCodes.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCalculations.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCalculationsView.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCodes.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCodeSetup.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmConstants.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDbConfiguration.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDependents.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDisplayConstants.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeClassesSetup.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeDetails.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeFlagOptions.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeListing.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeQualifications.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeSubjectsGrades.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeesWithValue.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFlags.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFlagsListing.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFunctionsDefinition.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmGradeSetup.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmJobCategories.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmJobProfileSetup.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmJobQualificationsEntry.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmKeyData.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmLeaveApplication.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmLogin.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmMainController.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmNewCalculation.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollBatches.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollRuns.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollSummarySortOptions.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollUserReportsListing.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPaywellImports.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPersonnelPastEmployers.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPrintPayrollRegister.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmReportWriter.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmRunBackup.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmRunMode.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSkillsEntry.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSplitCodesSetup.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSystemDates.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSystemReferences.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTaskEntries.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTrekkedFields.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTrekkedFieldsPrintSpecifications.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTrekkedFieldsUpdate.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmUsedIndicators.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmUserSecurityProfile.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.Resources.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.exe
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.xml
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.pdb
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCalendarSetup.resources
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.vbproj.GenerateResource.Cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.vbprojAssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmAddBank.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmAttitudeEntries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmAuditPrintSpecification.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBankAccountEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBankCodeChange.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBankExtract.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBanksMaintenance.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBanksPreview.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBranchDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCalendarSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDateSpecificationCustom.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeSplitBanks.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeTaxCertificates.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmExtractName.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFinancialPeriods.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmImportBanksFileName.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmOrganisation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollBatchesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBrowseCodes.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCalculations.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCalculationsView.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCodes.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCodeSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmConstants.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDbConfiguration.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDependents.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDisplayConstants.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeClassesSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeFlagOptions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeQualifications.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeSubjectsGrades.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeesWithValue.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFlags.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFlagsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFunctionsDefinition.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmGradeSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmJobCategories.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmJobProfileSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmJobQualificationsEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmKeyData.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmLeaveApplication.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmLogin.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmMainController.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmNewCalculation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollBatches.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollRuns.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollSummarySortOptions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollUserReportsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPaywellImports.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPersonnelPastEmployers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPrintPayrollRegister.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmReportWriter.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmRunBackup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmRunMode.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSkillsEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSplitCodesSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSystemDates.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSystemReferences.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTaskEntries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTrekkedFields.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTrekkedFieldsPrintSpecifications.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTrekkedFieldsUpdate.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmUsedIndicators.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmUserSecurityProfile.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.exe
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmAddBank.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmAttitudeEntries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmAuditPrintSpecification.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBankAccountEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBankCodeChange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBankExtract.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBanksMaintenance.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBanksPreview.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBranchDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCalendarSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDateSpecificationCustom.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeSplitBanks.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeTaxCertificates.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmExtractName.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFinancialPeriods.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmImportBanksFileName.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmOrganisation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollBatchesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmBrowseCodes.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCalculations.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCalculationsView.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCodes.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmCodeSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmConstants.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDbConfiguration.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDependents.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmDisplayConstants.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeClassesSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeFlagOptions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeQualifications.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeeSubjectsGrades.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmEmployeesWithValue.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFlags.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFlagsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmFunctionsDefinition.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmGradeSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmJobCategories.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmJobProfileSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmJobQualificationsEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmKeyData.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmLeaveApplication.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmLogin.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmMainController.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmNewCalculation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollBatches.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollRuns.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollSummarySortOptions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPayrollUserReportsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPaywellImports.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPersonnelPastEmployers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmPrintPayrollRegister.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmReportWriter.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmRunBackup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmRunMode.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSkillsEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSplitCodesSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSystemDates.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmSystemReferences.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTaskEntries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTrekkedFields.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTrekkedFieldsPrintSpecifications.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmTrekkedFieldsUpdate.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmUsedIndicators.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.frmUserSecurityProfile.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.exe
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.vbproj.SuggestedBindingRedirects.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\GreatPayLight\obj\x86\Debug\GreatPayLight.exe.config

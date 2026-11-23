@@ -1,0 +1,1 @@
+MEDILIGHT PLUS|data source=.\;initial catalog=LightLibrary;User ID=sa;Password=ochmas;provider=SQLOLEDB

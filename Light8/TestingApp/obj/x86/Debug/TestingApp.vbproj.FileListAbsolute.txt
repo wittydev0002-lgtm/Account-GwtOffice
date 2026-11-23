@@ -1,0 +1,40 @@
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\TestingApp.exe.config
+C:\Embassy\gwtOffice\Light8\TestingApp\obj\x86\Debug\TestingApp.exe
+C:\Embassy\gwtOffice\Light8\TestingApp\obj\x86\Debug\TestingApp.xml
+C:\Embassy\gwtOffice\Light8\TestingApp\obj\x86\Debug\TestingApp.pdb
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\TestingApp.exe
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\TestingApp.pdb
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\TestingApp.xml
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\CustomerDocumentWriter.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\Guifreaks.Navisuite.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\Guifreaks.Common.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\CustomerDocumentWriter.pdb
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\CustomerDocumentWriter.xml
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\ar\Guifreaks.Navisuite.resources.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\nl-nl\Guifreaks.Navisuite.resources.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\Guifreaks.Navisuite.XmlSerializers.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\obj\x86\Debug\TestingApp.Form1.resources
+C:\Embassy\gwtOffice\Light8\TestingApp\obj\x86\Debug\TestingApp.Resources.resources
+C:\Embassy\gwtOffice\Light8\TestingApp\obj\x86\Debug\TestingApp.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice\Light8\TestingApp\obj\x86\Debug\TestingApp.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\Light8\TestingApp\bin\Debug\Numberbox.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\TestingApp\obj\x86\Debug\TestingApp.vbprojAssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\TestingApp\obj\x86\Debug\TestingApp.Form1.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\TestingApp\obj\x86\Debug\TestingApp.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\TestingApp\obj\x86\Debug\TestingApp.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\TestingApp\obj\x86\Debug\TestingApp.vbproj.CoreCompileInputs.cache

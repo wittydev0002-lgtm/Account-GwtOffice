@@ -1,0 +1,1608 @@
+C:\Embassy\Light8\Light8\bin\Debug\Light8.exe
+C:\Embassy\Light8\Light8\bin\Debug\Light8.pdb
+C:\Embassy\Light8\Light8\bin\Debug\Light8.xml
+C:\Embassy\Light8\Light8\obj\Debug\Light8.vbprojResolveAssemblyReference.cache
+C:\Embassy\Light8\Light8\obj\Debug\Light8.Resources.resources
+C:\Embassy\Light8\Light8\obj\Debug\Light8.vbproj.GenerateResource.Cache
+C:\Embassy\Light8\Light8\obj\Debug\Light8.exe
+C:\Embassy\Light8\Light8\obj\Debug\Light8.xml
+C:\Embassy\Light8\Light8\obj\Debug\Light8.pdb
+C:\Embassy\Light8\Light8\obj\Debug\Light8.Form2.resources
+C:\Embassy\Light8\Light8\obj\Debug\Light8.frmOne.resources
+C:\Embassy\Light8\Light8\obj\Debug\Light8.Form1.resources
+C:\Embassy\Light8\Light8\bin\Debug\appcontrol.dll
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.Form1.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.Form3.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAbout.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAccountSettlement.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAdvancedSearch.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAdvanceInvoiceSettlement.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAssetCategories.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAssetCategoriesListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAssetDisposal.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAssetListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAssetRegistry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAttitudeEntries.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBankCodeChange.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBankExtract.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBanksMaintenance.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBanksPreview.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBatchMaster.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBillEntry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBillsListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBrowseCodes.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBrowseLaybyeCustomer.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBrowseLoanCustomer.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBulkSmsMessage.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCalculations.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCalculationsView.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCalendarSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCashbookDataEntry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCashBookListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCashbookSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCashbookTransactions.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmClaimsComment.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmClientBalances.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmClientRefunds.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCodes.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCodeSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmConstants.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCreditNoteEntry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCreditNotesListings.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCrmNoteEntry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCrmProspectSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCrmServices.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCustomerAccountsAdjustment.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCustomerDetails.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCustomerKeyInformation.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCustomerReferenceChange.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCrmListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCustomersListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCustomerTradingHistory.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDailySales.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDatabaseSynchronizationPointers.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDebitCreditNoteEntry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDebitNotesListings.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDeliveryItemsView.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDeliveryNotesListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDependents.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDisplayConstants.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDocumentBuilder.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDocumentConversion.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDocumentFieldsView.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDocumentKeyFields.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEducationCourses.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEducationCoursesView.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEducationLevels.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEducationSubjects.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEmailDocument.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEmployeeClassesSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEmployeeDetails.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEmployeeFlagOptions.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEmployeeListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEmployeeQualifications.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEmployeeSplitBanks.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEmployeeSubjectsGrades.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEmployeesWithValue.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmEmployeeTaxCertificates.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmErrorMessages.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmExtractName.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFarmerInvoice.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFarmersAdvancement.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFarmersData.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFarmersListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFarmersLoanRepayment.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFarmersPrintingOptions.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFinancialYearEndClearDown.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFind.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFlags.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFlagsListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFunctionsDefinition.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmGatePassesListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAccountBudgeting.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAdvancedLedgerAccountChanges.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmApplicationActivation.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAuditPrintSpecification.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBankAccountEntry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBranchDetails.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBudgets.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCategoriesListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmCategorySetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDatabaseDataInterchange.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDatabaseSynchronization.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDateBranchFilter.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDbConfiguration.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmFinancialPeriods.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmGatePasses.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmGatePassPrintOptions.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmGoodReceivingMain.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmGoodsReceipt.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmGoodsReceiptListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmGradeSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmImportBanksFileName.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmImportSalesFromTillslipFile.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryReceiving.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmHomePageCustomization.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryClone.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryCodeChange.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryCodeReferences.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryCodesMerge.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryCostsMassUpdate.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryImportFromFile.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryItemsDeletedListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryMaster.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryNewCode.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryQuantityFilter.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventorySalesCostPriceAdjustment.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventorySalesHistoryAnalysis.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventorySetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventorySpecials.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventorySpecialsView.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryStockTakeCount.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryTransfers.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInvoice.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInvoiceCustomerDetails.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInvoiceDeliveryNote.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInvoiceSeries.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInvoicesListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmItfParameters.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJobCardEntry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJobCardInvoiceDetails.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJobCategories.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJobCategoriesListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJobInvoicing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJobProfileSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJobQualificationsEntry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJobsAndServices.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJobsListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJobsServiceParameters.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJournalEntry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmJournals.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmKeyData.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmProvinceSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLaybyCustomer.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLaybyCustomersListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLaybyeCashout.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLaybyeSalesPreview.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLaybyeSettlement.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLeaveApplication.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLedgerAccountCodeChange.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLedgerAccountsSetupListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLedgerTransactions.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.Form2.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLinkedTransactions.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLinkTransaction.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoanAdvancement.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoanCustomers.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoanRepayment.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoansCustomerListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoansListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoanTypes.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoanTypesListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLogin.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoyalityBenefitSetupSelection.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoyalityCategories.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoyalityCategoryUpdates.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoyalityCustmerTransactionEntries.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomers.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomersImport.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomersListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramDiscountsSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramFreebiesSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramsListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLoyaltyCustomerSales.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmMatchInvoicesToPayments.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmMonthlyAccounts.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmMultipleSerialNumbersSelection.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmNewCalculation.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmOpenExpenses.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmOpenProjectClaims.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmOrderFromInventory.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmOrdersListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmOrdersPlacement.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmOrganisation.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPackSize.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPasswordChange.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPastEmployers.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPayrollBatches.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPayrollBatchesListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPayrollRuns.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPayrollUserReportsListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPaywellImports.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPersonnelPastEmployers.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPosMain.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPrintCopies.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPrinterSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmPrintPayrollRegister.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmProformaInvoice.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmProformaInvoiceListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmProjectCallings.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmProjectClaims.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmProjectExpenses.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmProjectResources.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmProjectSelect.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmProjectSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmProjectsListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmInventoryQuantitySplit.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmQuantityUpdate.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmQuotation.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmQuotationsListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmReceivedOrdersAccountsPosting.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmReplace.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmReportDefinition.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmReportSheet.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmReportWriter.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmResetAndReinputInventory.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmResetReceiptNumbers.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmRsaPrimaryRebates.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmRunBackup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmRunMode.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmRunRestore.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSalesAlertTimes.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSalesDetails.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSalesQuantityUpdate.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSalesReturns.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSalesReturnsPlus.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSalesSerialNumbers.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSalesTaxPreview.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSerialCodeChange.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSerialNumberSelection.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSerialNumbersEntry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSerialTracking.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmServerPath.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmShortCodeDescriptionSetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSkillsEntry.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSmsHttpSettings.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSmsMessages.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSqlQueries.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSubCategorySetup.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSupplierAccountPayments.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSupplierDetails.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSupplierGroupings.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSupplierInvoiceEntries.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSupplierInvoicesListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSupplierListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSupplierPayments.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSystemDates.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmSystemReferences.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmTableFields.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmTaskEntries.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBatchTransactions.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBatchesListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmTaxTables.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmTenderAmount.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmTransactions.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmTrekkedFields.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmTrekkedFieldsPrintSpecifications.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmTrekkedFieldsUpdate.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmUnitsOfMeasure.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmUnpaidDocuments.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmUsedIndicators.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmUserDefinedFormFields.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmUserSecurityProfile.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmWarehouseStockIssues.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmWebBatchesView.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmWebBrowse.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmWifiDashBoard.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmWifiSettings.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmWifiTrendAnalysis.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.MainPanel.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.Resources.resources
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Light8.exe.config
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Light8.exe
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Light8.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Light8.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Aga.Controls.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\CodeEngine.Framework.QueryBuilder.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\ControlPrint.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\CoopLight.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\CrmLight.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\DateDataGridView.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\EncryptDecryptData.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\ExcelSheetDataGrid.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\ExpandableGridView.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gCursor.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Guifreaks.Common.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Guifreaks.NavigationBar.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtAccounting.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtAdministration.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtAssets.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtCashbook.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtEmployees.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtInventory.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtprconfig.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\HotelManagement.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\LightPurchasing.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\MOC.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\ObjectListView.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\PatientPlus.exe
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\ProjectLight.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartDocumentWriter.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\ToolBox.exe
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Ai.Control.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\EncryptDecryptData.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtAccounting.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtAccounting.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtAdministration.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtAdministration.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtCashbook.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtCashbook.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtInventory.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtInventory.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\CoopLight.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\CoopLight.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\DebtCollector.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\DebtCollector.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\LightPurchasing.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\LightPurchasing.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\MOC.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\MOC.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\ProjectLight.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\ProjectLight.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartDocumentWriter.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartDocumentWriter.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\CrmLight.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\CrmLight.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\DateDataGridView.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\DateDataGridView.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtAssets.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtAssets.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtEmployees.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtEmployees.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtprconfig.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\gwtprconfig.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\HotelManagement.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\HotelManagement.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\PatientPlus.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\PatientPlus.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Aga.Controls.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\ObjectListView.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\ObjectListView.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.exe
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.xml
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.pdb
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLinkedTransactionsEdit.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmAmortizer.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBaleDetails.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBaleHeader.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBaleListing.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBalesOutput.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBaleBatchFile.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBaleDispatchDetails.resources
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\FreeFlowDocumentWriter.xml
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBaleGrades.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBaleAnalysis.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBaleSummaries.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBaleBatchFileReversal.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmBaleFileRegenerate.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmDecontractReason.resources
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.Form4.resources
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\DebtCollector.exe
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\POS.dll
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\POS.pdb
+C:\Embassy\gwtOffice\Light8\Light8\bin\Debug\POS.xml
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice\Light8\Light8\obj\Debug\Light8.frmLightMain.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.exe.config
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.exe
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Aga.Controls.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CodeEngine.Framework.QueryBuilder.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ControlPrint.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CoopLight.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CrmLight.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DateDataGridView.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DebtCollector.exe
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\EncryptDecryptData.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ExcelSheetDataGrid.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ExpandableGridView.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gCursor.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Guifreaks.Common.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Guifreaks.NavigationBar.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAccounting.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAdministration.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAssets.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCashbook.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtEmployees.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtInventory.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtprconfig.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\HotelManagement.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\LightPurchasing.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\MOC.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ObjectListView.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\PatientPlus.exe
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ProjectLight.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartDocumentWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ToolBox.exe
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\MetroFramework.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Ai.Control.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\EncryptDecryptData.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAccounting.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAccounting.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAdministration.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAdministration.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCashbook.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCashbook.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtInventory.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtInventory.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CoopLight.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CoopLight.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DebtCollector.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DebtCollector.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\LightPurchasing.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\LightPurchasing.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\MOC.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\MOC.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ProjectLight.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ProjectLight.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartDocumentWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartDocumentWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CrmLight.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CrmLight.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DateDataGridView.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DateDataGridView.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAssets.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAssets.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtEmployees.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtEmployees.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtprconfig.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtprconfig.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\HotelManagement.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\HotelManagement.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\PatientPlus.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\PatientPlus.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Aga.Controls.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\FreeFlowDocumentWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ObjectListView.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ObjectListView.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form1.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form3.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form4.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAbout.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAccountSettlement.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAdvancedSearch.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAdvanceInvoiceSettlement.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAmortizer.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetCategories.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetCategoriesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetDisposal.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetRegistry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAttitudeEntries.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleAnalysis.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleBatchFile.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleBatchFileReversal.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleDetails.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleDispatchDetails.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleGrades.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleHeader.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBalesOutput.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleSummaries.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBankCodeChange.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBankExtract.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBanksMaintenance.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBanksPreview.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBatchMaster.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBillEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBillsListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBrowseCodes.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBrowseLaybyeCustomer.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBrowseLoanCustomer.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBulkSmsMessage.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCalculations.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCalculationsView.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCalendarSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashbookDataEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashBookListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashbookSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashbookTransactions.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmChangeCurrency.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmClaimsComment.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmClientBalances.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmClientRefunds.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCodes.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCodeSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmConstants.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCreditNoteEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCreditNotesListings.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmNoteEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmProspectSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmServices.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerAccountsAdjustment.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerDetails.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerKeyInformation.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerReferenceChange.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomersListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerTradingHistory.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDailySales.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDatabaseSynchronizationPointers.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDebitCreditNoteEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDebitNotesListings.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDecontractReason.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDeliveryItemsView.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDeliveryNotesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDependents.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDisplayConstants.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentBuilder.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentConversion.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentFieldsView.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentKeyFields.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationCourses.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationCoursesView.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationLevels.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationSubjects.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmailDocument.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeClassesSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeDetails.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeFlagOptions.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeQualifications.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeSplitBanks.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeSubjectsGrades.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeesWithValue.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeTaxCertificates.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmErrorMessages.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmExtractName.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmerInvoice.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersAdvancement.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersData.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersLoanRepayment.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersPrintingOptions.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFinancialYearEndClearDown.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFind.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFlags.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFlagsListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFunctionsDefinition.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGatePassesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAccountBudgeting.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAdvancedLedgerAccountChanges.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmApplicationActivation.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAuditPrintSpecification.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBankAccountEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBranchDetails.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBudgets.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCategoriesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCategorySetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDatabaseDataInterchange.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDatabaseSynchronization.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDateBranchFilter.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDbConfiguration.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFinancialPeriods.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGatePasses.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGatePassPrintOptions.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGoodReceivingMain.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGoodsReceipt.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGoodsReceiptListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGradeSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmImportBanksFileName.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmImportSalesFromTillslipFile.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryPricesUpdate.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryReceiving.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmHomePageCustomization.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryClone.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCodeChange.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCodeReferences.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCodesMerge.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCostsMassUpdate.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryImportFromFile.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryItemsDeletedListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryMaster.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryNewCode.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryQuantityFilter.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySalesCostPriceAdjustment.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySalesHistoryAnalysis.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySpecials.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySpecialsView.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryStockTakeCount.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryTransfers.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoice.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoiceCustomerDetails.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoiceDeliveryNote.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoiceSeries.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoicesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmItfParameters.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCardEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCardInvoiceDetails.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCategories.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCategoriesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobInvoicing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobProfileSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobQualificationsEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobsAndServices.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobsListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobsServiceParameters.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJournalEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJournals.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmKeyData.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmKeyExchangeRates.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLight8.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLinkedTransactionsEdit.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPriceType.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProvinceSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyCustomer.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyCustomersListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyeCashout.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyeSalesPreview.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyeSettlement.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLeaveApplication.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLedgerAccountCodeChange.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLedgerAccountsSetupListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLedgerTransactions.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form2.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLinkedTransactions.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLinkTransaction.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanAdvancement.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanCustomers.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanRepayment.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoansCustomerListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoansListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanTypes.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanTypesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLogin.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityBenefitSetupSelection.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCategories.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCategoryUpdates.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustmerTransactionEntries.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomers.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomersImport.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomersListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramDiscountsSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramFreebiesSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramsListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyaltyCustomerSales.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmMatchInvoicesToPayments.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmMonthlyAccounts.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmMultipleSerialNumbersSelection.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmNewCalculation.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOpenExpenses.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOpenProjectClaims.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrderFromInventory.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrdersListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrdersPlacement.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrganisation.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPackSize.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPasswordChange.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPastEmployers.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollBatches.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollBatchesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollRuns.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollUserReportsListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPaywellImports.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPersonnelPastEmployers.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPosMain2.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPrintCopies.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPrinterSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPrintPayrollRegister.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProformaInvoice.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProformaInvoiceListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectCallings.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectClaims.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectExpenses.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectResources.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectSelect.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectsListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryQuantitySplit.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmQuantityUpdate.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmQuotation.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmQuotationsListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReceivedOrdersAccountsPosting.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleFileRegenerate.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReplace.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReportDefinition.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReportSheet.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReportWriter.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmResetAndReinputInventory.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmResetReceiptNumbers.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRsaPrimaryRebates.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRunBackup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRunMode.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRunRestore.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesAlertTimes.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesDetails.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesQuantityUpdate.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesReturns.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesReturnsPlus.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesSerialNumbers.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesTaxPreview.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialCodeChange.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialNumberSelection.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialNumbersEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialTracking.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmServerPath.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmShortCodeDescriptionSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSkillsEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSmsHttpSettings.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSmsMessages.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSqlQueries.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSubCategorySetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierAccountPayments.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierDetails.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierGroupings.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierInvoiceEntries.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierInvoicesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierPayments.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSystemDates.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSystemReferences.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTableFields.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTaskEntries.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBatchTransactions.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBatchesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTaxTables.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTenderAmount2.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTransactions.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTrekkedFields.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTrekkedFieldsPrintSpecifications.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTrekkedFieldsUpdate.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUnitsOfMeasure.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUnpaidDocuments.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUsedIndicators.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUserDefinedFormFields.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUserSecurityProfile.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWarehouseStockIssues.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWebBatchesView.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWebBrowse.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWifiDashBoard.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWifiSettings.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWifiTrendAnalysis.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.MainPanel.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.exe
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDailyCurrencyEquivalence.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form5.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.SuggestedBindingRedirects.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.exe.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.ResolveComReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form1.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form3.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form4.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form5.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAbout.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAccountSettlement.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAdvancedSearch.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAdvanceInvoiceSettlement.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAmortizer.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetCategories.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetCategoriesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetDisposal.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetRegistry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAttitudeEntries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleAnalysis.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleBatchFile.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleBatchFileReversal.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleDispatchDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleGrades.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleHeader.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBalesOutput.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleSummaries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBankCodeChange.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBankExtract.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBanksMaintenance.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBanksPreview.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBatchMaster.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBillEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBillsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBrowseCodes.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBrowseLaybyeCustomer.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBrowseLoanCustomer.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBulkSmsMessage.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCalculations.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCalculationsView.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCalendarSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashbookDataEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashBookListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashbookSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashbookTransactions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmChangeCurrency.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmClaimsComment.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmClientBalances.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmClientRefunds.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCodes.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCodeSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmConstants.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCreditNoteEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCreditNotesListings.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmNoteEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmProspectSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmServices.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerAccountsAdjustment.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerClassSelection.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerKeyInformation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerReferenceChange.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomersListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerTradingHistory.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDailyCurrencyEquivalence.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDailySales.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDashboard.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDatabaseSynchronizationPointers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDebitCreditNoteEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDebitNotesListings.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDebtorsMainClasses.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDebtorsMainClassOptions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDecontractReason.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDeliveryItemsView.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDeliveryNotesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDependents.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDisplayConstants.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentBuilder.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentConversion.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentFieldsView.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentKeyFields.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationCourses.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationCoursesView.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationLevels.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationSubjects.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmailDocument.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeClassesSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeFlagOptions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeQualifications.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeSplitBanks.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeSubjectsGrades.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeesWithValue.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeTaxCertificates.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmErrorMessages.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmExtractName.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmerInvoice.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersAdvancement.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersData.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersLoanRepayment.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersPrintingOptions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFinancialYearEndClearDown.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFind.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFlags.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFlagsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFunctionsDefinition.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGatePassesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAccountBudgeting.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAdvancedLedgerAccountChanges.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmApplicationActivation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAuditPrintSpecification.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBankAccountEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBranchDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBudgets.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCategoriesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCategorySetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDatabaseDataInterchange.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDatabaseSynchronization.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDateBranchFilter.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDbConfiguration.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFinancialPeriods.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGatePasses.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGatePassPrintOptions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGoodReceivingMain.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGoodsReceipt.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGoodsReceiptListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGradeSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmImportBanksFileName.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmImportSalesFromTillslipFile.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryPricesUpdate.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryReceiving.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmHomePageCustomization.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryClone.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCodeChange.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCodeReferences.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCodesMerge.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCostsMassUpdate.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryImportFromFile.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryItemsDeletedListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryMaster.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryNewCode.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryQuantityFilter.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySalesCostPriceAdjustment.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySalesHistoryAnalysis.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySpecials.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySpecialsView.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryStockTakeCount.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryTransfers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoice.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoiceCustomerDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoiceDeliveryNote.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoiceSeries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoicesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmItfParameters.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCardEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCardInvoiceDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCategories.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCategoriesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobInvoicing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobProfileSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobQualificationsEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobsAndServices.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobsServiceParameters.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJournalEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJournals.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmKeyData.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmKeyExchangeRates.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLight8.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLinkedTransactionsEdit.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPriceType.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProvinceSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyCustomer.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyCustomersListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyeCashout.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyeSalesPreview.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyeSettlement.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLeaveApplication.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLedgerAccountCodeChange.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLedgerAccountsSetupListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLedgerTransactions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form2.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLinkedTransactions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLinkTransaction.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanAdvancement.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanCustomers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanRepayment.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoansCustomerListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoansListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanTypes.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanTypesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLogin.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityBenefitSetupSelection.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCategories.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCategoryUpdates.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustmerTransactionEntries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomersImport.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomersListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramDiscountsSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramFreebiesSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyaltyCustomerSales.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmMatchInvoicesToPayments.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmMonthlyAccounts.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmMultipleSerialNumbersSelection.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmNewCalculation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOpenExpenses.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOpenProjectClaims.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrderFromInventory.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrdersListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrdersPlacement.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrganisation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPackSize.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPasswordChange.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPastEmployers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollBatches.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollBatchesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollRuns.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollUserReportsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPaywellImports.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPersonnelPastEmployers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPosMain2.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPrintCopies.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPrinterSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPrintPayrollRegister.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProformaInvoice.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProformaInvoiceListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectCallings.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectClaims.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectExpenses.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectResources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectSelect.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryQuantitySplit.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmQuantityUpdate.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmQuotation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmQuotationsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReceivedOrdersAccountsPosting.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleFileRegenerate.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReplace.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReportDefinition.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReportSheet.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReportWriter.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmResetAndReinputInventory.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmResetReceiptNumbers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRsaPrimaryRebates.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRunBackup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRunMode.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRunRestore.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesAlertTimes.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesQuantityUpdate.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesReturns.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesReturnsPlus.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesSerialNumbers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesTaxPreview.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialCodeChange.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialNumberSelection.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialNumbersEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialTracking.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmServerPath.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmShortCodeDescriptionSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSkillsEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSmsHttpSettings.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSmsMessages.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSqlQueries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSubCategorySetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierAccountPayments.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierGroupings.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierInvoiceEntries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierInvoicesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierPayments.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSystemDates.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSystemReferences.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTableFields.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTaskEntries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBatchTransactions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBatchesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTaxTables.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTenderAmount2.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTransactions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTrekkedFields.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTrekkedFieldsPrintSpecifications.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTrekkedFieldsUpdate.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUnitsOfMeasure.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUnpaidDocuments.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUsedIndicators.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUserDefinedFormFields.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUserSecurityProfile.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWarehouseStockIssues.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWebBatchesView.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWebBrowse.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWifiDashBoard.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWifiSettings.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWifiTrendAnalysis.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.MainPanel.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.exe.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.exe
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CoopLight.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CrmLight.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DateDataGridView.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DebtCollector.exe
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\EncryptDecryptData.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAssets.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtEmployees.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtprconfig.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\HotelManagement.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\LightPurchasing.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\PatientPlus.exe
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ProjectLight.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCryptor.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\MultiColumnComboBox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Ai.Control.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DevComponents.Instrumentation.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCommonLibrary.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CoopLight.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CoopLight.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CoopLight.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DebtCollector.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DebtCollector.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DebtCollector.exe.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\LightPurchasing.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\LightPurchasing.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\LightPurchasing.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ProjectLight.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ProjectLight.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ProjectLight.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CrmLight.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CrmLight.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\CrmLight.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DateDataGridView.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DateDataGridView.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAssets.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAssets.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtEmployees.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtEmployees.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtprconfig.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtprconfig.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\HotelManagement.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\HotelManagement.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\HotelManagement.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\PatientPlus.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\PatientPlus.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\PatientPlus.exe.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\EncryptDecryptData.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCryptor.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCryptor.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\MultiColumnComboBox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DevComponents.Instrumentation.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.CopyComplete
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.exe
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.exe.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.exe.manifest
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.application
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.exe
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Light8.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DateDataGridView.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DebtCollector.exe
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\EncryptDecryptData.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAdministration.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAssets.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCommonLibrary.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtEmployees.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtprconfig.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\LightPurchasing.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\NLog.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ProjectLight.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\RevmaxAPI.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartRichReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCryptor.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\MetroFramework.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\Ai.Control.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCommonLibrary.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCommonLibrary.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCommonLibrary.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DebtCollector.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DebtCollector.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DebtCollector.exe.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAdministration.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\LightPurchasing.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\LightPurchasing.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\LightPurchasing.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ProjectLight.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ProjectLight.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\ProjectLight.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartRichReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\SmartRichReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DateDataGridView.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\DateDataGridView.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAssets.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAssets.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtEmployees.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtEmployees.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtprconfig.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtprconfig.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\AdvancedDataGridViewControl.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\EncryptDecryptData.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\RevmaxAPI.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\RevmaxAPI.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCryptor.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtCryptor.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.SuggestedBindingRedirects.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.exe.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.ResolveComReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form1.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form3.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form4.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form5.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAbout.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAccountSettlement.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAdvancedSearch.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAdvanceInvoiceSettlement.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAmortizer.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetCategories.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetCategoriesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetDisposal.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAssetRegistry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAttitudeEntries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleAnalysis.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleBatchFile.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleBatchFileReversal.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleDispatchDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleGrades.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleHeader.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBalesOutput.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleSummaries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBankCodeChange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBankExtract.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBanksMaintenance.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBanksPreview.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBatchMaster.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBeginSale.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBillEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBillsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBreakInventoryPack.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBrowseCodes.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBrowseLaybyeCustomer.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBrowseLoanCustomer.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBulkSmsMessage.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCalculations.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCalculationsView.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCalendarSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashbookDataEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashBookListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashbookSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCashbookTransactions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmChangeCurrency.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmClaimsComment.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmClientBalances.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmClientRefunds.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCodes.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCodeSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmConstants.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCreditNoteEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCreditNotesListings.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmNoteEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmProspectSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmServices.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerAccountsAdjustment.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerClassSelection.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerKeyInformation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerName.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerReferenceChange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCrmListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomersListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCustomerTradingHistory.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDailyCurrencyEquivalence.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDailySales.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDashboard.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDatabaseSynchronizationPointers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDebitCreditNoteEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDebitNotesListings.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDebtorsMainClasses.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDebtorsMainClassOptions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDecontractReason.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDeliveryItemsView.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDeliveryNotesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDependents.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDisplayConstants.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentBuilder.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentConversion.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentFieldsView.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDocumentKeyFields.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationCourses.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationCoursesView.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationLevels.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEducationSubjects.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmailDocument.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeClassesSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeFlagOptions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeQualifications.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeSplitBanks.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeSubjectsGrades.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeesWithValue.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmEmployeeTaxCertificates.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmErrorMessages.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmExtractName.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmerInvoice.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersAdvancement.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersData.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersLoanRepayment.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFarmersPrintingOptions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFinancialYearEndClearDown.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFind.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFiscalTestParameters.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFlags.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFlagsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFunctionsDefinition.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGatePassesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAccountBudgeting.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAdvancedLedgerAccountChanges.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmApplicationActivation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmAuditPrintSpecification.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBankAccountEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBranchDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBudgets.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCategoriesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCategorySetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDatabaseDataInterchange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDatabaseSynchronization.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDateBranchFilter.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmDbConfiguration.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmFinancialPeriods.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGatePasses.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGatePassPrintOptions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGoodReceivingMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGoodsReceipt.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGoodsReceiptListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmGradeSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmImportBanksFileName.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmImportSalesFromTillslipFile.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryPricesUpdate.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryReceiving.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmHomePageCustomization.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryClone.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCodeChange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCodeReferences.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCodesMerge.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryCostsMassUpdate.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryImportFromFile.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryItemsDeletedListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryMaster.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryNewCode.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryQuantityFilter.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySalesCostPriceAdjustment.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySalesHistoryAnalysis.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySpecials.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventorySpecialsView.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryStockTakeCount.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryTransfers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoice.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoiceCurrency.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoiceCustomerDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoiceDeliveryNote.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoiceSeries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInvoicesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmItfParameters.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCardEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCardInvoiceDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCategories.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobCategoriesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobInvoicing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobProfileSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobQualificationsEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobsAndServices.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJobsServiceParameters.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJournalEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmJournals.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmKeyData.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmKeyExchangeRates.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLight8.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLinkedTransactionsEdit.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPosCashout.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPosTest.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProvinceSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyCustomer.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyCustomersListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyeCashout.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyeSalesPreview.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLaybyeSettlement.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLeaveApplication.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLedgerAccountCodeChange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLedgerAccountsSetupListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLedgerTransactions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Form2.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLinkedTransactions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLinkTransaction.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanAdvancement.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanCustomers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanRepayment.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoansCustomerListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoansListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanTypes.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoanTypesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLogin.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityBenefitSetupSelection.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCategories.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCategoryUpdates.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustmerTransactionEntries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomersImport.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityCustomersListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramDiscountsSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramFreebiesSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyalityProgramsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoyaltyCustomerSales.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmMatchInvoicesToPayments.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmMonthlyAccounts.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmMultipleSerialNumbersSelection.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmNewCalculation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOpenExpenses.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOpenProjectClaims.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrderFromInventory.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrdersListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrdersPlacement.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmOrganisation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPackSize.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPasswordChange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPastEmployers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollBatches.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollBatchesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollRuns.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPayrollUserReportsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPaywellImports.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPersonnelPastEmployers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPosMain2.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPrintCopies.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPrinterSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmPrintPayrollRegister.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProformaInvoice.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProformaInvoiceListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectCallings.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectClaims.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectExpenses.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectResources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectSelect.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmProjectsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmInventoryQuantitySplit.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmQuantityUpdate.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmQuotation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmQuotationsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReceivedOrdersAccountsPosting.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBaleFileRegenerate.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReplace.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReportDefinition.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReportSheet.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmReportWriter.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmResetAndReinputInventory.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmResetReceiptNumbers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRsaPrimaryRebates.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRunBackup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRunMode.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmRunRestore.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesAlertTimes.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesQuantityUpdate.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesReturns.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesReturnsPlus.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesSerialNumbers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSalesTaxPreview.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialCodeChange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialNumberSelection.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialNumbersEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSerialTracking.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmServerPath.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmShortCodeDescriptionSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSkillsEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSmsHttpSettings.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSmsMessages.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSqlQueries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSubCategorySetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierAccountPayments.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierGroupings.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierInvoiceEntries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierInvoicesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSupplierPayments.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSystemDates.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmSystemReferences.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTableFields.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTaskEntries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBatchTransactions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmBatchesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTaxTables.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTenderAmount2.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTransactions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTrekkedFields.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTrekkedFieldsPrintSpecifications.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmTrekkedFieldsUpdate.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUnitsOfMeasure.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUnpaidDocuments.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUsedIndicators.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUserDefinedFormFields.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmUserSecurityProfile.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWarehouseStockIssues.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWebBatchesView.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWebBrowse.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWifiDashBoard.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWifiSettings.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmWifiTrendAnalysis.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.MainPanel.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.exe.manifest
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.application
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.exe
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAdministration.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.vbproj.Up2Date
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmIssueLoan.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmLoansDashboard.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmCreditNoteOriginalNo.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\itextsharp.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\QRCoder.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtAssets.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtEmployees.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\gwtprconfig.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\bin\Debug\QRCoder.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Light8\obj\Debug\Light8.frmQrCodes.resources

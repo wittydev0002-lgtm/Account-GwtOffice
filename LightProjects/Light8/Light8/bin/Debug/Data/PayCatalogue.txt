@@ -1,0 +1,27 @@
+GOLDTECH JULY 2017 CONSOLIDATED|data source=.\;initial catalog=GoldInvJuly2017;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH NETWORK|data source=TILL001-PC;initial catalog=Investments;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ACTIVE GOLDTECH NETWORK|data source=.\;initial catalog=NewGoldtech;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH FULL|data source=.\;initial catalog=GoldtechLive;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GREAT WITS TECHNOLOGIES|data source=.\;initial catalog=Greatwits;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALI AIR SOUTH AFRICA-2016|data source=.\;initial catalog=GtiLiveOne;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALI AIR DATA 2017|data source=.\;initial catalog=Alibaba;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALI AIR DATA 2017 FINANCIAL YEAR END|data source=.\;initial catalog=Aliair_2017;User ID=sa;Password=ochmas;provider=SQLOLEDB
+CHIYEDZA NORTON PRIMARY SCHOOL|data source=.\;initial catalog=ChiedzaNortonPrimary;User ID=sa;Password=ochmas;provider=SQLOLEDB
+MANGWANA AND PARTNERS|data source=.\;initial catalog=MangwanaLocalLive;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ENERGY|data source=.\;initial catalog=Energy;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALRICH PAINT AND BRUSH|data source=.\;initial catalog=Alrich;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH MUTARE JULY|data source=.\;initial catalog=MTR_JULY_2016;User ID=sa;Password=ochmas;provider=SQLOLEDB
+MAVIYA MERGE FINAL|data source=.\;initial catalog=MAVIYA_MERGE;User ID=sa;Password=ochmas;provider=SQLOLEDB
+NORTON 2 PRIMARY SCHOOL|data source=.\;initial catalog=NortonTwo;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ENERGY CELLPHONES|data source=.\;initial catalog=Energy;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GTI YE 2016 CONSOLIDATED|data source=.\;initial catalog=GTI_YECON;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GTI YE 2016|data source=.\;initial catalog=GTI_YE;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GTI RECOVERY|data source=.\;initial catalog=GTI_RECOVER;User ID=sa;Password=ochmas;provider=SQLOLEDB
+Demostrate Create 5|data source=.\;initial catalog=CreateTest8;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH MUTARE 2|data source=\;initial catalog=GoldtechMutare2;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GLOBETRADE ELECTRONICS|data source=.\;initial catalog=Globetrade;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH MUTARE 2016 ACCOUNTS|data source=\;initial catalog=Mutare_2016;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH GEORGE 2016 ACCOUNTS|data source=.\;initial catalog=Goldtech_2016;User ID=sa;Password=ochmas;provider=SQLOLEDB
+DEMOSTRATION ORG|data source=(Local);initial catalog=DEMOORG;User ID=sa;Password=ochmas;provider=SQLOLEDB
+DEMOSTRATION PAYROLL COMPANY|data source=(Local);initial catalog=DemoPay;User ID=sa;Password=ochmas;provider=SQLOLEDB
+Civic Center Bottle Stores|data source=(Local);initial catalog=BottleStore;User ID=sa;Password=ochmas;provider=SQLOLEDB

@@ -1,0 +1,426 @@
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[WebProfile]([ftpAddress] [nvarchar](max) NOT NULL,[FtpLoginName] [nvarchar](150) NOT NULL,[FtpLoginPassword] [nvarchar](150) NOT NULL,[ConnectionType] [nvarchar](20) NOT NULL,[MainBranch] [nvarchar](150) NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[VoidSalesMain]([InvoiceNumber] [int] NOT NULL,[CustomerId] [nvarchar](50) NOT NULL,[Status] [nvarchar](20) NOT NULL,[Amount] [float] NOT NULL,[Taxes] [float] NOT NULL,[Discount] [float] NOT NULL,[TransDate] [smalldatetime] NOT NULL,[OriginalInvoice] [int] NOT NULL,[SalesRep] [nvarchar](350) NOT NULL,[UserName] [nvarchar](50) NOT NULL,PRIMARY KEY CLUSTERED ([InvoiceNumber] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[VoidSales]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[InvoiceNumber] [int] NOT NULL,[CustomerId] [nvarchar](50) NOT NULL,[ItemCode] [nvarchar](150) NOT NULL,[Description] [nvarchar](250) NOT NULL,[Quantity] [int] NOT NULL,[DiscountAllowed] [float] NOT NULL,[Taxes] [float] NOT NULL,[TransType] [nvarchar](20) NOT NULL,[SalesPrice] [float] NOT NULL,[TransDate] [smalldatetime] NOT NULL,[ProductType] [nvarchar](50) NOT NULL,[SerialNumbers] [nvarchar](150) NULL,[OriginalInvoice] [int] NOT NULL,[SalesRep] [nvarchar](350) NOT NULL,[UserName] [nvarchar](50) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[VoidedJournalEntries]([TransDate] [smalldatetime] NOT NULL,[DebitAccount] [nvarchar](150) NOT NULL,[CreditAccount] [nvarchar](150) NOT NULL,[Narration] [nvarchar](300) NOT NULL,[Amount] [float] NOT NULL,[UserName] [nvarchar](150) NOT NULL,[BranchName] [nvarchar](150) NOT NULL,[ChangeDate] [smalldatetime] NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[JournalNumber] [int] NOT NULL,[VoidedBy] [nvarchar](150) NOT NULL,[VoidTime] [smalldatetime] NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[Users]([UserName] [nvarchar](15) NOT NULL,[UserPassword] [nvarchar](max) NOT NULL,[BranchName] [nvarchar](250) NOT NULL,[SalesStatus] [nvarchar](3) NOT NULL,[PurchasesStatus] [nvarchar](3) NOT NULL,[Receiveods] [nvarchar](3) NOT NULL,[ProcessRefunds] [nvarchar](3) NOT NULL,[UserLevel] [nvarchar](20) NOT NULL,[ChangeDate] [smalldatetime] NOT NULL,[EmailAddress] [nvarchar](250) NULL,PRIMARY KEY CLUSTERED ([UserName] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[TradeReferences]([AccountNumber] [nvarchar](20) NOT NULL,[TradeHouseName] [nvarchar](250) NOT NULL,[TradeAccountNo] [nvarchar](25) NOT NULL,[DateOpened] [smalldatetime] NOT NULL,[Status] [nvarchar](35) NOT NULL,[Commendation] [nvarchar](100) NOT NULL,[Notes] [nvarchar](500) NOT NULL,[AccountBalance] [float] NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[SystemServerPath]([BackupPath] [nvarchar](max) NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[SystemBackupCatalogue]([BackupName] [nvarchar](50) NOT NULL,[BackupDate] [smalldatetime] NOT NULL,[UserName] [nvarchar](50) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[SupplierTransactions]([AccountNumber] [nvarchar](35) NOT NULL,[TransactionDate] [smalldatetime] NOT NULL,[Amount] [float] NOT NULL,[TransactionType] [nvarchar](10) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[Description] [nvarchar](250) NOT NULL,[ReferenceNumber] [nvarchar](50) NOT NULL,[UserName] [nvarchar](35) NOT NULL,[BranchName] [nvarchar](150) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[Suppliers]([AccountNumber] [nvarchar](35) NOT NULL,[AccountName] [nvarchar](350) NOT NULL,[TakeOnDate] [smalldatetime] NOT NULL,[ContactPerson] [nvarchar](150) NOT NULL,[Address1] [nvarchar](150) NOT NULL,[Address2] [nvarchar](150) NOT NULL,[Address3] [nvarchar](150) NOT NULL,[Address4] [nvarchar](150) NOT NULL,[FaxNumber] [nvarchar](35) NOT NULL,[PhoneNumber] [nvarchar](35) NOT NULL,[Cellphone] [nvarchar](35) NOT NULL,[EmailAddress] [nvarchar](400) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[VatNumber] [nvarchar](20) NOT NULL,PRIMARY KEY CLUSTERED ([AccountNumber] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[SubCateries]([SubCatery] [nvarchar](250) NOT NULL,[Catery] [nvarchar](250) NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,CONSTRAINT [PK__SubCateg__55433A6B34C8D9D1] PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[StoresReturns]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[TransactionDate] [smalldatetime] NOT NULL,[ItemCode] [nvarchar](150) NOT NULL,[Description] [nvarchar](400) NOT NULL,[SerialNumbers] [nvarchar](max) NOT NULL,[Quantity] [int] NOT NULL,[ReturnedBy] [nvarchar](300) NOT NULL,[OriginatingBranch] [nvarchar](300) NOT NULL,[UserBranch] [nvarchar](150) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[StoresIssues]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[TransactionDate] [smalldatetime] NOT NULL,[ItemCode] [nvarchar](150) NOT NULL,[Description] [nvarchar](400) NOT NULL,[SerialNumbers] [nvarchar](max) NOT NULL,[Quantity] [int] NOT NULL,[CollectedBy] [nvarchar](300) NOT NULL,[DestinationBranch] [nvarchar](300) NOT NULL,[UserBranch] [nvarchar](150) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[StockTake]([TransactionDate] [smalldatetime] NOT NULL,[ItemCode] [nvarchar](150) NOT NULL,[Barcode] [nvarchar](150) NOT NULL,[BaseBarcode] [nvarchar](100) NOT NULL,[SerialNumber] [nvarchar](50) NOT NULL,[ItemType] [nvarchar](35) NOT NULL,[Quantity] [int] NOT NULL,[UserName] [nvarchar](150) NOT NULL,[UserBranch] [nvarchar](150) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[StockCount]([ItemCode] [nvarchar](250) NULL,[Quantity] [int] NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[SerialNumbers]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[ItemCode] [nvarchar](150) NOT NULL,[SerialNumber] [nvarchar](250) NOT NULL,[BarCodeNo] [nvarchar](150) NOT NULL,[SourceSerialNo] [nvarchar](150) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[SalesTranmissonBatches]([BatchNo] [int] NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[SalesMain]([InvoiceNumber] [int] NOT NULL,[CustomerId] [nvarchar](50) NOT NULL,[Status] [nvarchar](20) NOT NULL,[Amount] [float] NOT NULL,[Taxes] [float] NOT NULL,[Discount] [float] NOT NULL,[TransDate] [smalldatetime] NOT NULL,[SalesRep] [nvarchar](350) NOT NULL,[UserName] [nvarchar](50) NOT NULL,[OriginalInvoice] [int] NOT NULL,[ContactNumber] [nvarchar](35) NOT NULL,CONSTRAINT [PK_SalesMain] PRIMARY KEY CLUSTERED ([InvoiceNumber] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[SalesGurantees]([Description] [nvarchar](350) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[SalesExchanges]([TransactionDate] [smalldatetime] NOT NULL,[OriginalDocNumber] [int] NOT NULL,[ItemCode] [nvarchar](250) NOT NULL,[CurrentSerialNumber] [nvarchar](150) NOT NULL,[OriginalSerialNumber] [nvarchar](150) NOT NULL,[SellingPrice] [float] NOT NULL,[Reason] [nvarchar](max) NOT NULL,[UserName] [nvarchar](50) NOT NULL,[BranchName] [nvarchar](150) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[DiscountAllowed] [float] NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[SalesControlAccount]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[AccountNumber] [nvarchar](35) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[SalesBatchNoControls]([BatchNo] [int] NOT NULL,[BranchName] [nvarchar](150) NOT NULL,[ProcessDate] [smalldatetime] NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[Sales]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[InvoiceNumber] [int] NOT NULL,[CustomerId] [nvarchar](50) NOT NULL,[ItemCode] [nvarchar](150) NOT NULL,[Description] [nvarchar](250) NOT NULL,[Quantity] [int] NOT NULL,[DiscountAllowed] [float] NOT NULL,[Taxes] [float] NOT NULL,[TransType] [nvarchar](20) NOT NULL,[SalesPrice] [float] NOT NULL,[TransDate] [smalldatetime] NOT NULL,[ProductType] [nvarchar](50) NOT NULL,[SerialNumbers] [nvarchar](150) NULL,[SalesRep] [nvarchar](350) NOT NULL,[UserName] [nvarchar](50) NOT NULL,[OriginalInvoice] [int] NOT NULL,CONSTRAINT [PK_Sales] PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[RegionalTaxes]([TaxRate] [float] NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[ReceivedOrders]([Description] [nvarchar](150) NOT NULL,[GenericBarCode] [nvarchar](50) NOT NULL,[BaseBarCode] [nvarchar](150) NOT NULL,[SerialNumber] [nvarchar](50) NOT NULL,[ScannedSerialNo] [nvarchar](100) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[ItemCode] [nvarchar](100) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[QuoteMain]([TransDate] [smalldatetime] NOT NULL,[SalesAgent] [nvarchar](150) NOT NULL,[CustomerName] [nvarchar](350) NOT NULL,[Address1] [nvarchar](250) NOT NULL,[Address2] [nvarchar](250) NOT NULL,[Address3] [nvarchar](250) NOT NULL,[Address4] [nvarchar](250) NOT NULL,[ContactNumber] [nvarchar](35) NOT NULL,[EmailAddress] [nvarchar](400) NOT NULL,[UserName] [nvarchar](35) NOT NULL,[UserBranch] [nvarchar](150) NOT NULL,[ReferenceNumber] [int] NOT NULL,[Terms] [ntext] NOT NULL,[QuoteValue] [float] NOT NULL,[TotalDiscount] [float] NOT NULL,[TotalTaxes] [float] NOT NULL,[TaxNumber] [nvarchar](35) NOT NULL,PRIMARY KEY CLUSTERED ([ReferenceNumber] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[QuoteDetails]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[ReferenceNumber] [int] NOT NULL,[Quantity] [int] NOT NULL,[ItemCode] [nvarchar](250) NOT NULL,[Description] [nvarchar](450) NOT NULL,[UnitPrice] [float] NOT NULL,[Discount] [float] NOT NULL,[Tax] [float] NOT NULL,[Payable] [float] NOT NULL,[SubTotal] [float] NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[PrinterSettings]([ConnectionType] [nvarchar](20) NOT NULL,[ComPort] [int] NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[OrdersReceipt]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[TransDate] [smalldatetime] NOT NULL,[OrderNumber] [int] NOT NULL,[Quantity] [int] NOT NULL,[SerialNumbers] [nvarchar](450) NULL,[UserName] [nvarchar](35) NOT NULL,[Branch] [nvarchar](250) NOT NULL,[ChangeDate] [smalldatetime] NOT NULL,[ItemCode] [nvarchar](150) NOT NULL,[BaseBarcode] [nvarchar](100) NOT NULL,[CostPrice] [float] NOT NULL,[DestinationBranch] [nvarchar](250) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[LedgerTransactions]([TransactionDate] [smalldatetime] NOT NULL,[AccountNumber] [nvarchar](35) NOT NULL,[Amount] [float] NOT NULL,[TransactionType] [nvarchar](10) NOT NULL,[ContraAccount] [nvarchar](35) NOT NULL,[Description] [nvarchar](150) NOT NULL,[UserName] [nvarchar](35) NOT NULL,[UserBranch] [nvarchar](150) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[Reference] [nvarchar](150) NOT NULL, CONSTRAINT [PK__LedgerTransactio__160F4887] PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[LedgerAccounts]([AccountNumber] [nvarchar](35) NOT NULL,[AccountName] [nvarchar](150) NOT NULL,[Asset] [nvarchar](100) NOT NULL,[Liability] [nvarchar](100) NOT NULL,[Equity] [nvarchar](100) NOT NULL,[Income] [nvarchar](100) NOT NULL,[Expense] [nvarchar](100) NOT NULL,[UserBranch] [nvarchar](150) NOT NULL,PRIMARY KEY CLUSTERED ([AccountNumber] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[JournalEntries]([TransDate] [smalldatetime] NOT NULL,[DebitAccount] [nvarchar](150) NOT NULL,[CreditAccount] [nvarchar](150) NOT NULL,[Narration] [nvarchar](300) NOT NULL,[Amount] [float] NOT NULL,[UserName] [nvarchar](150) NOT NULL,[BranchName] [nvarchar](150) NOT NULL,[ChangeDate] [smalldatetime] NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[JournalNumber] [int] NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[InventoryTransfersIn]([ItemCode] [nvarchar](25) NOT NULL,[SourceBranch] [nvarchar](150) NOT NULL,[ReceivingBranch] [nvarchar](150) NOT NULL,[Quantity] [int] NOT NULL,[UserName] [nvarchar](35) NOT NULL,[TransDate] [smalldatetime] NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[BaseBarCode] [nvarchar](150) NOT NULL,[SerialNumber] [nvarchar](150) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[InventoryTransfers]([ItemCode] [nvarchar](25) NOT NULL,[SourceBranch] [nvarchar](150) NOT NULL,[ReceivingBranch] [nvarchar](150) NOT NULL,[Quantity] [int] NOT NULL,[UserName] [nvarchar](35) NOT NULL,[TransDate] [smalldatetime] NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[SerialNumbers] [nvarchar](500) NOT NULL,[BatchNo] [int] NOT NULL,[Catery] [nvarchar](150) NOT NULL,[SubCatery] [nvarchar](150) NOT NULL,[ItemType] [nvarchar](150) NOT NULL,[UnitPrice] [float] NOT NULL,[BaseBarCode] [nvarchar](150) NOT NULL,[SerialNumber] [nvarchar](150) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[InventoryOrders]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[GroupName] [nvarchar](250) NOT NULL,[Description] [nvarchar](max) NOT NULL,[OrderDate] [smalldatetime] NOT NULL,[OrderNo] [int] NOT NULL,[Quantity] [int] NOT NULL,[SupplierNo] [nvarchar](50) NOT NULL,[OrderPrice] [float] NOT NULL,[ReceiptPrice] [float] NOT NULL,[Tax] [float] NOT NULL,	[ReceiptDate] [smalldatetime] NOT NULL, CONSTRAINT [PK__Inventor__55433A6B1BFD2C07] PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[InventoryItems]([ItemCode] [nvarchar](150) NOT NULL,[GroupName] [nvarchar](250) NOT NULL,[Description] [nvarchar](max) NOT NULL,[SellingPrice] [float] NOT NULL,[CostPrice] [float] NOT NULL,[Location] [nvarchar](150) NOT NULL,[Catery] [nvarchar](250) NOT NULL,[SubCatery] [nvarchar](250) NOT NULL,	[Quantity] [int] NOT NULL,[InventoryType] [nvarchar](20) NOT NULL,[MinimumLevel] [int] NOT NULL,[WarningLevel] [int] NOT NULL,[IdealLevel] [int] NOT NULL,[TaxStatus] [nvarchar](3) NOT NULL,[SerialNumbers] [nvarchar](450) NULL,[BarCodeNo] [nvarchar](150) NOT NULL,CONSTRAINT [PK__Inventor__048A0009267ABA7A] PRIMARY KEY CLUSTERED ([ItemCode] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[InventoryGroup]([ItemCode] [int] IDENTITY(1,1) NOT NULL,[ItemsGroupName] [nvarchar](250) NOT NULL,CONSTRAINT [PK__Inventor__3ECC0FEB0EA330E9] PRIMARY KEY CLUSTERED ([ItemCode] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[GroupSalesMain]([InvoiceNumber] [int] NOT NULL,[CustomerId] [nvarchar](50) NOT NULL,[Status] [nvarchar](20) NOT NULL,[Amount] [float] NOT NULL,[Taxes] [float] NOT NULL,[Discount] [float] NOT NULL,[TransDate] [smalldatetime] NOT NULL,[SalesRep] [nvarchar](350) NOT NULL,[UserName] [nvarchar](50) NOT NULL,[OriginalInvoice] [int] NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[BranchName] [nvarchar](350) NOT NULL,[ContactNumber] [nvarchar](35) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[GroupSales]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[InvoiceNumber] [int] NOT NULL,[CustomerId] [nvarchar](50) NOT NULL,[ItemCode] [nvarchar](150) NOT NULL,[Description] [nvarchar](250) NOT NULL,[Quantity] [int] NOT NULL,[DiscountAllowed] [float] NOT NULL,[Taxes] [float] NOT NULL,[TransType] [nvarchar](20) NOT NULL,[SalesPrice] [float] NOT NULL,[TransDate] [smalldatetime] NOT NULL,[ProductType] [nvarchar](50) NOT NULL,[SerialNumbers] [nvarchar](150) NULL,[SalesRep] [nvarchar](350) NOT NULL,[UserName] [nvarchar](50) NOT NULL,[OriginalInvoice] [int] NOT NULL,[BranchName] [nvarchar](350) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[GroupCashbookTransactions]([TransactionDate] [smalldatetime] NOT NULL,[Amount] [float] NOT NULL,[Description] [nvarchar](150) NOT NULL,[AccountNumber] [nvarchar](35) NOT NULL,[ContraAccount] [nvarchar](35) NOT NULL,[UserName] [nvarchar](35) NOT NULL,[UserBranch] [nvarchar](150) NOT NULL,[Reference] [int] NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[TransactionType] [nvarchar](10) NOT NULL,[BranchName] [nvarchar](150) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[GenericItemsBarcodes]([ItemCode] [nvarchar](150) NOT NULL,[Barcode] [nvarchar](150) NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[FileControl]([FileNumber] [float] NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[Expenses]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[TransDate] [smalldatetime] NOT NULL,[UserName] [nvarchar](25) NOT NULL,[UserBranch] [nvarchar](250) NOT NULL,[Description] [nvarchar](350) NOT NULL,[Amount] [float] NOT NULL,[PostToAccount] [nvarchar](35) NOT NULL,[ChangeDate] [smalldatetime] NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[EmploymentHistory]([Employer] [nvarchar](250) NOT NULL,[Address1] [nvarchar](150) NOT NULL,[Address2] [nvarchar](150) NULL,[Address3] [nvarchar](150) NULL,[Address4] [nvarchar](150) NULL,[JobTitle] [nvarchar](250) NOT NULL,[DateFrom] [smalldatetime] NOT NULL,[DateTo] [smalldatetime] NOT NULL,[AverageSalary] [float] NOT NULL,[TerminationReason] [nvarchar](450) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[AccountNumber] [nvarchar](35) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[Employees]([EmployeeNo] [nvarchar](20) NOT NULL,[FirstName] [nvarchar](50) NOT NULL,[LastName] [nvarchar](50) NOT NULL,[OtherNames] [nvarchar](100) NOT NULL,[HireDate] [smalldatetime] NOT NULL,[Address1] [nvarchar](150) NOT NULL,[Address2] [nvarchar](150) NOT NULL,[Address3] [nvarchar](150) NOT NULL,[Address4] [nvarchar](150) NOT NULL,[Telephone] [nvarchar](35) NOT NULL,[Cellphone] [nvarchar](35) NOT NULL,[EmailAddress] [nvarchar](350) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,PRIMARY KEY CLUSTERED ([EmployeeNo] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[DownloadFiles]([FileName] [nvarchar](350) NOT NULL,[DateDownloaded] [smalldatetime] NOT NULL,[Description] [nvarchar](150) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[UpdateStatus] [nvarchar](1) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[DisposedInventory]([TransactionDate] [smalldatetime] NOT NULL,[ItemCode] [nvarchar](250) NOT NULL,[SerialNumber] [nvarchar](150) NOT NULL,[Reason] [nvarchar](400) NOT NULL,[UserName] [nvarchar](50) NOT NULL,[BranchName] [nvarchar](150) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[CustomerTransactions]([AccountNumber] [nvarchar](35) NOT NULL,[TransactionDate] [smalldatetime] NOT NULL,[Amount] [float] NOT NULL,[TransactionType] [nvarchar](10) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[Description] [nvarchar](250) NOT NULL,[ReferenceNumber] [nvarchar](50) NOT NULL,[UserName] [nvarchar](35) NOT NULL,[BranchName] [nvarchar](150) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[CustomerTerms]([AccountNumber] [nvarchar](35) NOT NULL,[Terms] [nvarchar](max) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[CustomerSalesMain]([InvoiceNumber] [int] NOT NULL,[CustomerId] [nvarchar](50) NOT NULL,[Status] [nvarchar](20) NOT NULL,[Amount] [float] NOT NULL,[Taxes] [float] NOT NULL,[Discount] [float] NOT NULL,[TransDate] [smalldatetime] NOT NULL,[OriginalInvoice] [int] NOT NULL,[SalesRep] [nvarchar](350) NOT NULL,[UserName] [nvarchar](50) NOT NULL,PRIMARY KEY CLUSTERED ([InvoiceNumber] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[CustomerSales]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[InvoiceNumber] [int] NOT NULL,[CustomerId] [nvarchar](50) NOT NULL,[ItemCode] [nvarchar](150) NOT NULL,[Description] [nvarchar](250) NOT NULL,[Quantity] [int] NOT NULL,[DiscountAllowed] [float] NOT NULL,[Taxes] [float] NOT NULL,[TransType] [nvarchar](20) NOT NULL,[SalesPrice] [float] NOT NULL,[TransDate] [smalldatetime] NOT NULL,[ProductType] [nvarchar](50) NOT NULL,[SerialNumbers] [nvarchar](150) NULL,[OriginalInvoice] [int] NOT NULL,[SalesRep] [nvarchar](350) NOT NULL,[UserName] [nvarchar](50) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[Customers]([AccountNumber] [nvarchar](35) NOT NULL,[AccountName] [nvarchar](350) NOT NULL,[TakeOnDate] [smalldatetime] NOT NULL,[ContactPerson] [nvarchar](150) NOT NULL,[Address1] [nvarchar](150) NOT NULL,[Address2] [nvarchar](150) NOT NULL,[Address3] [nvarchar](150) NOT NULL,[Address4] [nvarchar](150) NOT NULL,[FaxNumber] [nvarchar](35) NOT NULL,[PhoneNumber] [nvarchar](35) NOT NULL,[Cellphone] [nvarchar](35) NOT NULL,[EmailAddress] [nvarchar](400) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[VatNumber] [nvarchar](20) NOT NULL,PRIMARY KEY CLUSTERED ([AccountNumber] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[ControlNumbers]([Invoices] [int] NOT NULL,[Quotations] [int] NOT NULL,[Customers] [int] NOT NULL,[Suppliers] [int] NOT NULL,[DebitNotes] [int] NOT NULL,[CreditNotes] [int] NOT NULL,[Cashbooks] [int] NOT NULL,[CashSales] [int] NOT NULL,[ItemReturns] [int] NOT NULL,[JournalEntries] [float] NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[Company]([CompanyName] [nvarchar](150) NOT NULL,[Address1] [nvarchar](50) NOT NULL,[Address2] [nvarchar](50) NOT NULL,[Address3] [nvarchar](50) NOT NULL,[Address4] [nvarchar](50) NOT NULL,[Telephone] [nvarchar](50) NOT NULL,[FaxNumber] [nvarchar](50) NOT NULL,[EmailAddress] [nvarchar](350) NOT NULL,[VatNumber] [nvarchar](50) NOT NULL,[BankName] [nvarchar](150) NOT NULL,[ContactPerson] [nvarchar](150) NOT NULL,[AccountName] [nvarchar](150) NOT NULL,[BranchName] [nvarchar](150) NOT NULL,[BranchCode] [nvarchar](10) NOT NULL,[ContactCell] [nvarchar](50) NOT NULL,[AccountNumber] [nvarchar](50) NOT NULL,[RegistrationNumber] [nvarchar](50) NOT NULL,[LoPath] [nvarchar](max) NOT NULL) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[Cateries]([Catery] [nvarchar](250) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY],UNIQUE NONCLUSTERED ([Catery] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[CashbookTransactions]([TransactionDate] [smalldatetime] NOT NULL,[Amount] [float] NOT NULL,[Description] [nvarchar](150) NOT NULL,[AccountNumber] [nvarchar](35) NOT NULL,[ContraAccount] [nvarchar](35) NOT NULL,[UserName] [nvarchar](35) NOT NULL,[UserBranch] [nvarchar](150) NOT NULL,[Reference] [int] NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[TransactionType] [nvarchar](10) NOT NULL,PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[Cashbooks]([AccountNumber] [nvarchar](35) NOT NULL,[AccountName] [nvarchar](100) NOT NULL,PRIMARY KEY CLUSTERED ([AccountNumber] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[Branches]([BranchName] [nvarchar](250) NOT NULL,[Location] [nvarchar](150) NOT NULL,[Manager] [nvarchar](150) NOT NULL,[ContactNumbers] [nvarchar](35) NOT NULL,[Address1] [nvarchar](150) NOT NULL,[Address2] [nvarchar](150) NOT NULL,[Address3] [nvarchar](150) NOT NULL,[Address4] [nvarchar](150) NOT NULL,[FaxNumber] [nvarchar](35) NOT NULL,[TransactionId] [int] IDENTITY(1,1) NOT NULL,[ConnectionType] [nvarchar](20) NOT NULL,PRIMARY KEY CLUSTERED ([BranchName] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+CREATE TABLE [dbo].[ActivityTrek]([TransactionId] [int] IDENTITY(1,1) NOT NULL,[TransDate] [smalldatetime] NOT NULL,[UserName] [nvarchar](50) NOT NULL,[Branch] [nvarchar](150) NOT NULL,[TableName] [nvarchar](50) NOT NULL,[Activity] [nvarchar](450) NOT NULL, CONSTRAINT [PK_ActivityTrek] PRIMARY KEY CLUSTERED ([TransactionId] ASC)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]) ON [PRIMARY]
+ALTER TABLE [dbo].[Branches] ADD  DEFAULT ('') FOR [Location]
+ALTER TABLE [dbo].[Branches] ADD  DEFAULT ('') FOR [Manager]
+ALTER TABLE [dbo].[Branches] ADD  DEFAULT ('') FOR [ContactNumbers]
+ALTER TABLE [dbo].[Branches] ADD  DEFAULT ('') FOR [Address1]
+ALTER TABLE [dbo].[Branches] ADD  DEFAULT ('') FOR [Address2]
+ALTER TABLE [dbo].[Branches] ADD  DEFAULT ('') FOR [Address3]
+ALTER TABLE [dbo].[Branches] ADD  DEFAULT ('') FOR [Address4]
+ALTER TABLE [dbo].[Branches] ADD  DEFAULT ('') FOR [FaxNumber]
+ALTER TABLE [dbo].[Branches] ADD  DEFAULT ('CLIENT') FOR [ConnectionType]
+ALTER TABLE [dbo].[CashbookTransactions] ADD  DEFAULT ((0)) FOR [Amount]
+ALTER TABLE [dbo].[CashbookTransactions] ADD  DEFAULT ((0)) FOR [Reference]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [Address2]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [Address3]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [Address4]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [Telephone]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [FaxNumber]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [EmailAddress]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [VatNumber]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [BankName]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [ContactPerson]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [AccountName]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [BranchName]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [BranchCode]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [ContactCell]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [AccountNumber]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [RegistrationNumber]
+ALTER TABLE [dbo].[Company] ADD  DEFAULT ('') FOR [LoPath]
+ALTER TABLE [dbo].[ControlNumbers] ADD  CONSTRAINT [DF_ControlNumbers_Invoices]  DEFAULT ((0)) FOR [Invoices]
+ALTER TABLE [dbo].[ControlNumbers] ADD  CONSTRAINT [DF_ControlNumbers_Quotations]  DEFAULT ((0)) FOR [Quotations]
+ALTER TABLE [dbo].[ControlNumbers] ADD  CONSTRAINT [DF_ControlNumbers_Customers]  DEFAULT ((0)) FOR [Customers]
+ALTER TABLE [dbo].[ControlNumbers] ADD  CONSTRAINT [DF_ControlNumbers_Suppliers]  DEFAULT ((0)) FOR [Suppliers]
+ALTER TABLE [dbo].[ControlNumbers] ADD  CONSTRAINT [DF_ControlNumbers_DebitNotes]  DEFAULT ((0)) FOR [DebitNotes]
+ALTER TABLE [dbo].[ControlNumbers] ADD  CONSTRAINT [DF_ControlNumbers_CreditNotes]  DEFAULT ((0)) FOR [CreditNotes]
+ALTER TABLE [dbo].[ControlNumbers] ADD  CONSTRAINT [DF_ControlNumbers_Cashbooks]  DEFAULT ((0)) FOR [Cashbooks]
+ALTER TABLE [dbo].[ControlNumbers] ADD  CONSTRAINT [DF_ControlNumbers_CashSales]  DEFAULT ((0)) FOR [CashSales]
+ALTER TABLE [dbo].[ControlNumbers] ADD  DEFAULT ((0)) FOR [ItemReturns]
+ALTER TABLE [dbo].[ControlNumbers] ADD  DEFAULT ((0)) FOR [JournalEntries]
+ALTER TABLE [dbo].[Customers] ADD  DEFAULT ('') FOR [AccountName]
+ALTER TABLE [dbo].[Customers] ADD  DEFAULT ('') FOR [ContactPerson]
+ALTER TABLE [dbo].[Customers] ADD  DEFAULT ('') FOR [Address1]
+ALTER TABLE [dbo].[Customers] ADD  DEFAULT ('') FOR [Address2]
+ALTER TABLE [dbo].[Customers] ADD  DEFAULT ('') FOR [Address3]
+ALTER TABLE [dbo].[Customers] ADD  DEFAULT ('') FOR [Address4]
+ALTER TABLE [dbo].[Customers] ADD  DEFAULT ('') FOR [FaxNumber]
+ALTER TABLE [dbo].[Customers] ADD  DEFAULT ('') FOR [PhoneNumber]
+ALTER TABLE [dbo].[Customers] ADD  DEFAULT ('') FOR [Cellphone]
+ALTER TABLE [dbo].[Customers] ADD  DEFAULT ('') FOR [EmailAddress]
+ALTER TABLE [dbo].[Customers] ADD  DEFAULT ('') FOR [VatNumber]
+ALTER TABLE [dbo].[CustomerSales] ADD  DEFAULT ((0)) FOR [InvoiceNumber]
+ALTER TABLE [dbo].[CustomerSales] ADD  DEFAULT ('') FOR [Description]
+ALTER TABLE [dbo].[CustomerSales] ADD  DEFAULT ((0)) FOR [Quantity]
+ALTER TABLE [dbo].[CustomerSales] ADD  DEFAULT ((0)) FOR [DiscountAllowed]
+ALTER TABLE [dbo].[CustomerSales] ADD  DEFAULT ((0)) FOR [Taxes]
+ALTER TABLE [dbo].[CustomerSales] ADD  DEFAULT ((0)) FOR [SalesPrice]
+ALTER TABLE [dbo].[CustomerSales] ADD  DEFAULT ((0)) FOR [OriginalInvoice]
+ALTER TABLE [dbo].[CustomerSales] ADD  DEFAULT ('') FOR [UserName]
+ALTER TABLE [dbo].[CustomerSalesMain] ADD  DEFAULT ('0000') FOR [CustomerId]
+ALTER TABLE [dbo].[CustomerSalesMain] ADD  DEFAULT ('') FOR [Status]
+ALTER TABLE [dbo].[CustomerSalesMain] ADD  DEFAULT ((0)) FOR [Amount]
+ALTER TABLE [dbo].[CustomerSalesMain] ADD  DEFAULT ((0)) FOR [Taxes]
+ALTER TABLE [dbo].[CustomerSalesMain] ADD  DEFAULT ((0)) FOR [Discount]
+ALTER TABLE [dbo].[CustomerSalesMain] ADD  DEFAULT ((0)) FOR [OriginalInvoice]
+ALTER TABLE [dbo].[CustomerSalesMain] ADD  DEFAULT ('') FOR [SalesRep]
+ALTER TABLE [dbo].[CustomerSalesMain] ADD  DEFAULT ('') FOR [UserName]
+ALTER TABLE [dbo].[CustomerTerms] ADD  DEFAULT ('') FOR [Terms]
+ALTER TABLE [dbo].[CustomerTransactions] ADD  DEFAULT ((0)) FOR [Amount]
+ALTER TABLE [dbo].[CustomerTransactions] ADD  DEFAULT ('DEBIT') FOR [TransactionType]
+ALTER TABLE [dbo].[CustomerTransactions] ADD  DEFAULT ('') FOR [Description]
+ALTER TABLE [dbo].[CustomerTransactions] ADD  DEFAULT ('') FOR [ReferenceNumber]
+ALTER TABLE [dbo].[DisposedInventory] ADD  DEFAULT ('') FOR [SerialNumber]
+ALTER TABLE [dbo].[DownloadFiles] ADD  DEFAULT ('N') FOR [UpdateStatus]
+ALTER TABLE [dbo].[Employees] ADD  DEFAULT ('') FOR [FirstName]
+ALTER TABLE [dbo].[Employees] ADD  DEFAULT ('') FOR [LastName]
+ALTER TABLE [dbo].[Employees] ADD  DEFAULT ('') FOR [OtherNames]
+ALTER TABLE [dbo].[Employees] ADD  DEFAULT ('') FOR [Address1]
+ALTER TABLE [dbo].[Employees] ADD  DEFAULT ('') FOR [Address2]
+ALTER TABLE [dbo].[Employees] ADD  DEFAULT ('') FOR [Address3]
+ALTER TABLE [dbo].[Employees] ADD  DEFAULT ('') FOR [Address4]
+ALTER TABLE [dbo].[Employees] ADD  DEFAULT ('') FOR [Telephone]
+ALTER TABLE [dbo].[Employees] ADD  DEFAULT ('') FOR [Cellphone]
+ALTER TABLE [dbo].[Employees] ADD  DEFAULT ('') FOR [EmailAddress]
+ALTER TABLE [dbo].[EmploymentHistory] ADD  DEFAULT ('') FOR [JobTitle]
+ALTER TABLE [dbo].[EmploymentHistory] ADD  DEFAULT ((0)) FOR [AverageSalary]
+ALTER TABLE [dbo].[Expenses] ADD  DEFAULT ('') FOR [UserBranch]
+ALTER TABLE [dbo].[Expenses] ADD  DEFAULT ('') FOR [Description]
+ALTER TABLE [dbo].[Expenses] ADD  DEFAULT ((0)) FOR [Amount]
+ALTER TABLE [dbo].[Expenses] ADD  DEFAULT ('') FOR [PostToAccount]
+ALTER TABLE [dbo].[FileControl] ADD  DEFAULT ((0)) FOR [FileNumber]
+ALTER TABLE [dbo].[GroupCashbookTransactions] ADD  DEFAULT ((0)) FOR [Amount]
+ALTER TABLE [dbo].[GroupCashbookTransactions] ADD  DEFAULT ((0)) FOR [Reference]
+ALTER TABLE [dbo].[GroupSalesMain] ADD  DEFAULT ('') FOR [ContactNumber]
+ALTER TABLE [dbo].[InventoryItems] ADD  CONSTRAINT [DF__Inventory__Descr__286302EC]  DEFAULT ('') FOR [Description]
+ALTER TABLE [dbo].[InventoryItems] ADD  CONSTRAINT [DF__Inventory__Selli__29572725]  DEFAULT ((0)) FOR [SellingPrice]
+ALTER TABLE [dbo].[InventoryItems] ADD  CONSTRAINT [DF__Inventory__CostP__2A4B4B5E]  DEFAULT ((0)) FOR [CostPrice]
+ALTER TABLE [dbo].[InventoryItems] ADD  CONSTRAINT [DF_InventoryItems_Quantity]  DEFAULT ((1)) FOR [Quantity]
+ALTER TABLE [dbo].[InventoryItems] ADD  CONSTRAINT [DF_InventoryItems_InventoryType]  DEFAULT ('Specific') FOR [InventoryType]
+ALTER TABLE [dbo].[InventoryItems] ADD  CONSTRAINT [DF_InventoryItems_MinimumLevel]  DEFAULT ((0)) FOR [MinimumLevel]
+ALTER TABLE [dbo].[InventoryItems] ADD  CONSTRAINT [DF_InventoryItems_WarningLevel]  DEFAULT ((0)) FOR [WarningLevel]
+ALTER TABLE [dbo].[InventoryItems] ADD  CONSTRAINT [DF_InventoryItems_IdealLevel]  DEFAULT ((0)) FOR [IdealLevel]
+ALTER TABLE [dbo].[InventoryItems] ADD  CONSTRAINT [DF_InventoryItems_TaxStatus]  DEFAULT (N'YES') FOR [TaxStatus]
+ALTER TABLE [dbo].[InventoryItems] ADD  CONSTRAINT [DF_InventoryItems_SerialNumbers]  DEFAULT ('') FOR [SerialNumbers]
+ALTER TABLE [dbo].[InventoryItems] ADD  DEFAULT ('') FOR [BarCodeNo]
+ALTER TABLE [dbo].[InventoryOrders] ADD  CONSTRAINT [DF__Inventory__Descr__1DE57479]  DEFAULT ('') FOR [Description]
+ALTER TABLE [dbo].[InventoryOrders] ADD  CONSTRAINT [DF__Inventory__Quant__1ED998B2]  DEFAULT ((0)) FOR [Quantity]
+ALTER TABLE [dbo].[InventoryOrders] ADD  CONSTRAINT [DF__Inventory__Suppl__1FCDBCEB]  DEFAULT ('') FOR [SupplierNo]
+ALTER TABLE [dbo].[InventoryOrders] ADD  CONSTRAINT [DF__Inventory__Order__20C1E124]  DEFAULT ((0)) FOR [OrderPrice]
+ALTER TABLE [dbo].[InventoryOrders] ADD  CONSTRAINT [DF__Inventory__Recei__21B6055D]  DEFAULT ((0)) FOR [ReceiptPrice]
+ALTER TABLE [dbo].[InventoryOrders] ADD  CONSTRAINT [DF__InventoryOr__Tax__22AA2996]  DEFAULT ((0)) FOR [Tax]
+ALTER TABLE [dbo].[InventoryTransfers] ADD  DEFAULT ((0)) FOR [Quantity]
+ALTER TABLE [dbo].[InventoryTransfers] ADD  DEFAULT ('') FOR [SerialNumbers]
+ALTER TABLE [dbo].[InventoryTransfers] ADD  DEFAULT ((0)) FOR [BatchNo]
+ALTER TABLE [dbo].[InventoryTransfers] ADD  DEFAULT ('') FOR [Catery]
+ALTER TABLE [dbo].[InventoryTransfers] ADD  DEFAULT ('') FOR [SubCatery]
+ALTER TABLE [dbo].[InventoryTransfers] ADD  DEFAULT ('') FOR [ItemType]
+ALTER TABLE [dbo].[InventoryTransfers] ADD  DEFAULT ((0)) FOR [UnitPrice]
+ALTER TABLE [dbo].[InventoryTransfers] ADD  DEFAULT ('') FOR [BaseBarCode]
+ALTER TABLE [dbo].[InventoryTransfers] ADD  DEFAULT ('') FOR [SerialNumber]
+ALTER TABLE [dbo].[InventoryTransfersIn] ADD  DEFAULT ('') FOR [SourceBranch]
+ALTER TABLE [dbo].[InventoryTransfersIn] ADD  DEFAULT ('') FOR [ReceivingBranch]
+ALTER TABLE [dbo].[InventoryTransfersIn] ADD  DEFAULT ((0)) FOR [Quantity]
+ALTER TABLE [dbo].[InventoryTransfersIn] ADD  DEFAULT ('') FOR [BaseBarCode]
+ALTER TABLE [dbo].[InventoryTransfersIn] ADD  DEFAULT ('') FOR [SerialNumber]
+ALTER TABLE [dbo].[JournalEntries] ADD  DEFAULT ((0)) FOR [Amount]
+ALTER TABLE [dbo].[JournalEntries] ADD  DEFAULT ('') FOR [BranchName]
+ALTER TABLE [dbo].[LedgerAccounts] ADD  DEFAULT ('-- Not Applicable --') FOR [Asset]
+ALTER TABLE [dbo].[LedgerAccounts] ADD  DEFAULT ('-- Not Applicable --') FOR [Liability]
+ALTER TABLE [dbo].[LedgerAccounts] ADD  DEFAULT ('-- Not Applicable --') FOR [Equity]
+ALTER TABLE [dbo].[LedgerAccounts] ADD  DEFAULT ('-- Not Applicable --') FOR [Income]
+ALTER TABLE [dbo].[LedgerAccounts] ADD  DEFAULT ('-- Not Applicable --') FOR [Expense]
+ALTER TABLE [dbo].[LedgerTransactions] ADD  CONSTRAINT [DF__LedgerTra__Amoun__17036CC0]  DEFAULT ((0)) FOR [Amount]
+ALTER TABLE [dbo].[LedgerTransactions] ADD  CONSTRAINT [DF__LedgerTra__Refer__74794A92]  DEFAULT ((0)) FOR [Reference]
+ALTER TABLE [dbo].[OrdersReceipt] ADD  DEFAULT ((0)) FOR [OrderNumber]
+ALTER TABLE [dbo].[OrdersReceipt] ADD  DEFAULT ((0)) FOR [Quantity]
+ALTER TABLE [dbo].[OrdersReceipt] ADD  DEFAULT ('') FOR [SerialNumbers]
+ALTER TABLE [dbo].[OrdersReceipt] ADD  DEFAULT ('') FOR [Branch]
+ALTER TABLE [dbo].[OrdersReceipt] ADD  DEFAULT ('') FOR [ItemCode]
+ALTER TABLE [dbo].[OrdersReceipt] ADD  DEFAULT ('') FOR [BaseBarcode]
+ALTER TABLE [dbo].[OrdersReceipt] ADD  DEFAULT ((0)) FOR [CostPrice]
+ALTER TABLE [dbo].[OrdersReceipt] ADD  DEFAULT ('') FOR [DestinationBranch]
+ALTER TABLE [dbo].[PrinterSettings] ADD  DEFAULT ('SERIAL') FOR [ConnectionType]
+ALTER TABLE [dbo].[PrinterSettings] ADD  DEFAULT ((0)) FOR [ComPort]
+ALTER TABLE [dbo].[QuoteDetails] ADD  DEFAULT ((1)) FOR [Quantity]
+ALTER TABLE [dbo].[QuoteDetails] ADD  DEFAULT ((0)) FOR [UnitPrice]
+ALTER TABLE [dbo].[QuoteDetails] ADD  DEFAULT ((0)) FOR [Discount]
+ALTER TABLE [dbo].[QuoteDetails] ADD  DEFAULT ((0)) FOR [Tax]
+ALTER TABLE [dbo].[QuoteDetails] ADD  DEFAULT ((0)) FOR [Payable]
+ALTER TABLE [dbo].[QuoteDetails] ADD  DEFAULT ((0)) FOR [SubTotal]
+ALTER TABLE [dbo].[QuoteMain] ADD  DEFAULT ('') FOR [SalesAgent]
+ALTER TABLE [dbo].[QuoteMain] ADD  DEFAULT ('') FOR [Address2]
+ALTER TABLE [dbo].[QuoteMain] ADD  DEFAULT ('') FOR [Address3]
+ALTER TABLE [dbo].[QuoteMain] ADD  DEFAULT ('') FOR [Address4]
+ALTER TABLE [dbo].[QuoteMain] ADD  DEFAULT ('') FOR [ContactNumber]
+ALTER TABLE [dbo].[QuoteMain] ADD  DEFAULT ('') FOR [EmailAddress]
+ALTER TABLE [dbo].[QuoteMain] ADD  DEFAULT ('') FOR [Terms]
+ALTER TABLE [dbo].[QuoteMain] ADD  DEFAULT ((0)) FOR [QuoteValue]
+ALTER TABLE [dbo].[QuoteMain] ADD  DEFAULT ((0)) FOR [TotalDiscount]
+ALTER TABLE [dbo].[QuoteMain] ADD  DEFAULT ((0)) FOR [TotalTaxes]
+ALTER TABLE [dbo].[QuoteMain] ADD  DEFAULT ('') FOR [TaxNumber]
+ALTER TABLE [dbo].[ReceivedOrders] ADD  DEFAULT ('') FOR [GenericBarCode]
+ALTER TABLE [dbo].[ReceivedOrders] ADD  DEFAULT ('') FOR [BaseBarCode]
+ALTER TABLE [dbo].[ReceivedOrders] ADD  DEFAULT ('') FOR [SerialNumber]
+ALTER TABLE [dbo].[ReceivedOrders] ADD  DEFAULT ('') FOR [ScannedSerialNo]
+ALTER TABLE [dbo].[ReceivedOrders] ADD  DEFAULT ('') FOR [ItemCode]
+ALTER TABLE [dbo].[RegionalTaxes] ADD  DEFAULT ((0)) FOR [TaxRate]
+ALTER TABLE [dbo].[Sales] ADD  CONSTRAINT [DF_Sales_InvoiceNumber]  DEFAULT ((0)) FOR [InvoiceNumber]
+ALTER TABLE [dbo].[Sales] ADD  CONSTRAINT [DF_Sales_CustomerId]  DEFAULT ('') FOR [CustomerId]
+ALTER TABLE [dbo].[Sales] ADD  CONSTRAINT [DF_Sales_Description]  DEFAULT ('') FOR [Description]
+ALTER TABLE [dbo].[Sales] ADD  CONSTRAINT [DF_Sales_Quantity]  DEFAULT ((0)) FOR [Quantity]
+ALTER TABLE [dbo].[Sales] ADD  CONSTRAINT [DF_Sales_DiscountAllowed]  DEFAULT ((0)) FOR [DiscountAllowed]
+ALTER TABLE [dbo].[Sales] ADD  CONSTRAINT [DF_Sales_Taxes]  DEFAULT ((0)) FOR [Taxes]
+ALTER TABLE [dbo].[Sales] ADD  CONSTRAINT [DF_Sales_TransType]  DEFAULT (N'CASH SALE') FOR [TransType]
+ALTER TABLE [dbo].[Sales] ADD  CONSTRAINT [DF_Sales_SalesPrice]  DEFAULT ((0)) FOR [SalesPrice]
+ALTER TABLE [dbo].[Sales] ADD  CONSTRAINT [DF_Sales_ProductType]  DEFAULT (N'INVENTORY') FOR [ProductType]
+ALTER TABLE [dbo].[Sales] ADD  DEFAULT ('') FOR [SerialNumbers]
+ALTER TABLE [dbo].[Sales] ADD  DEFAULT ('') FOR [SalesRep]
+ALTER TABLE [dbo].[Sales] ADD  DEFAULT ('') FOR [UserName]
+ALTER TABLE [dbo].[Sales] ADD  DEFAULT ((0)) FOR [OriginalInvoice]
+ALTER TABLE [dbo].[SalesExchanges] ADD  DEFAULT ('') FOR [CurrentSerialNumber]
+ALTER TABLE [dbo].[SalesExchanges] ADD  DEFAULT ('') FOR [OriginalSerialNumber]
+ALTER TABLE [dbo].[SalesExchanges] ADD  DEFAULT ((0)) FOR [SellingPrice]
+ALTER TABLE [dbo].[SalesExchanges] ADD  DEFAULT ((0)) FOR [DiscountAllowed]
+ALTER TABLE [dbo].[SalesMain] ADD  CONSTRAINT [DF_SalesMain_CustomerId]  DEFAULT ('') FOR [CustomerId]
+ALTER TABLE [dbo].[SalesMain] ADD  CONSTRAINT [DF_SalesMain_Status]  DEFAULT ('') FOR [Status]
+ALTER TABLE [dbo].[SalesMain] ADD  CONSTRAINT [DF_SalesMain_Amount]  DEFAULT ((0)) FOR [Amount]
+ALTER TABLE [dbo].[SalesMain] ADD  CONSTRAINT [DF_SalesMain_Taxes]  DEFAULT ((0)) FOR [Taxes]
+ALTER TABLE [dbo].[SalesMain] ADD  CONSTRAINT [DF_SalesMain_Discount]  DEFAULT ((0)) FOR [Discount]
+ALTER TABLE [dbo].[SalesMain] ADD  DEFAULT ('') FOR [SalesRep]
+ALTER TABLE [dbo].[SalesMain] ADD  DEFAULT ('') FOR [UserName]
+ALTER TABLE [dbo].[SalesMain] ADD  DEFAULT ((0)) FOR [OriginalInvoice]
+ALTER TABLE [dbo].[SalesMain] ADD  DEFAULT ('') FOR [ContactNumber]
+ALTER TABLE [dbo].[SalesTranmissonBatches] ADD  DEFAULT ((0)) FOR [BatchNo]
+ALTER TABLE [dbo].[SerialNumbers] ADD  DEFAULT ('') FOR [BarCodeNo]
+ALTER TABLE [dbo].[SerialNumbers] ADD  DEFAULT ('') FOR [SourceSerialNo]
+ALTER TABLE [dbo].[StockCount] ADD  DEFAULT ((0)) FOR [Quantity]
+ALTER TABLE [dbo].[StockTake] ADD  DEFAULT ('') FOR [Barcode]
+ALTER TABLE [dbo].[StockTake] ADD  DEFAULT ('') FOR [BaseBarcode]
+ALTER TABLE [dbo].[StockTake] ADD  DEFAULT ('') FOR [SerialNumber]
+ALTER TABLE [dbo].[StockTake] ADD  DEFAULT ((0)) FOR [Quantity]
+ALTER TABLE [dbo].[StoresIssues] ADD  DEFAULT ((0)) FOR [Quantity]
+ALTER TABLE [dbo].[StoresReturns] ADD  DEFAULT ((0)) FOR [Quantity]
+ALTER TABLE [dbo].[Suppliers] ADD  DEFAULT ('') FOR [AccountName]
+ALTER TABLE [dbo].[Suppliers] ADD  DEFAULT ('') FOR [ContactPerson]
+ALTER TABLE [dbo].[Suppliers] ADD  DEFAULT ('') FOR [Address1]
+ALTER TABLE [dbo].[Suppliers] ADD  DEFAULT ('') FOR [Address2]
+ALTER TABLE [dbo].[Suppliers] ADD  DEFAULT ('') FOR [Address3]
+ALTER TABLE [dbo].[Suppliers] ADD  DEFAULT ('') FOR [Address4]
+ALTER TABLE [dbo].[Suppliers] ADD  DEFAULT ('') FOR [FaxNumber]
+ALTER TABLE [dbo].[Suppliers] ADD  DEFAULT ('') FOR [PhoneNumber]
+ALTER TABLE [dbo].[Suppliers] ADD  DEFAULT ('') FOR [Cellphone]
+ALTER TABLE [dbo].[Suppliers] ADD  DEFAULT ('') FOR [EmailAddress]
+ALTER TABLE [dbo].[Suppliers] ADD  DEFAULT ('') FOR [VatNumber]
+ALTER TABLE [dbo].[SupplierTransactions] ADD  DEFAULT ((0)) FOR [Amount]
+ALTER TABLE [dbo].[SupplierTransactions] ADD  DEFAULT ('DEBIT') FOR [TransactionType]
+ALTER TABLE [dbo].[SupplierTransactions] ADD  DEFAULT ('') FOR [Description]
+ALTER TABLE [dbo].[SupplierTransactions] ADD  DEFAULT ('') FOR [ReferenceNumber]
+ALTER TABLE [dbo].[TradeReferences] ADD  DEFAULT ('') FOR [Notes]
+ALTER TABLE [dbo].[TradeReferences] ADD  DEFAULT ((0)) FOR [AccountBalance]
+ALTER TABLE [dbo].[Users] ADD  DEFAULT ('NO') FOR [SalesStatus]
+ALTER TABLE [dbo].[Users] ADD  DEFAULT ('NO') FOR [PurchasesStatus]
+ALTER TABLE [dbo].[Users] ADD  DEFAULT ('NO') FOR [Receiveods]
+ALTER TABLE [dbo].[Users] ADD  DEFAULT ('NO') FOR [ProcessRefunds]
+ALTER TABLE [dbo].[Users] ADD  DEFAULT ('OPERATOR') FOR [UserLevel]
+ALTER TABLE [dbo].[VoidedJournalEntries] ADD  DEFAULT ((0)) FOR [Amount]
+ALTER TABLE [dbo].[VoidedJournalEntries] ADD  DEFAULT ('') FOR [BranchName]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ((0)) FOR [InvoiceNumber]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ('') FOR [CustomerId]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ('') FOR [Description]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ((0)) FOR [Quantity]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ((0)) FOR [DiscountAllowed]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ((0)) FOR [Taxes]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ('CASH SALE') FOR [TransType]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ((0)) FOR [SalesPrice]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ('INVENTORY') FOR [ProductType]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ('') FOR [SerialNumbers]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ((0)) FOR [OriginalInvoice]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ('') FOR [SalesRep]
+ALTER TABLE [dbo].[VoidSales] ADD  DEFAULT ('') FOR [UserName]
+ALTER TABLE [dbo].[VoidSalesMain] ADD  DEFAULT ('0000') FOR [CustomerId]
+ALTER TABLE [dbo].[VoidSalesMain] ADD  DEFAULT ('') FOR [Status]
+ALTER TABLE [dbo].[VoidSalesMain] ADD  DEFAULT ((0)) FOR [Amount]
+ALTER TABLE [dbo].[VoidSalesMain] ADD  DEFAULT ((0)) FOR [Taxes]
+ALTER TABLE [dbo].[VoidSalesMain] ADD  DEFAULT ((0)) FOR [Discount]
+ALTER TABLE [dbo].[VoidSalesMain] ADD  DEFAULT ((0)) FOR [OriginalInvoice]
+ALTER TABLE [dbo].[VoidSalesMain] ADD  DEFAULT ('') FOR [SalesRep]
+ALTER TABLE [dbo].[VoidSalesMain] ADD  DEFAULT ('') FOR [UserName]
+ALTER TABLE [dbo].[WebProfile] ADD  DEFAULT ('') FOR [FtpLoginName]
+ALTER TABLE [dbo].[WebProfile] ADD  DEFAULT ('') FOR [FtpLoginPassword]
+ALTER TABLE [dbo].[WebProfile] ADD  DEFAULT ('MANUAL') FOR [ConnectionType]
+ALTER TABLE [dbo].[WebProfile] ADD  DEFAULT ('') FOR [MainBranch]

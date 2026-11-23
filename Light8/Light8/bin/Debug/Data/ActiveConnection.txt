@@ -1,0 +1,1 @@
+Data Source=217.76.55.38,1433;Initial Catalog=GTI_ACTIVE;User ID=gtiair;Password=Ababila@!969#;Provider=SQLOLEDB

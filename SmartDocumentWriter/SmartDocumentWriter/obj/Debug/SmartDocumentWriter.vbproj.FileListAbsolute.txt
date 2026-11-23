@@ -1,0 +1,65 @@
+C:\Embassy\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.dll
+C:\Embassy\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.pdb
+C:\Embassy\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.xml
+C:\Embassy\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.Resources.resources
+C:\Embassy\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.dll
+C:\Embassy\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.xml
+C:\Embassy\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.pdb
+D:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.dll
+D:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.pdb
+D:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.xml
+D:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.Resources.resources
+D:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.GenerateResource.Cache
+D:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.dll
+D:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.xml
+D:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.pdb
+E:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.dll
+E:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.pdb
+E:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.xml
+E:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.Resources.resources
+E:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.GenerateResource.Cache
+E:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.dll
+E:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.xml
+E:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.pdb
+G:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.dll
+G:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.pdb
+G:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.xml
+G:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.Resources.resources
+G:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\GenerateResource.read.1.tlog
+G:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\GenerateResource.write.1.tlog
+G:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.dll
+G:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.xml
+G:\Projects\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.pdb
+C:\Embassy\gwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.dll
+C:\Embassy\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.xml
+C:\Embassy\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.dll
+C:\Embassy\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.xml
+C:\Embassy\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\QRCoder.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\QRCoder.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDoc.46130DC0.Up2Date

@@ -1,0 +1,27 @@
+C:\Embassy\gwtOffice\Light8\Loans\obj\x86\Debug\Loans.frmAmortizer.resources
+C:\Embassy\gwtOffice\Light8\Loans\obj\x86\Debug\Loans.Resources.resources
+C:\Embassy\gwtOffice\Light8\Loans\obj\x86\Debug\Loans.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\Light8\Loans\bin\Debug\Loans.exe
+C:\Embassy\gwtOffice\Light8\Loans\bin\Debug\Loans.pdb
+C:\Embassy\gwtOffice\Light8\Loans\bin\Debug\Loans.xml
+C:\Embassy\gwtOffice\Light8\Loans\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\Light8\Loans\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\Loans\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\Light8\Loans\obj\x86\Debug\Loans.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice\Light8\Loans\obj\x86\Debug\Loans.exe
+C:\Embassy\gwtOffice\Light8\Loans\obj\x86\Debug\Loans.xml
+C:\Embassy\gwtOffice\Light8\Loans\obj\x86\Debug\Loans.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.vbprojAssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.frmAmortizer.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.frmAmortizer.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Loans\obj\x86\Debug\Loans.pdb

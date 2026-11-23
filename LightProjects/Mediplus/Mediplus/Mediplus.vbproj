@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D722FBA1-A965-448A-86E0-2CEEFB9802E6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>MediPlus.My.MyApplication</StartupObject>
+    <RootNamespace>MediPlus</RootNamespace>
+    <AssemblyName>Mediplus</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Mediplus.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Mediplus.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Add patient.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridViewControl">
+      <HintPath>..\..\Controls\AdvancedDataGridViewControl\AdvancedDataGridViewControl\bin\Debug\AdvancedDataGridViewControl.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="DevComponents.DotNetBar2, Version=12.7.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="gCursor">
+      <HintPath>..\..\Controls\gCursor.dll</HintPath>
+    </Reference>
+    <Reference Include="Guifreaks.Common, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b9e40ae01dee0076" />
+    <Reference Include="Guifreaks.Navisuite, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7f6dc13cbca790ea, processorArchitecture=MSIL" />
+    <Reference Include="MTGCCombobox">
+      <HintPath>..\..\Controls\MTGCCombobox.dll</HintPath>
+    </Reference>
+    <Reference Include="Numberbox">
+      <HintPath>..\..\AccountingLight\AccountingLight\bin\Debug\Numberbox.dll</HintPath>
+    </Reference>
+    <Reference Include="ObjectListView">
+      <HintPath>..\..\Controls\ObjectListViewFull-2.9.0\ObjectListViewDemo\Demo\bin\Debug\ObjectListView.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartColumnReportWriter">
+      <HintPath>..\..\SmartColumnReportWriter\SmartColumnReportWriter\bin\Debug\SmartColumnReportWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartReportWriter">
+      <HintPath>..\..\SmartReportWriter\SmartReportWriter\bin\Debug\SmartReportWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.TreeListView">
+      <HintPath>..\..\Controls\TreeListView_Demo1\System.Windows.Forms.TreeListView.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonFunctions.vb" />
+    <Compile Include="CommonStructures.vb" />
+    <Compile Include="CommonVariables.vb" />
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategorySetup.Designer.vb">
+      <DependentUpon>frmCategorySetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategorySetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDependents.Designer.vb">
+      <DependentUpon>frmDependents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDependents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDispensingCipherSetup.Designer.vb">
+      <DependentUpon>frmDispensingCipherSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDispensingCipherSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDateSpecifier.Designer.vb">
+      <DependentUpon>frmDateSpecifier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDateSpecifier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDispensingCiphersListing.Designer.vb">
+      <DependentUpon>frmDispensingCiphersListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDispensingCiphersListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDispensingCiphersSearch.Designer.vb">
+      <DependentUpon>frmDispensingCiphersSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDispensingCiphersSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDispensingProcess.Designer.vb">
+      <DependentUpon>frmDispensingProcess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDispensingProcess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDispensingStart.Designer.vb">
+      <DependentUpon>frmDispensingStart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDispensingStart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDrugAlternatives.Designer.vb">
+      <DependentUpon>frmDrugAlternatives.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDrugAlternatives.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDrugManufacturers.Designer.vb">
+      <DependentUpon>frmDrugManufacturers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDrugManufacturers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDrugSearch.Designer.vb">
+      <DependentUpon>frmDrugSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDrugSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDrugSearchShort.Designer.vb">
+      <DependentUpon>frmDrugSearchShort.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDrugSearchShort.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDrugSetup.Designer.vb">
+      <DependentUpon>frmDrugSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDrugSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFindInventory.Designer.vb">
+      <DependentUpon>frmFindInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmFindInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInventorySetup.Designer.vb">
+      <DependentUpon>frmInventorySetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInventorySetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMedication.Designer.vb">
+      <DependentUpon>frmMedication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMedication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMedlightMain.Designer.vb">
+      <DependentUpon>frmMedlightMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMedlightMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPatientDetails.Designer.vb">
+      <DependentUpon>frmPatientDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPatientDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrinterSetup.Designer.vb">
+      <DependentUpon>frmPrinterSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrinterSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintPrepacks.Designer.vb">
+      <DependentUpon>frmPrintPrepacks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintPrepacks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReceivedDrugOrdersListing.Designer.vb">
+      <DependentUpon>frmReceivedDrugOrdersListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReceivedDrugOrdersListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReceiveDrugs.Designer.vb">
+      <DependentUpon>frmReceiveDrugs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReceiveDrugs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRepeatDrugStatus.Designer.vb">
+      <DependentUpon>frmRepeatDrugStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRepeatDrugStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalesDetails.Designer.vb">
+      <DependentUpon>frmSalesDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalesDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalesEntryType.Designer.vb">
+      <DependentUpon>frmSalesEntryType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalesEntryType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalesPreview.Designer.vb">
+      <DependentUpon>frmSalesPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalesPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDrugCategories.Designer.vb">
+      <DependentUpon>frmDrugCategories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDrugCategories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupervisorAuthorizaton.Designer.vb">
+      <DependentUpon>frmSupervisorAuthorizaton.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupervisorAuthorizaton.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTenderAmount.Designer.vb">
+      <DependentUpon>frmTenderAmount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTenderAmount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gListView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RawPrinterHelper.vb" />
+    <Compile Include="SendHttpSms.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategorySetup.resx">
+      <DependentUpon>frmCategorySetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDependents.resx">
+      <DependentUpon>frmDependents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDispensingCipherSetup.resx">
+      <DependentUpon>frmDispensingCipherSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDateSpecifier.resx">
+      <DependentUpon>frmDateSpecifier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDispensingCiphersListing.resx">
+      <DependentUpon>frmDispensingCiphersListing.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDispensingCiphersSearch.resx">
+      <DependentUpon>frmDispensingCiphersSearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDispensingProcess.resx">
+      <DependentUpon>frmDispensingProcess.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDispensingStart.resx">
+      <DependentUpon>frmDispensingStart.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDrugAlternatives.resx">
+      <DependentUpon>frmDrugAlternatives.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDrugManufacturers.resx">
+      <DependentUpon>frmDrugManufacturers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDrugSearch.resx">
+      <DependentUpon>frmDrugSearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDrugSearchShort.resx">
+      <DependentUpon>frmDrugSearchShort.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDrugSetup.resx">
+      <DependentUpon>frmDrugSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFindInventory.resx">
+      <DependentUpon>frmFindInventory.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInventorySetup.resx">
+      <DependentUpon>frmInventorySetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMedication.resx">
+      <DependentUpon>frmMedication.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMedlightMain.resx">
+      <DependentUpon>frmMedlightMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPatientDetails.resx">
+      <DependentUpon>frmPatientDetails.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrinterSetup.resx">
+      <DependentUpon>frmPrinterSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintPrepacks.resx">
+      <DependentUpon>frmPrintPrepacks.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceivedDrugOrdersListing.resx">
+      <DependentUpon>frmReceivedDrugOrdersListing.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceiveDrugs.resx">
+      <DependentUpon>frmReceiveDrugs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRepeatDrugStatus.resx">
+      <DependentUpon>frmRepeatDrugStatus.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalesDetails.resx">
+      <DependentUpon>frmSalesDetails.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalesEntryType.resx">
+      <DependentUpon>frmSalesEntryType.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalesPreview.resx">
+      <DependentUpon>frmSalesPreview.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDrugCategories.resx">
+      <DependentUpon>frmDrugCategories.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupervisorAuthorizaton.resx">
+      <DependentUpon>frmSupervisorAuthorizaton.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTenderAmount.resx">
+      <DependentUpon>frmTenderAmount.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Add patient.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\gwtCommonLibrary\gwtCommonLibrary\gwtCommonLibrary.vbproj">
+      <Project>{F666E796-F44A-42E9-9343-E533B7458620}</Project>
+      <Name>gwtCommonLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1 @@
+INSERT INTO GroupSales (BranchName, CustomerId, InvoiceNumber, TransDate, ItemCode, Quantity, SalesPrice, TransType, Description, Taxes, DiscountAllowed, ProductType, SerialNumbers, UserName, SalesRep) VALUES ('HEAD OFFICE', '0000', 112, '10/08/11', 'CASING-HDD-2.5', 1, 7, 'CASH SALE', 'CASING', 0, 0, '', '', 'Embassy', 'Phiri Embassy ')

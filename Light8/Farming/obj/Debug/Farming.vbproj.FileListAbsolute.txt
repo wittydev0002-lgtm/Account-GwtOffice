@@ -1,0 +1,42 @@
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\Farming.dll
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\Farming.pdb
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\Farming.xml
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\Light8\Farming\obj\Debug\Farming.frmFarming.resources
+C:\Embassy\gwtOffice\Light8\Farming\obj\Debug\Farming.Resources.resources
+C:\Embassy\gwtOffice\Light8\Farming\obj\Debug\Farming.dll
+C:\Embassy\gwtOffice\Light8\Farming\obj\Debug\Farming.xml
+C:\Embassy\gwtOffice\Light8\Farming\obj\Debug\Farming.pdb
+C:\Embassy\gwtOffice\Light8\Farming\obj\Debug\Farming.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice\Light8\Farming\obj\Debug\Farming.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\Light8\Farming\bin\Debug\Numberbox.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.vbprojAssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.frmFarming.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.frmFarming.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\Farming\obj\Debug\Farming.pdb

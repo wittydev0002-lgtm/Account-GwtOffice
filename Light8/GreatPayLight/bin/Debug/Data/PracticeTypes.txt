@@ -1,0 +1,179 @@
+10000|Specialists |1|999 ||
+10008|Specialist Radiologist/Nuclear Physicians |1|998 ||
+10070|Consulting Specialists |1|||
+10080|Surgical Specialists |1|||
+10099|General Practitioners / non-designated Specialists|1|99 ||
+11000|Anaesthesiology |1|10 |10|0
+11001|Critical Care |1|10 |35|0
+11200|Dermatology |1|12 |12|0
+11400|General Medical Practice |1|14 |14|0
+11500|General Medical Practice |1|15 |15|0
+11600|Obstetrics and Gynaecology |1|16 |16|0
+11700|Pulmonology |1|17 |17|0
+11800|Medicine (Specialist Physician) |1|18 |18|0
+11801|Endocrinology |1|18 |18|1
+11802|Geriatric Medicine |1|18 ||
+11803|Medical Genetics |1|18 ||
+11804|Nephrology |1|18 ||
+11805|Medicine : Clinical Haematology |1|18 ||
+11900|Gastroenterology |1|19 |19|0
+12000|Neurology |1|20 |20|0
+12100|Cardiology |1|21 |21|0
+12200|Psychiatry |1|22 |22|0
+12201|Child Psychiatry |1|22 ||
+12300|Medical Oncology |1|23 |23|0
+12400|Neurosurgery |1|24 |24|0
+12500|Nuclear Medicine |29|25 |25|0
+12600|Opthalmology |1|26 |26|0
+12700|Clinical Haemotology |1|27 |27|0
+12800|Orthopaedics |1|28 |28|0
+13000|Otorhinolaryngology |1|30 |30|0
+13100|Rheumatology |1|31 |31|0
+13200|Paediatrics |1|32 |32|0
+13201|Paediatrics : Neurology |1|32 |32|1
+13202|Paediatrics : Developmental |1|32 |32|2
+13203|Neonatology |1|32 ||
+13300|Paediatric Cardiology |1|33 |33|0
+13400|Physical Medicine |1|34 |34|0
+13600|Plastic and Reconstructive Surgery |1|36 |36|0
+13800|Radiology |29|38 |38|0
+14000|Radiation Oncology |1|40 |40|0
+14200|Surgery |1|42 |42|0
+14201|Paediatric Surgery |1|42 |42|2
+14202|Vascular Surgery |1|42 |42|1
+14400|Cardiothoracic Surgery |1|44 |44|0
+14600|Urology |1|46 |46|0
+15000|Pathology (Chemical) |1|||
+15100|Pathology (Forensic) |1|||
+15200|Pathology (Clinical) |1|52 |52|0
+15300|Pathology (Anatomical) |1|53 |53|0
+15400|Pathology (Haematological) |1|||
+15500|Pathology (Microbiological) |1|||
+15600|Pathology (Virological) |1|||
+19700|Community Health |1|97 |97|0
+19701|Occupational Health |1|97 |29|0
+19999|Designated Specialists |1|||
+25400|General Dental Practice |2|54 |54|0
+26200|Maxillo-facial and Oral Surgery |2|62 |62|0
+26400|Orthodontics |2|64 |64|0
+29200|Oral Medicine and Periodontics |2|92 |92|0
+29400|Prosthodontics |2|94 |94|0
+29600|Community Dentistry |2|96 |96|0
+29800|Oral Pathology |2|98 |98|0
+33900|Radiography |15|39 |39|0
+36600|Occupational Therapy |4|66 |66|0
+36700|Arts Therapy |4|67 |67|0
+36800|Podiatry |13|68 |68|0
+36900|Medical Scientist |25|69 |69|0
+36901|Medical Scientist : Genetic Counselling |25|691 |69|1
+36902|Medical Scientist : Medical Biological Scientist ||69 |69|2
+36903|Medical Scientist : Medical Physicist ||69 |69|3
+36904|Medical Scientist : Clinical Biochemist ||69 |69|0
+37000|Optometry |37|70 |70|0
+37001|Supplementary Optometrists |37|70 |70|1
+37100|Dispensing Opticians |37|71 |71|0
+37200|Physiotherapy |12|72 |72|0
+37300|Masseurs |12|73 |73|0
+37400|Orthoptists |21|74 |74|0
+37500|Clinical Technology |6|75 |75|0
+37501|Clinical technology : Cardio-Vascular |6|75 |75|1
+37502|Clinical technology : Pulmonology/Nephrology |6|75 |75|2
+37504|Clinical technology : Reproductive biology |6|75 |75|4
+37506|Clinical technology : Neurophysiology |6|75 |75|6
+37507|Clinical technology : Critical Care |6|75 |75|7
+37600|Medical Technology |1|755 |75|5
+37700|Biokinetics |22|759 |75|9
+38100|Registered Counsellors |39|81 |81|0
+38200|Speech Therapy / Audiology |17|82 |82|0
+38201|Speech Therapy |17|82 |82|1
+38202|Audiology |17|82 |82|2
+38300|Hearing Aid Acousticians |9|83 |83|0
+38400|Dietetics |7|84 |84|0
+38500|Psychometry |39|85 |85|0
+38600|Psychology |14|86 |86|0
+38700|Medical Orthotists & Prosthetists |31|87 |87|0
+39500|Dental Therapy |2|95 |95|0
+40400|Chiropractice |5|04 |4|0
+40800|Homoeopathy |10|08 |8|0
+40900|Ayurvedic Practitioner ||104 |2|1
+41000|Chinese Medicine & Acupuncture |44|105 |105|
+41100|Naturopathy |43|101 |101|0
+41200|Osteopathy |40|102 |102|0
+41300|Phytotherapy |41|103 |103|0
+41400|Therapeutic Aromatherapy ||106 |106|
+41500|Therapeutic Massage Therapy ||107 |107|
+41600|Therapeutic Reflexology ||108 |108|
+41700|Unani-Tibb ||||
+46000|Pharmacology |30|60 |60|0
+46100|Pharmacotherapy ||61 |61|0
+48000|Nursing Agencies/Home Care Services |11|80 |80|0
+48800|Registered Nurses |11|88 |88|0
+48801|Registered nurses : Midwife |11|88 |88|1
+48802|Registered nurses : Psychiatric |11|88 |88|2
+48809|Registered nurses : Primary Care |11|88 |88|9
+48900|Social Workers |16|89 |89|0
+49300|Dental Technology |18|93 |93|0
+50300|Accredited Blood and Blood Product Couriers |42|03 |3|0
+51000|Ambulance Services : Advanced Life Support |3|09 |9|0
+51100|Ambulance Services : Intermediate Life Support |3|11 |11|0
+51200|Ambulance Services : Basic Life Support |3|13 |13|0
+51300|Ambulance Services - Other |3|91 |91|0
+51301|Aeromedical Rotor Wing Type A |3|091 ||
+51302|Aeromedical Rotor Wing Type B |3|092 |92|
+51303|Aeromedical Rotor Wing Type C |3|093 |93|
+51304|Aeromedical Fixed Wing Type A |3|094 |94|
+54700|Drug & Alcohol Rehabilitation ||47 |47|0
+54701|Drug & Alcohol Rehabilitation : Welfare ||47 |47|1
+54900|Sub-Acute Facilities |36|49 |49|0
+54901|Sub-Acute Facilities : Acute |36|49 |49|1
+54902|Sub-Acute Facilities : Psychiatry |36|49 |49|2
+54903|Sub-Acute Facilities : Physical Rehab |36|49 |49|3
+54904|Sub-Acute Facilities : All Services |36|49 |49|4
+54905|Sub-Acute Facilities : Post Natal Unit |36|49 |49|5
+54906|Sub-Acute Facilities : Psychiatric/Post Natal |36|49 |49|6
+54907|Sub-Acute Facilities : Rehab/Post Natal |36|49 |49|7
+54908|Sub-Acute Facilities : Specialised Psychiatric Uni|36|49 |49|8
+55000|Group Practices ||50 |50|0
+55009|Group Practices : Primary Care ||50 |50|9
+55010|Group Practices : Child Delayed Development ||50 |50|10
+55100|Group Practices/Hospitals ||51 |51|0
+55500|Mental Health Institutions |33|55 |55|0
+55600|Provincial Hospitals |38|56 |56|0
+55601|Provincial Hospitals : District |38|56 |56|1
+55602|Provincial Hospitals : Regional |38|56 |56|2
+55603|Provincial Hospitals : Central |38|56 |56|3
+55604|Provincial Hospitals : Oral |38|56 |56|4
+55609|Provincial Hospitals : Primary Care Centres |38|56 |56|9
+55700|Private Hospitals (A - Status) |20|57 |57|0
+55701|Private Hospitals : +ICU +Theatre <100 beds |20|57 |57|1
+55702|Private Hospitals : -ICU +Theatre |20|57 |57|2
+55703|Private Hospitals : +ICU -Theatre |20|57 |57|3
+55704|Private Hospitals : -ICU -Theatre |20|57 |57|4
+55705|Private Hospitals : +Theatre Maternity only |20|57 |57|5
+55706|Private Hospitals : -Theatre Maternity only |20|57 |57|6
+55710|Private Hospitals : Mine Hospitals |20|57 |57|100
+55800|Private Hospitals (B - Status) |20|58 |58|0
+55900|Physical Rehabilitation Hospitals |32|59 |59|0
+57200|Private Hospitals (A - Status)(State subsidised)|20|57 |57|200
+57600|Unattached operating theatres / Day clinics |34|76 |76|0
+57700|Approved U O T U / Day clinics |20|77 |77|0
+57800|Blood Transfusion Services ||78 |78|0
+57900|Hospices |35|79 |79|0
+57901|Hospices : SANCA |35|79 |79|1
+59000|Clinical Services ||90 |90|0
+59001|Clinical services : Oxygen Supplier ||90 |90|1
+59002|Clinical services : Wheelchair Supplier ||90 |90|2
+59003|Clinical services : Ear & Voice Prosthetic Supplie||90 |90|3
+59004|Clinical services : Eye Prosthetic Supplier ||90 |90|4
+59005|Clinical services : Breast Prosthetic Supplier ||90 |90|5
+59006|Clinical services : Cardiac Prosthetic Supplier ||90 |90|6
+59007|Clinical services : Stomal/Appliances Supplier ||90 |90|7
+59008|Clinical services : General Medical Supplier ||90 |90|8
+59009|Clinical services : FAMSA ||90 |90|9
+59010|Clinical services : Employer Primary Care Faciliti||90 |90|10
+59011|Clinical services : Oncology units (not owned by h||90 |90|11
+59013|Clinical services : Diabetes Appliances ||90 |90|13
+59014|Clinical services : Supplementary ||90 |90|14
+59015|Parenteral Nutrition (TPN) - Homecare ||90 |90|15
+80700|Namibian Practioners Only (Not recognized by HPCS)||90 |7|0
+89012|Clinical services : Namibia Clinics ||90 |90|12

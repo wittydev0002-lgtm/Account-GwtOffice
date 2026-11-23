@@ -1,0 +1,16 @@
+WACKDRIVE|data source=alletta.database.windows.net;initial catalog=WackdriveProperties;User ID=alletta;Password=Admin@2020;provider=SQLOLEDB
+GREAT WITS TECHNOLOGIES|data source=.\;initial catalog=gwt;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GTI-AIR 2021|data source=.\SQL2019;initial catalog=gti;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GTI-AIR 2018|data source=.\SQL2008;initial catalog=GTI2018;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GTI-AIR|data source=.\SQL2019;initial catalog=gti;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GTI-AIR-2025|data source=.\;initial catalog=GTI2025;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH CURRENT|data source=DESKTOP-V62MCGO\MSSQL2022;initial catalog=goldInvestments;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALIBABA-AIR ONLINE|Data Source=217.76.55.38,1433;Initial Catalog=GTI_ACTIVE;User ID=gtiair;Password=Ababila@!969#;Provider=SQLOLEDB
+TOLL GATE MOTOR PARTS|data source=.\SQL2008;initial catalog=AutoPartsTollgate;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH NETWORK|data source=DESKTOP-U4FBCLC;initial catalog=Investments;User ID=sa;Password=ochmas;provider=SQLOLEDB
+GOLDTECH LOCAL|data source=.\;initial catalog=goldInvestments;User ID=sa;Password=ochmas;provider=SQLOLEDB
+DEMO TOBACCO|data source=.\SQL2008;initial catalog=Archivers;User ID=sa;Password=ochmas;provider=SQLOLEDB
+iTEL NETWORK|data source=.\;initial catalog=iTelTest;User ID=sa;Password=ochmas;provider=SQLOLEDB
+iTEL LOCAL|data source=.\;initial catalog=iTel;User ID=sa;Password=ochmas;provider=SQLOLEDB
+CELLONE|data source=.\MSSQL2022;initial catalog=Cellone;User ID=sa;Password=ochmas;provider=SQLOLEDB
+POLOMO|data source=.\;initial catalog=gwtPolomo;User ID=sa;Password=ochmas;provider=SQLOLEDB

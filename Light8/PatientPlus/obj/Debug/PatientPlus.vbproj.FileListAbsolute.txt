@@ -1,0 +1,283 @@
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\PatientPlus.exe.config
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\PatientPlus.exe
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\PatientPlus.pdb
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\PatientPlus.xml
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\ExpandableGridView.dll
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\ObjectListView.dll
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\System.Windows.Forms.TreeListView.dll
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\System.Runtime.InteropServices.APIs.dll
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\ExpandableGridView.pdb
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\ObjectListView.pdb
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\ObjectListView.xml
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\System.Windows.Forms.TreeListView.xml
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\System.Runtime.InteropServices.APIs.xml
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.Form1.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.Form2.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmAddBank.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmBankAccountEntry.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmBilling.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmConsultationCodeSetup.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmConsultationCodesListing.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmDiagnosisAndTreatment.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCipherSetup.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCiphersListing.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCiphersSearch.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugAlternatives.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugCategories.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugManufacturers.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugsAdministrationMethods.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugSetup.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmExtraAndServicesSetup.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmExtrasAndServicesListing.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicalAidSchemes.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicinesAndExtrasListing.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmOrganisation.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientMedicalAidDataEntry.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientsAdmin.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmLogin.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicalSchemeSetup.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientPlusMain.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientSearch.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientSetup.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientsListing.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.PatientOne.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmSpecialNotes.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmTenderPayment.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmUserSecurityProfile.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmVitalsEntry.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.Resources.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.exe
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.xml
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.pdb
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.frmExaminations.resources
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\Light8\PatientPlus\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\Light8\PatientPlus\obj\Debug\PatientPlus.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.exe.config
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.exe
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ExpandableGridView.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ObjectListView.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\System.Windows.Forms.TreeListView.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\System.Runtime.InteropServices.APIs.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ExpandableGridView.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ObjectListView.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ObjectListView.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\System.Windows.Forms.TreeListView.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\System.Runtime.InteropServices.APIs.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.Form1.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.Form2.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmAddBank.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmBankAccountEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmBilling.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmConsultationCodeSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmConsultationCodesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDiagnosisAndTreatment.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCipherSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCiphersListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCiphersSearch.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugAlternatives.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugCategories.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugManufacturers.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugsAdministrationMethods.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmExaminations.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmExtraAndServicesSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmExtrasAndServicesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicalAidSchemes.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicinesAndExtrasListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmOrganisation.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientMedicalAidDataEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientsAdmin.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmLogin.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicalSchemeSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientPlusMain.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientSearch.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientsListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.PatientOne.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmSpecialNotes.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmTenderPayment.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmUserSecurityProfile.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmVitalsEntry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.exe
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.Form1.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.Form2.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmAddBank.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmBankAccountEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmBilling.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmConsultationCodeSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmConsultationCodesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDiagnosisAndTreatment.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCipherSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCiphersListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCiphersSearch.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugAlternatives.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugCategories.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugManufacturers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugsAdministrationMethods.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmExaminations.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmExtraAndServicesSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmExtrasAndServicesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicalAidSchemes.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicinesAndExtrasListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmOrganisation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientMedicalAidDataEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientsAdmin.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmLogin.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicalSchemeSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientPlusMain.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientSearch.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.PatientOne.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmSpecialNotes.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmTenderPayment.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmUserSecurityProfile.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmVitalsEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.exe.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.exe
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCryptor.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\MultiColumnComboBox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCryptor.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCryptor.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\MultiColumnComboBox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\FreeFlowDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.vbproj.CopyComplete
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.exe
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.exe.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.exe
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\PatientPlus.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartColumnReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCryptor.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\MultiColumnComboBox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\MetroFramework.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\FreeFlowDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCommonLibrary.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\SmartReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCryptor.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\gwtCryptor.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\MultiColumnComboBox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\FreeFlowDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\FreeFlowDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.vbproj.SuggestedBindingRedirects.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.exe.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.Form1.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.Form2.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmAddBank.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmBankAccountEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmBilling.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmConsultationCodeSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmConsultationCodesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDiagnosisAndTreatment.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCipherSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCiphersListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDispensingCiphersSearch.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugAlternatives.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugCategories.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugManufacturers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugsAdministrationMethods.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmDrugSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmExaminations.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmExtraAndServicesSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmExtrasAndServicesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicalAidSchemes.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicinesAndExtrasListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmOrganisation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientMedicalAidDataEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientsAdmin.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmLogin.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmMedicalSchemeSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientPlusMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientSearch.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmPatientsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.PatientOne.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmSpecialNotes.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmTenderPayment.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmUserSecurityProfile.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.frmVitalsEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.exe
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientPlus.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\PatientPlus\obj\Debug\PatientP.FCB5D10C.Up2Date

@@ -1,0 +1,383 @@
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class frmLineItemsPrintParameters
+    Inherits ComponentFactory.Krypton.Toolkit.KryptonForm
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        If disposing AndAlso components IsNot Nothing Then
+            components.Dispose()
+        End If
+        MyBase.Dispose(disposing)
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
+        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Me.KryptonPanel = New ComponentFactory.Krypton.Toolkit.KryptonPanel()
+        Me.btnCancel = New ComponentFactory.Krypton.Toolkit.KryptonButton()
+        Me.btnOK = New ComponentFactory.Krypton.Toolkit.KryptonButton()
+        Me.KryptonGroupBox1 = New ComponentFactory.Krypton.Toolkit.KryptonGroupBox()
+        Me.dGrid = New ComponentFactory.Krypton.Toolkit.KryptonDataGridView()
+        Me.Column2 = New ComponentFactory.Krypton.Toolkit.KryptonDataGridViewCheckBoxColumn()
+        Me.Column4 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Column1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.KryptonBorderEdge3 = New ComponentFactory.Krypton.Toolkit.KryptonBorderEdge()
+        Me.KryptonBorderEdge2 = New ComponentFactory.Krypton.Toolkit.KryptonBorderEdge()
+        Me.KryptonBorderEdge1 = New ComponentFactory.Krypton.Toolkit.KryptonBorderEdge()
+        Me.KryptonManager = New ComponentFactory.Krypton.Toolkit.KryptonManager(Me.components)
+        Me.KryptonPanel1 = New ComponentFactory.Krypton.Toolkit.KryptonPanel()
+        Me.KryptonBorderEdge6 = New ComponentFactory.Krypton.Toolkit.KryptonBorderEdge()
+        Me.dpEndDate = New System.Windows.Forms.DateTimePicker()
+        Me.dpStartDate = New System.Windows.Forms.DateTimePicker()
+        Me.KryptonPanel4 = New ComponentFactory.Krypton.Toolkit.KryptonPanel()
+        Me.KryptonLabel1 = New ComponentFactory.Krypton.Toolkit.KryptonLabel()
+        Me.KryptonBorderEdge5 = New ComponentFactory.Krypton.Toolkit.KryptonBorderEdge()
+        Me.KryptonPanel5 = New ComponentFactory.Krypton.Toolkit.KryptonPanel()
+        Me.KryptonLabel3 = New ComponentFactory.Krypton.Toolkit.KryptonLabel()
+        Me.KryptonBorderEdge8 = New ComponentFactory.Krypton.Toolkit.KryptonBorderEdge()
+        CType(Me.KryptonPanel, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.KryptonPanel.SuspendLayout()
+        CType(Me.KryptonGroupBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.KryptonGroupBox1.Panel, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.KryptonGroupBox1.Panel.SuspendLayout()
+        Me.KryptonGroupBox1.SuspendLayout()
+        CType(Me.dGrid, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.KryptonPanel1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.KryptonPanel1.SuspendLayout()
+        CType(Me.KryptonPanel4, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.KryptonPanel4.SuspendLayout()
+        CType(Me.KryptonPanel5, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.KryptonPanel5.SuspendLayout()
+        Me.SuspendLayout()
+        '
+        'KryptonPanel
+        '
+        Me.KryptonPanel.Controls.Add(Me.KryptonPanel1)
+        Me.KryptonPanel.Controls.Add(Me.btnCancel)
+        Me.KryptonPanel.Controls.Add(Me.btnOK)
+        Me.KryptonPanel.Controls.Add(Me.KryptonGroupBox1)
+        Me.KryptonPanel.Controls.Add(Me.KryptonBorderEdge3)
+        Me.KryptonPanel.Controls.Add(Me.KryptonBorderEdge2)
+        Me.KryptonPanel.Controls.Add(Me.KryptonBorderEdge1)
+        Me.KryptonPanel.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.KryptonPanel.Location = New System.Drawing.Point(0, 0)
+        Me.KryptonPanel.Name = "KryptonPanel"
+        Me.KryptonPanel.Size = New System.Drawing.Size(391, 431)
+        Me.KryptonPanel.StateCommon.Color1 = System.Drawing.Color.FromArgb(CType(CType(247, Byte), Integer), CType(CType(247, Byte), Integer), CType(CType(247, Byte), Integer))
+        Me.KryptonPanel.TabIndex = 0
+        '
+        'btnCancel
+        '
+        Me.btnCancel.Location = New System.Drawing.Point(306, 395)
+        Me.btnCancel.Name = "btnCancel"
+        Me.btnCancel.Size = New System.Drawing.Size(75, 25)
+        Me.btnCancel.StateCommon.Back.Color1 = System.Drawing.Color.White
+        Me.btnCancel.StateCommon.Back.Color2 = System.Drawing.Color.White
+        Me.btnCancel.StateCommon.Back.ColorAngle = 100.0!
+        Me.btnCancel.StateCommon.Back.ColorStyle = ComponentFactory.Krypton.Toolkit.PaletteColorStyle.Rounding2
+        Me.btnCancel.StateCommon.Border.DrawBorders = CType((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right), ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)
+        Me.btnCancel.StateCommon.Border.Rounding = 0
+        Me.btnCancel.TabIndex = 10
+        Me.btnCancel.Values.Text = "&Cancel"
+        '
+        'btnOK
+        '
+        Me.btnOK.Location = New System.Drawing.Point(225, 395)
+        Me.btnOK.Name = "btnOK"
+        Me.btnOK.Size = New System.Drawing.Size(75, 25)
+        Me.btnOK.StateCommon.Back.Color1 = System.Drawing.Color.White
+        Me.btnOK.StateCommon.Back.Color2 = System.Drawing.Color.White
+        Me.btnOK.StateCommon.Back.ColorAngle = 100.0!
+        Me.btnOK.StateCommon.Back.ColorStyle = ComponentFactory.Krypton.Toolkit.PaletteColorStyle.Rounding2
+        Me.btnOK.StateCommon.Border.DrawBorders = CType((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right), ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)
+        Me.btnOK.StateCommon.Border.Rounding = 0
+        Me.btnOK.TabIndex = 9
+        Me.btnOK.Values.Text = "&OK"
+        '
+        'KryptonGroupBox1
+        '
+        Me.KryptonGroupBox1.Location = New System.Drawing.Point(12, 66)
+        Me.KryptonGroupBox1.Name = "KryptonGroupBox1"
+        '
+        'KryptonGroupBox1.Panel
+        '
+        Me.KryptonGroupBox1.Panel.Controls.Add(Me.dGrid)
+        Me.KryptonGroupBox1.Size = New System.Drawing.Size(369, 323)
+        Me.KryptonGroupBox1.StateCommon.Back.Color1 = System.Drawing.Color.Transparent
+        Me.KryptonGroupBox1.StateCommon.Border.DrawBorders = CType((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right), ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)
+        Me.KryptonGroupBox1.StateCommon.Border.Rounding = 0
+        Me.KryptonGroupBox1.TabIndex = 4
+        Me.KryptonGroupBox1.Values.Heading = ""
+        '
+        'dGrid
+        '
+        Me.dGrid.AllowUserToAddRows = False
+        Me.dGrid.AllowUserToDeleteRows = False
+        Me.dGrid.AllowUserToResizeRows = False
+        DataGridViewCellStyle5.BackColor = System.Drawing.Color.WhiteSmoke
+        Me.dGrid.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle5
+        Me.dGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing
+        Me.dGrid.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Column2, Me.Column4, Me.Column1})
+        Me.dGrid.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.dGrid.Location = New System.Drawing.Point(0, 0)
+        Me.dGrid.Name = "dGrid"
+        Me.dGrid.RowHeadersWidth = 25
+        Me.dGrid.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing
+        Me.dGrid.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
+        Me.dGrid.Size = New System.Drawing.Size(367, 318)
+        Me.dGrid.StateCommon.Background.Color1 = System.Drawing.Color.White
+        Me.dGrid.StateCommon.BackStyle = ComponentFactory.Krypton.Toolkit.PaletteBackStyle.GridBackgroundList
+        Me.dGrid.StateCommon.DataCell.Content.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dGrid.StateCommon.HeaderColumn.Back.Color1 = System.Drawing.Color.FromArgb(CType(CType(247, Byte), Integer), CType(CType(247, Byte), Integer), CType(CType(247, Byte), Integer))
+        Me.dGrid.StateCommon.HeaderColumn.Back.Color2 = System.Drawing.Color.FromArgb(CType(CType(247, Byte), Integer), CType(CType(247, Byte), Integer), CType(CType(247, Byte), Integer))
+        Me.dGrid.StateCommon.HeaderColumn.Back.ColorAngle = 100.0!
+        Me.dGrid.StateCommon.HeaderColumn.Back.ColorStyle = ComponentFactory.Krypton.Toolkit.PaletteColorStyle.Rounding2
+        Me.dGrid.StateCommon.HeaderColumn.Border.DrawBorders = CType((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right), ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)
+        Me.dGrid.StateCommon.HeaderColumn.Content.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dGrid.StateCommon.HeaderRow.Back.Color1 = System.Drawing.Color.FromArgb(CType(CType(247, Byte), Integer), CType(CType(247, Byte), Integer), CType(CType(247, Byte), Integer))
+        Me.dGrid.StateCommon.HeaderRow.Back.Color2 = System.Drawing.Color.FromArgb(CType(CType(247, Byte), Integer), CType(CType(247, Byte), Integer), CType(CType(247, Byte), Integer))
+        Me.dGrid.StateCommon.HeaderRow.Back.ColorAngle = 100.0!
+        Me.dGrid.StateCommon.HeaderRow.Back.ColorStyle = ComponentFactory.Krypton.Toolkit.PaletteColorStyle.Rounding2
+        Me.dGrid.StateCommon.HeaderRow.Content.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dGrid.TabIndex = 1
+        '
+        'Column2
+        '
+        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle6.NullValue = False
+        Me.Column2.DefaultCellStyle = DataGridViewCellStyle6
+        Me.Column2.FalseValue = Nothing
+        Me.Column2.HeaderText = ""
+        Me.Column2.IndeterminateValue = Nothing
+        Me.Column2.Name = "Column2"
+        Me.Column2.TrueValue = Nothing
+        Me.Column2.Width = 25
+        '
+        'Column4
+        '
+        Me.Column4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells
+        Me.Column4.HeaderText = "Code"
+        Me.Column4.Name = "Column4"
+        Me.Column4.ReadOnly = True
+        Me.Column4.Width = 66
+        '
+        'Column1
+        '
+        Me.Column1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells
+        Me.Column1.HeaderText = "Description"
+        Me.Column1.Name = "Column1"
+        Me.Column1.ReadOnly = True
+        '
+        'KryptonBorderEdge3
+        '
+        Me.KryptonBorderEdge3.Dock = System.Windows.Forms.DockStyle.Right
+        Me.KryptonBorderEdge3.Location = New System.Drawing.Point(390, 0)
+        Me.KryptonBorderEdge3.Name = "KryptonBorderEdge3"
+        Me.KryptonBorderEdge3.Orientation = System.Windows.Forms.Orientation.Vertical
+        Me.KryptonBorderEdge3.Size = New System.Drawing.Size(1, 430)
+        Me.KryptonBorderEdge3.Text = "KryptonBorderEdge3"
+        '
+        'KryptonBorderEdge2
+        '
+        Me.KryptonBorderEdge2.Dock = System.Windows.Forms.DockStyle.Left
+        Me.KryptonBorderEdge2.Location = New System.Drawing.Point(0, 0)
+        Me.KryptonBorderEdge2.Name = "KryptonBorderEdge2"
+        Me.KryptonBorderEdge2.Orientation = System.Windows.Forms.Orientation.Vertical
+        Me.KryptonBorderEdge2.Size = New System.Drawing.Size(1, 430)
+        Me.KryptonBorderEdge2.Text = "KryptonBorderEdge2"
+        '
+        'KryptonBorderEdge1
+        '
+        Me.KryptonBorderEdge1.Dock = System.Windows.Forms.DockStyle.Bottom
+        Me.KryptonBorderEdge1.Location = New System.Drawing.Point(0, 430)
+        Me.KryptonBorderEdge1.Name = "KryptonBorderEdge1"
+        Me.KryptonBorderEdge1.Size = New System.Drawing.Size(391, 1)
+        Me.KryptonBorderEdge1.Text = "KryptonBorderEdge1"
+        '
+        'KryptonPanel1
+        '
+        Me.KryptonPanel1.Controls.Add(Me.KryptonBorderEdge6)
+        Me.KryptonPanel1.Controls.Add(Me.dpEndDate)
+        Me.KryptonPanel1.Controls.Add(Me.dpStartDate)
+        Me.KryptonPanel1.Controls.Add(Me.KryptonPanel4)
+        Me.KryptonPanel1.Controls.Add(Me.KryptonPanel5)
+        Me.KryptonPanel1.Dock = System.Windows.Forms.DockStyle.Top
+        Me.KryptonPanel1.Location = New System.Drawing.Point(1, 0)
+        Me.KryptonPanel1.Name = "KryptonPanel1"
+        Me.KryptonPanel1.Size = New System.Drawing.Size(389, 55)
+        Me.KryptonPanel1.StateCommon.Color1 = System.Drawing.Color.Transparent
+        Me.KryptonPanel1.TabIndex = 15
+        '
+        'KryptonBorderEdge6
+        '
+        Me.KryptonBorderEdge6.Dock = System.Windows.Forms.DockStyle.Bottom
+        Me.KryptonBorderEdge6.Location = New System.Drawing.Point(0, 54)
+        Me.KryptonBorderEdge6.Name = "KryptonBorderEdge6"
+        Me.KryptonBorderEdge6.Size = New System.Drawing.Size(389, 1)
+        Me.KryptonBorderEdge6.Text = "KryptonBorderEdge6"
+        '
+        'dpEndDate
+        '
+        Me.dpEndDate.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dpEndDate.Location = New System.Drawing.Point(281, 16)
+        Me.dpEndDate.Name = "dpEndDate"
+        Me.dpEndDate.Size = New System.Drawing.Size(95, 20)
+        Me.dpEndDate.TabIndex = 12
+        '
+        'dpStartDate
+        '
+        Me.dpStartDate.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dpStartDate.Location = New System.Drawing.Point(87, 16)
+        Me.dpStartDate.Name = "dpStartDate"
+        Me.dpStartDate.Size = New System.Drawing.Size(95, 20)
+        Me.dpStartDate.TabIndex = 11
+        '
+        'KryptonPanel4
+        '
+        Me.KryptonPanel4.Controls.Add(Me.KryptonLabel1)
+        Me.KryptonPanel4.Controls.Add(Me.KryptonBorderEdge5)
+        Me.KryptonPanel4.Location = New System.Drawing.Point(14, 15)
+        Me.KryptonPanel4.Name = "KryptonPanel4"
+        Me.KryptonPanel4.Size = New System.Drawing.Size(71, 21)
+        Me.KryptonPanel4.StateCommon.Color1 = System.Drawing.Color.Transparent
+        Me.KryptonPanel4.TabIndex = 9
+        '
+        'KryptonLabel1
+        '
+        Me.KryptonLabel1.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.KryptonLabel1.Location = New System.Drawing.Point(0, 0)
+        Me.KryptonLabel1.Name = "KryptonLabel1"
+        Me.KryptonLabel1.Size = New System.Drawing.Size(71, 20)
+        Me.KryptonLabel1.TabIndex = 1
+        Me.KryptonLabel1.Values.Text = "Date from"
+        '
+        'KryptonBorderEdge5
+        '
+        Me.KryptonBorderEdge5.Dock = System.Windows.Forms.DockStyle.Bottom
+        Me.KryptonBorderEdge5.Location = New System.Drawing.Point(0, 20)
+        Me.KryptonBorderEdge5.Name = "KryptonBorderEdge5"
+        Me.KryptonBorderEdge5.Size = New System.Drawing.Size(71, 1)
+        Me.KryptonBorderEdge5.Text = "KryptonBorderEdge5"
+        '
+        'KryptonPanel5
+        '
+        Me.KryptonPanel5.Controls.Add(Me.KryptonLabel3)
+        Me.KryptonPanel5.Controls.Add(Me.KryptonBorderEdge8)
+        Me.KryptonPanel5.Location = New System.Drawing.Point(208, 15)
+        Me.KryptonPanel5.Name = "KryptonPanel5"
+        Me.KryptonPanel5.Size = New System.Drawing.Size(71, 21)
+        Me.KryptonPanel5.StateCommon.Color1 = System.Drawing.Color.Transparent
+        Me.KryptonPanel5.TabIndex = 10
+        '
+        'KryptonLabel3
+        '
+        Me.KryptonLabel3.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.KryptonLabel3.Location = New System.Drawing.Point(0, 0)
+        Me.KryptonLabel3.Name = "KryptonLabel3"
+        Me.KryptonLabel3.Size = New System.Drawing.Size(71, 20)
+        Me.KryptonLabel3.TabIndex = 1
+        Me.KryptonLabel3.Values.Text = "Date to "
+        '
+        'KryptonBorderEdge8
+        '
+        Me.KryptonBorderEdge8.Dock = System.Windows.Forms.DockStyle.Bottom
+        Me.KryptonBorderEdge8.Location = New System.Drawing.Point(0, 20)
+        Me.KryptonBorderEdge8.Name = "KryptonBorderEdge8"
+        Me.KryptonBorderEdge8.Size = New System.Drawing.Size(71, 1)
+        Me.KryptonBorderEdge8.Text = "KryptonBorderEdge8"
+        '
+        'frmLineItemsPrintParameters
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(391, 431)
+        Me.ControlBox = False
+        Me.Controls.Add(Me.KryptonPanel)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
+        Me.HeaderStyle = ComponentFactory.Krypton.Toolkit.HeaderStyle.Secondary
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
+        Me.Name = "frmLineItemsPrintParameters"
+        Me.ShowIcon = False
+        Me.ShowInTaskbar = False
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
+        Me.StateCommon.Back.Color1 = System.Drawing.Color.White
+        Me.StateCommon.Back.Color2 = System.Drawing.Color.White
+        Me.StateCommon.Border.DrawBorders = CType((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) _
+            Or ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right), ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)
+        Me.StateCommon.Border.Rounding = 0
+        Me.StateCommon.Header.Back.Color1 = System.Drawing.Color.White
+        Me.StateCommon.Header.Back.Color2 = System.Drawing.Color.White
+        Me.Text = "Print Codes Selection"
+        CType(Me.KryptonPanel, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.KryptonPanel.ResumeLayout(False)
+        Me.KryptonPanel.PerformLayout()
+        CType(Me.KryptonGroupBox1.Panel, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.KryptonGroupBox1.Panel.ResumeLayout(False)
+        CType(Me.KryptonGroupBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.KryptonGroupBox1.ResumeLayout(False)
+        CType(Me.dGrid, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.KryptonPanel1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.KryptonPanel1.ResumeLayout(False)
+        Me.KryptonPanel1.PerformLayout()
+        CType(Me.KryptonPanel4, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.KryptonPanel4.ResumeLayout(False)
+        Me.KryptonPanel4.PerformLayout()
+        CType(Me.KryptonPanel5, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.KryptonPanel5.ResumeLayout(False)
+        Me.KryptonPanel5.PerformLayout()
+        Me.ResumeLayout(False)
+
+    End Sub
+    Friend WithEvents KryptonPanel As ComponentFactory.Krypton.Toolkit.KryptonPanel
+    Friend WithEvents KryptonManager As ComponentFactory.Krypton.Toolkit.KryptonManager
+
+    Public Sub New()
+
+        ' This call is required by the Windows Form Designer.
+        InitializeComponent()
+
+        ' Add any initialization after the InitializeComponent() call.
+
+    End Sub
+
+    Protected Overrides Sub Finalize()
+        MyBase.Finalize()
+    End Sub
+    Friend WithEvents KryptonBorderEdge3 As ComponentFactory.Krypton.Toolkit.KryptonBorderEdge
+    Friend WithEvents KryptonBorderEdge2 As ComponentFactory.Krypton.Toolkit.KryptonBorderEdge
+    Friend WithEvents KryptonBorderEdge1 As ComponentFactory.Krypton.Toolkit.KryptonBorderEdge
+    Friend WithEvents KryptonGroupBox1 As ComponentFactory.Krypton.Toolkit.KryptonGroupBox
+    Friend WithEvents dGrid As ComponentFactory.Krypton.Toolkit.KryptonDataGridView
+    Friend WithEvents Column2 As ComponentFactory.Krypton.Toolkit.KryptonDataGridViewCheckBoxColumn
+    Friend WithEvents Column4 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents Column1 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents btnCancel As ComponentFactory.Krypton.Toolkit.KryptonButton
+    Friend WithEvents btnOK As ComponentFactory.Krypton.Toolkit.KryptonButton
+    Friend WithEvents KryptonPanel1 As ComponentFactory.Krypton.Toolkit.KryptonPanel
+    Friend WithEvents KryptonBorderEdge6 As ComponentFactory.Krypton.Toolkit.KryptonBorderEdge
+    Friend WithEvents dpEndDate As System.Windows.Forms.DateTimePicker
+    Friend WithEvents dpStartDate As System.Windows.Forms.DateTimePicker
+    Friend WithEvents KryptonPanel4 As ComponentFactory.Krypton.Toolkit.KryptonPanel
+    Friend WithEvents KryptonLabel1 As ComponentFactory.Krypton.Toolkit.KryptonLabel
+    Friend WithEvents KryptonBorderEdge5 As ComponentFactory.Krypton.Toolkit.KryptonBorderEdge
+    Friend WithEvents KryptonPanel5 As ComponentFactory.Krypton.Toolkit.KryptonPanel
+    Friend WithEvents KryptonLabel3 As ComponentFactory.Krypton.Toolkit.KryptonLabel
+    Friend WithEvents KryptonBorderEdge8 As ComponentFactory.Krypton.Toolkit.KryptonBorderEdge
+End Class

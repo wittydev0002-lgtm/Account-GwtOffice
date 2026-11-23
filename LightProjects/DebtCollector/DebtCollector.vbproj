@@ -1,0 +1,557 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{559874A7-5B27-4215-91CA-7EAE2D636D54}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>DebtCollector</RootNamespace>
+    <AssemblyName>DebtCollector</AssemblyName>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DebtCollector.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DebtCollector.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>scorm.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridViewControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Aga.Controls">
+      <HintPath>..\..\Controls\treeviewadv_src\TreeViewAdv\SampleApp\bin\Debug\Aga.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Ai.Control">
+      <HintPath>..\..\..\Controls\MultiColumnTreeviewControl\Ai\Ai\Control\bin\Debug\Ai.Control.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonTools">
+      <HintPath>..\..\..\Controls\TreeWithColumn.source\CommonTools\bin\Debug\CommonTools.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="ControlPrint">
+      <HintPath>..\..\Controls\ControlPrint.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.7.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.TreeGX, Version=12.7.0.0, Culture=neutral, PublicKeyToken=055db68f670cfeab, processorArchitecture=MSIL" />
+    <Reference Include="MTGCCombobox">
+      <HintPath>..\..\..\Controls\MTGCCombobox.dll</HintPath>
+    </Reference>
+    <Reference Include="Numberbox">
+      <HintPath>..\..\..\Controls\Numberbox\Numberbox\bin\Debug\Numberbox.dll</HintPath>
+    </Reference>
+    <Reference Include="ObjectListView">
+      <HintPath>..\..\Controls\ObjectListViewFull-2.9.0\ObjectListViewDemo\Demo\bin\Debug\ObjectListView.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.TreeListView">
+      <HintPath>..\..\Controls\TreeListView_Demo1\System.Windows.Forms.TreeListView.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clTreeUtil.vb" />
+    <Compile Include="CommonFunctions.vb" />
+    <Compile Include="DataGridViewPrinter.vb" />
+    <Compile Include="DebtCollection.vb" />
+    <Compile Include="EnhancedPrintPreviewDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrowseLegalActions.Designer.vb">
+      <DependentUpon>frmBrowseLegalActions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrowseLegalActions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrowseLegalParties.Designer.vb">
+      <DependentUpon>frmBrowseLegalParties.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrowseLegalParties.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrowseStage.Designer.vb">
+      <DependentUpon>frmBrowseStage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrowseStage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCollectionsAnalysisByStagging.Designer.vb">
+      <DependentUpon>frmCollectionsAnalysisByStagging.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCollectionsAnalysisByStagging.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomMsg.Designer.vb">
+      <DependentUpon>frmCustomMsg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomMsg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDebtCollectorMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDebtCollectorMain.Designer.vb">
+      <DependentUpon>frmDebtCollectorMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDebtSettlementReasons.Designer.vb">
+      <DependentUpon>frmDebtSettlementReasons.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDebtSettlementReasons.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDefendants.Designer.vb">
+      <DependentUpon>frmDefendants.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDefendants.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportDefendants.Designer.vb">
+      <DependentUpon>frmImportDefendants.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportDefendants.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalActionName.Designer.vb">
+      <DependentUpon>frmLegalActionName.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalActionName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalActionsCostsReversals.Designer.vb">
+      <DependentUpon>frmLegalActionsCostsReversals.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalActionsCostsReversals.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalActionsHistory.Designer.vb">
+      <DependentUpon>frmLegalActionsHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalActionsHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalActionsMaintenance.Designer.vb">
+      <DependentUpon>frmLegalActionsMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalActionsMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalActionsSetup.Designer.vb">
+      <DependentUpon>frmLegalActionsSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalActionsSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalActionsSetupV1.Designer.vb">
+      <DependentUpon>frmLegalActionsSetupV1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalActionsSetupV1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalActionsStatusUpdate.Designer.vb">
+      <DependentUpon>frmLegalActionsStatusUpdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalActionsStatusUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalBranchTransactionsUpload.Designer.vb">
+      <DependentUpon>frmLegalBranchTransactionsUpload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalBranchTransactionsUpload.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalBulkActions.Designer.vb">
+      <DependentUpon>frmLegalBulkActions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalBulkActions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalDebtorsPotfolioAssignment.Designer.vb">
+      <DependentUpon>frmLegalDebtorsPotfolioAssignment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalDebtorsPotfolioAssignment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalExports.Designer.vb">
+      <DependentUpon>frmLegalExports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalExports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalFileHold.Designer.vb">
+      <DependentUpon>frmLegalFileHold.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalFileHold.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalPaymentInitiators.Designer.vb">
+      <DependentUpon>frmLegalPaymentInitiators.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalPaymentInitiators.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalPaymentPlanTerms.Designer.vb">
+      <DependentUpon>frmLegalPaymentPlanTerms.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalPaymentPlanTerms.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalPaymentsUpdate.Designer.vb">
+      <DependentUpon>frmLegalPaymentsUpdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalPaymentsUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalPortfolioCostsSetup.Designer.vb">
+      <DependentUpon>frmLegalPortfolioCostsSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalPortfolioCostsSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalPotfolioAnalysisActionDetails.Designer.vb">
+      <DependentUpon>frmLegalPotfolioAnalysisActionDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalPotfolioAnalysisActionDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalTransactionEdit.Designer.vb">
+      <DependentUpon>frmLegalTransactionEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalTransactionEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalTransactionPayments.Designer.vb">
+      <DependentUpon>frmLegalTransactionPayments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalTransactionPayments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLegalTransactionsView.Designer.vb">
+      <DependentUpon>frmLegalTransactionsView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLegalTransactionsView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModifyStage.Designer.vb">
+      <DependentUpon>frmModifyStage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmModifyStage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNoteEntry.Designer.vb">
+      <DependentUpon>frmNoteEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNoteEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlaintifDetails.Designer.vb">
+      <DependentUpon>frmPlaintifDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlaintifDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPortfolioCostAmount.Designer.vb">
+      <DependentUpon>frmPortfolioCostAmount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPortfolioCostAmount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrinterSetup.Designer.vb">
+      <DependentUpon>frmPrinterSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrinterSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSpecialKeys.Designer.vb">
+      <DependentUpon>frmSpecialKeys.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSpecialKeys.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStageConversion.Designer.vb">
+      <DependentUpon>frmStageConversion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStageConversion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Node.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrowseLegalActions.resx">
+      <DependentUpon>frmBrowseLegalActions.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrowseLegalParties.resx">
+      <DependentUpon>frmBrowseLegalParties.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrowseStage.resx">
+      <DependentUpon>frmBrowseStage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCollectionsAnalysisByStagging.resx">
+      <DependentUpon>frmCollectionsAnalysisByStagging.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomMsg.resx">
+      <DependentUpon>frmCustomMsg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDebtCollectorMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDebtCollectorMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDebtSettlementReasons.resx">
+      <DependentUpon>frmDebtSettlementReasons.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDefendants.resx">
+      <DependentUpon>frmDefendants.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportDefendants.resx">
+      <DependentUpon>frmImportDefendants.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalActionName.resx">
+      <DependentUpon>frmLegalActionName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalActionsCostsReversals.resx">
+      <DependentUpon>frmLegalActionsCostsReversals.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalActionsHistory.resx">
+      <DependentUpon>frmLegalActionsHistory.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalActionsMaintenance.resx">
+      <DependentUpon>frmLegalActionsMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalActionsSetup.resx">
+      <DependentUpon>frmLegalActionsSetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalActionsSetupV1.resx">
+      <DependentUpon>frmLegalActionsSetupV1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalActionsStatusUpdate.resx">
+      <DependentUpon>frmLegalActionsStatusUpdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalBranchTransactionsUpload.resx">
+      <DependentUpon>frmLegalBranchTransactionsUpload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalBulkActions.resx">
+      <DependentUpon>frmLegalBulkActions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalDebtorsPotfolioAssignment.resx">
+      <DependentUpon>frmLegalDebtorsPotfolioAssignment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalExports.resx">
+      <DependentUpon>frmLegalExports.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalFileHold.resx">
+      <DependentUpon>frmLegalFileHold.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalPaymentInitiators.resx">
+      <DependentUpon>frmLegalPaymentInitiators.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalPaymentPlanTerms.resx">
+      <DependentUpon>frmLegalPaymentPlanTerms.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalPaymentsUpdate.resx">
+      <DependentUpon>frmLegalPaymentsUpdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalPortfolioCostsSetup.resx">
+      <DependentUpon>frmLegalPortfolioCostsSetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalPotfolioAnalysisActionDetails.resx">
+      <DependentUpon>frmLegalPotfolioAnalysisActionDetails.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalTransactionEdit.resx">
+      <DependentUpon>frmLegalTransactionEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalTransactionPayments.resx">
+      <DependentUpon>frmLegalTransactionPayments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLegalTransactionsView.resx">
+      <DependentUpon>frmLegalTransactionsView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModifyStage.resx">
+      <DependentUpon>frmModifyStage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNoteEntry.resx">
+      <DependentUpon>frmNoteEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlaintifDetails.resx">
+      <DependentUpon>frmPlaintifDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPortfolioCostAmount.resx">
+      <DependentUpon>frmPortfolioCostAmount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrinterSetup.resx">
+      <DependentUpon>frmPrinterSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSpecialKeys.resx">
+      <DependentUpon>frmSpecialKeys.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStageConversion.resx">
+      <DependentUpon>frmStageConversion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\gwtCommonLibrary\gwtCommonLibrary\gwtCommonLibrary.vbproj">
+      <Project>{F666E796-F44A-42E9-9343-E533B7458620}</Project>
+      <Name>gwtCommonLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SmartColumnReportWriter\SmartColumnReportWriter\SmartColumnReportWriter.vbproj">
+      <Project>{080E336B-0F0C-4484-B229-86F93021613B}</Project>
+      <Name>SmartColumnReportWriter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SmartReportWriter\SmartReportWriter\SmartReportWriter.vbproj">
+      <Project>{C3CCE5DB-0D7A-4C02-88C3-F419FD1E40E8}</Project>
+      <Name>SmartReportWriter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SmartRichReportWriter\SmartRichReportWriter\SmartRichReportWriter.vbproj">
+      <Project>{BA393236-7563-4B9E-9E6D-27F2DDDC0CD8}</Project>
+      <Name>SmartRichReportWriter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="scorm.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

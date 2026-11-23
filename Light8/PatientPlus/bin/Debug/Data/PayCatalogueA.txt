@@ -1,0 +1,1 @@
+GOLDTECH DEMOSTRATION DB|data source=.\;initial catalog=LightDemo;User ID=sa;Password=ochmas;provider=SQLOLEDB

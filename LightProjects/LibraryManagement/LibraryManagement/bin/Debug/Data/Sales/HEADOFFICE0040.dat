@@ -1,0 +1,1 @@
+INSERT INTO GroupSales (BranchName, CustomerId, InvoiceNumber, TransDate, ItemCode, Quantity, SalesPrice, TransType, Description, Taxes, DiscountAllowed, ProductType, SerialNumbers, UserName, SalesRep) VALUES ('HEAD OFFICE', '0000', 116, '10/08/11', 'HEADSET-HD-DIGITAL-STEREO', 1, 25, 'CASH SALE', 'HP HEADSET', 0, 0, '', '', 'Embassy', 'Phiri Embassy ')

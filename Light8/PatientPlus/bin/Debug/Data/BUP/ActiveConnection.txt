@@ -1,0 +1,1 @@
+data source=(Local);initial catalog=DemoDb3;User ID=sa;Password=ochmas;provider=SQLOLEDB

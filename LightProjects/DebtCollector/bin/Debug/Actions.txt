@@ -1,0 +1,25 @@
+LOD\Prepared
+LOD\Served
+LOD\Served\Cleared
+LOD\Served\Payment Plan
+LOD\Unserved
+LOD\Unserved\Deceased
+LOD\Unserved\Failed to Locate
+LOD\Unserved\Undeveloped
+LOD\Unserved\Moved Out
+SUMMONS\Prepared
+SUMMONS\Prepared\Sent To Court
+SUMMONS\Prepared\Sent To Court\Issued
+SUMMONS\Prepared\Sent To Court\Issued\MOC
+SUMMONS\Prepared\Sent To Court\Issued\MOC\Served
+SUMMONS\Prepared\Sent To Court\Issued\MOC\Served\Cleared
+SUMMONS\Prepared\Sent To Court\Issued\MOC\Served\Payment Plan
+SUMMONS\Prepared\Sent To Court\Issued\MOC\Served\Payment Plan\Cleared after Payment Plan
+SUMMONS\Prepared\Sent To Court\Issued\MOC\Served\Withdrawn after Serve
+SUMMONS\Prepared\Sent To Court\Issued\MOC\Unserved
+SUMMONS\Prepared\Sent To Court\Issued\MOC\Unserved\Deceased
+SUMMONS\Prepared\Sent To Court\Issued\MOC\Unserved\Failed to Locate
+SUMMONS\Prepared\Sent To Court\Issued\MOC\Unserved\Undeveloped
+SUMMONS\Prepared\Sent To Court\Issued\MOC\Unserved\Defendant Moved Out
+SUMMONS\Prepared\Withdrawn
+SUMMONS\Prepared\Cleared

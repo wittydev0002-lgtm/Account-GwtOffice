@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B33345F7-D6E0-43FA-879D-115515CE242F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LibraryManagement.My.MyApplication</StartupObject>
+    <RootNamespace>LibraryManagement</RootNamespace>
+    <AssemblyName>LibraryManagement</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LibraryManagement.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LibraryManagement.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>library.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.7.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="MTGCCombobox">
+      <HintPath>..\..\Controls\MTGCCombobox.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartColumnReportWriter">
+      <HintPath>..\..\SmartColumnReportWriter\SmartColumnReportWriter\bin\Debug\SmartColumnReportWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartReportWriter">
+      <HintPath>..\..\SmartReportWriter\SmartReportWriter\bin\Debug\SmartReportWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VIBlend.WinForms.Controls, Version=10.1.0.0, Culture=neutral, PublicKeyToken=6feea38fef5ea0cf, processorArchitecture=MSIL" />
+    <Reference Include="VIBlend.WinForms.Utilities, Version=10.1.0.0, Culture=neutral, PublicKeyToken=970a5af59bc48043" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonFunctions.vb" />
+    <Compile Include="CommonVariables.vb" />
+    <Compile Include="frmBookSetup.Designer.vb">
+      <DependentUpon>frmBookSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBorrowBook.Designer.vb">
+      <DependentUpon>frmBorrowBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBorrowBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrowseBooks.Designer.vb">
+      <DependentUpon>frmBrowseBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrowseBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategorySetup.Designer.vb">
+      <DependentUpon>frmCategorySetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategorySetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginBooks.Designer.vb">
+      <DependentUpon>frmLoginBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoginBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainOne.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainOne.Designer.vb">
+      <DependentUpon>frmMainOne.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMembers.Designer.vb">
+      <DependentUpon>frmMembers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMembers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrganisation.Designer.vb">
+      <DependentUpon>frmOrganisation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrganisation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPasswordChange.Designer.vb">
+      <DependentUpon>frmPasswordChange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPasswordChange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrinterSetup.Designer.vb">
+      <DependentUpon>frmPrinterSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrinterSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServerPath.Designer.vb">
+      <DependentUpon>frmServerPath.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmServerPath.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.vb">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserSecurityProfile.Designer.vb">
+      <DependentUpon>frmUserSecurityProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserSecurityProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsersListing.Designer.vb">
+      <DependentUpon>frmUsersListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsersListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmBookSetup.resx">
+      <DependentUpon>frmBookSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBorrowBook.resx">
+      <DependentUpon>frmBorrowBook.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrowseBooks.resx">
+      <DependentUpon>frmBrowseBooks.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategorySetup.resx">
+      <DependentUpon>frmCategorySetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoginBooks.resx">
+      <DependentUpon>frmLoginBooks.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainOne.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMainOne.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMembers.resx">
+      <DependentUpon>frmMembers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrganisation.resx">
+      <DependentUpon>frmOrganisation.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPasswordChange.resx">
+      <DependentUpon>frmPasswordChange.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrinterSetup.resx">
+      <DependentUpon>frmPrinterSetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmServerPath.resx">
+      <DependentUpon>frmServerPath.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserSecurityProfile.resx">
+      <DependentUpon>frmUserSecurityProfile.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsersListing.resx">
+      <DependentUpon>frmUsersListing.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="library.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\gwtCommonLibrary\gwtCommonLibrary\gwtCommonLibrary.vbproj">
+      <Project>{F666E796-F44A-42E9-9343-E533B7458620}</Project>
+      <Name>gwtCommonLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

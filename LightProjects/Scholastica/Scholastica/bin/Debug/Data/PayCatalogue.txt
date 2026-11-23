@@ -1,0 +1,1 @@
+Scholastica 2016|data source=.\;initial catalog=ChiedzaNortonPrimary;User ID=sa;Password=ochmas;provider=SQLOLEDB

@@ -1,0 +1,1 @@
+INSERT INTO GroupSales (CustomerId, InvoiceNumber, TransDate, ItemCode, Quantity, SalesPrice, TransType, Description, Taxes, DiscountAllowed, ProductType, SerialNumbers, UserName, SalesRep) VALUES ('0000', 108, '10/08/11', 'FLASH-4GB', 1, 15, 'CASH SALE', 'USB FLASH', 0, 0, '', '', 'Embassy', 'Phiri Embassy ')

@@ -1,0 +1,9 @@
+C:\Embassy\gwtOffice\SmartRichReportWriter\Test\bin\Debug\Test.exe
+C:\Embassy\gwtOffice\SmartRichReportWriter\Test\bin\Debug\Test.pdb
+C:\Embassy\gwtOffice\SmartRichReportWriter\Test\bin\Debug\Test.xml
+C:\Embassy\gwtOffice\SmartRichReportWriter\Test\obj\x86\Debug\Test.Form1.resources
+C:\Embassy\gwtOffice\SmartRichReportWriter\Test\obj\x86\Debug\Test.Resources.resources
+C:\Embassy\gwtOffice\SmartRichReportWriter\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\SmartRichReportWriter\Test\obj\x86\Debug\Test.exe
+C:\Embassy\gwtOffice\SmartRichReportWriter\Test\obj\x86\Debug\Test.xml
+C:\Embassy\gwtOffice\SmartRichReportWriter\Test\obj\x86\Debug\Test.pdb

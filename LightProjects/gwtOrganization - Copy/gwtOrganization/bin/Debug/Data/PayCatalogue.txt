@@ -1,0 +1,1 @@
+GREAT WITS TECHNOLOGIES|data source=.\;initial catalog=GreatWits;User ID=sa;Password=ochmas;provider=SQLOLEDB

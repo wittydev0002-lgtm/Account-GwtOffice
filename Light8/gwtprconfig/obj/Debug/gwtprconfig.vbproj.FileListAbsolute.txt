@@ -1,0 +1,246 @@
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\gwtprconfig.dll
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\gwtprconfig.pdb
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\gwtprconfig.xml
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\Light8\gwtprconfig\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmAddBank.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmBankCodeChange.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmBankListing.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalendarSetup.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCodes.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCodeSetup.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmConstants.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmEmployeeClassesSetup.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmEmployeesWithValue.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmFlags.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmFlagsListing.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmImportBanksFileName.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmItfParameters.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmKeyData.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveListing.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveParameters.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveSetup.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmParametersMain.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalculations.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalculationsView.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmNewCalculation.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollExceptions.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollUserReports.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollUserReportsListing.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPaywellImports.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmReportWriter.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSplitCodesSetup.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSystemDates.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSystemReferences.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTablesView.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTaxTables.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTrekkedFields.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTrekkedFieldsUpdate.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmUsedIndicators.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.Resources.resources
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.dll
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.xml
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.pdb
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\Light8\gwtprconfig\obj\Debug\gwtprconfig.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtprconfig.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtprconfig.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtprconfig.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmAddBank.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmBankCodeChange.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmBankListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalendarSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCodes.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCodeSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmConstants.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmEmployeeClassesSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmEmployeesWithValue.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmFlags.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmFlagsListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmImportBanksFileName.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmItfParameters.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmKeyData.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveParameters.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmParametersMain.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalculations.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalculationsView.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmNewCalculation.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollExceptions.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollUserReports.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollUserReportsListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPaywellImports.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmReportWriter.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSplitCodesSetup.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSystemDates.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSystemReferences.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTablesView.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTaxTables.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTrekkedFields.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTrekkedFieldsUpdate.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmUsedIndicators.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmAddBank.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmBankCodeChange.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmBankListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalendarSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCodes.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCodeSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmConstants.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmEmployeeClassesSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmEmployeesWithValue.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmFlags.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmFlagsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmImportBanksFileName.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmItfParameters.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmKeyData.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveParameters.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmParametersMain.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalculations.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalculationsView.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmNewCalculation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollExceptions.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollUserReports.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollUserReportsListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPaywellImports.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmReportWriter.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSplitCodesSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSystemDates.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSystemReferences.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTablesView.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTaxTables.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTrekkedFields.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTrekkedFieldsUpdate.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmUsedIndicators.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtprconfig.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtprconfig.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtprconfig.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCryptor.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\MultiColumnComboBox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCryptor.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCryptor.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\MultiColumnComboBox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\FreeFlowDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.vbproj.CopyComplete
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtprconfig.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtprconfig.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtprconfig.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCryptor.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\MultiColumnComboBox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\MetroFramework.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\FreeFlowDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCommonLibrary.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\SmartRichReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCryptor.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtCryptor.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\MultiColumnComboBox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\FreeFlowDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\FreeFlowDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmAddBank.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmBankCodeChange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmBankListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalendarSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCodes.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCodeSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmConstants.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmEmployeeClassesSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmEmployeesWithValue.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmFlags.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmFlagsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmImportBanksFileName.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmItfParameters.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmKeyData.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveParameters.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmLeaveSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmParametersMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalculations.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmCalculationsView.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmNewCalculation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollExceptions.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollUserReports.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPayrollUserReportsListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmPaywellImports.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmReportWriter.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSplitCodesSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSystemDates.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmSystemReferences.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTablesView.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTaxTables.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTrekkedFields.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmTrekkedFieldsUpdate.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.frmUsedIndicators.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprconfig.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\obj\Debug\gwtprcon.15BAF30C.Up2Date
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\gwtprconfig.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\QRCoder.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtprconfig\bin\Debug\QRCoder.xml

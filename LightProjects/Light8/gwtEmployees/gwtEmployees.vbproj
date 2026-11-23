@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{86F92FA8-A439-4EA1-B285-2ACACC29802B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>gwtEmployees</RootNamespace>
+    <AssemblyName>gwtEmployees</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>gwtEmployees.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>gwtEmployees.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridViewControl">
+      <HintPath>..\..\..\Controls\AdvancedDataGridViewControl\AdvancedDataGridViewControl\bin\Debug\AdvancedDataGridViewControl.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=12.7.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="MTGCCombobox">
+      <HintPath>..\..\..\Controls\MTGCCombobox.dll</HintPath>
+    </Reference>
+    <Reference Include="Numberbox">
+      <HintPath>..\..\..\Controls\Numberbox\Numberbox\bin\Debug\Numberbox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonVariablesAndFunctions.vb" />
+    <Compile Include="Employees.vb" />
+    <Compile Include="frmAttitudeEntries.Designer.vb">
+      <DependentUpon>frmAttitudeEntries.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttitudeEntries.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDependents.Designer.vb">
+      <DependentUpon>frmDependents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDependents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEducationAndTraining.Designer.vb">
+      <DependentUpon>frmEducationAndTraining.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEducationAndTraining.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEducationLevels.Designer.vb">
+      <DependentUpon>frmEducationLevels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEducationLevels.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEducationSubjects.Designer.vb">
+      <DependentUpon>frmEducationSubjects.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEducationSubjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeClassesSetup.Designer.vb">
+      <DependentUpon>frmEmployeeClassesSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeClassesSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGradeSetup.Designer.vb">
+      <DependentUpon>frmGradeSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGradeSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJobCategories.Designer.vb">
+      <DependentUpon>frmJobCategories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJobCategories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJobCategoriesListing.Designer.vb">
+      <DependentUpon>frmJobCategoriesListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJobCategoriesListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJobProfileSetup.Designer.vb">
+      <DependentUpon>frmJobProfileSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJobProfileSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJobQualificationsEntry.Designer.vb">
+      <DependentUpon>frmJobQualificationsEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJobQualificationsEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSkillsEntry.Designer.vb">
+      <DependentUpon>frmSkillsEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSkillsEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTaskEntries.Designer.vb">
+      <DependentUpon>frmTaskEntries.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTaskEntries.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrainingAndAcademicCourses.Designer.vb">
+      <DependentUpon>frmTrainingAndAcademicCourses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrainingAndAcademicCourses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeDetails.Designer.vb">
+      <DependentUpon>frmEmployeeDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeQualifications.Designer.vb">
+      <DependentUpon>frmEmployeeQualifications.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeQualifications.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeesMain.Designer.vb">
+      <DependentUpon>frmEmployeesMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeesMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeSubjectsGrades.Designer.vb">
+      <DependentUpon>frmEmployeeSubjectsGrades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeSubjectsGrades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAttitudeEntries.resx">
+      <DependentUpon>frmAttitudeEntries.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDependents.resx">
+      <DependentUpon>frmDependents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEducationAndTraining.resx">
+      <DependentUpon>frmEducationAndTraining.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEducationLevels.resx">
+      <DependentUpon>frmEducationLevels.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEducationSubjects.resx">
+      <DependentUpon>frmEducationSubjects.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeClassesSetup.resx">
+      <DependentUpon>frmEmployeeClassesSetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGradeSetup.resx">
+      <DependentUpon>frmGradeSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJobCategories.resx">
+      <DependentUpon>frmJobCategories.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJobCategoriesListing.resx">
+      <DependentUpon>frmJobCategoriesListing.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJobProfileSetup.resx">
+      <DependentUpon>frmJobProfileSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJobQualificationsEntry.resx">
+      <DependentUpon>frmJobQualificationsEntry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkillsEntry.resx">
+      <DependentUpon>frmSkillsEntry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTaskEntries.resx">
+      <DependentUpon>frmTaskEntries.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrainingAndAcademicCourses.resx">
+      <DependentUpon>frmTrainingAndAcademicCourses.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeDetails.resx">
+      <DependentUpon>frmEmployeeDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeQualifications.resx">
+      <DependentUpon>frmEmployeeQualifications.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeesMain.resx">
+      <DependentUpon>frmEmployeesMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeSubjectsGrades.resx">
+      <DependentUpon>frmEmployeeSubjectsGrades.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\gwtCommonLibrary\gwtCommonLibrary\gwtCommonLibrary.vbproj">
+      <Project>{F666E796-F44A-42E9-9343-E533B7458620}</Project>
+      <Name>gwtCommonLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\SmartColumnReportWriter\SmartColumnReportWriter\SmartColumnReportWriter.vbproj">
+      <Project>{080E336B-0F0C-4484-B229-86F93021613B}</Project>
+      <Name>SmartColumnReportWriter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\SmartReportWriter\SmartReportWriter\SmartReportWriter.vbproj">
+      <Project>{C3CCE5DB-0D7A-4C02-88C3-F419FD1E40E8}</Project>
+      <Name>SmartReportWriter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SmartRichReportWriter\SmartRichReportWriter\SmartRichReportWriter.vbproj">
+      <Project>{BA393236-7563-4B9E-9E6D-27F2DDDC0CD8}</Project>
+      <Name>SmartRichReportWriter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

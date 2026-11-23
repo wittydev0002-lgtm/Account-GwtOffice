@@ -1,0 +1,4 @@
+DEMO TECHNOLOGIES CLOUD|data source=209.145.57.133;initial catalog=LIGHT2021;User ID=sa;Password=ochmas;provider=SQLOLEDB
+DEMO TECHNOLOGIES LOCAL|data source=.\;initial catalog=gwt;User ID=sa;Password=ochmas;provider=SQLOLEDB
+DEMO TECHNOLOGIES LIVE VIEWS|data source=.\;initial catalog=NewGoldtech;User ID=sa;Password=ochmas;provider=SQLOLEDB
+ALLETTA PRIMARY SCHOOL|data source=.\;initial catalog=Alletta;User ID=sa;Password=ochmas;provider=SQLOLEDB

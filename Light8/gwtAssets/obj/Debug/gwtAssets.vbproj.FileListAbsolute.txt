@@ -1,0 +1,158 @@
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\gwtAssets.dll
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\gwtAssets.pdb
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\gwtAssets.xml
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetCategories.resources
+C:\Embassy\gwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetCategoriesListing.resources
+C:\Embassy\gwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetDisposal.resources
+C:\Embassy\gwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetRegistry.resources
+C:\Embassy\gwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetsMain.resources
+C:\Embassy\gwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.Resources.resources
+C:\Embassy\gwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.dll
+C:\Embassy\gwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.xml
+C:\Embassy\gwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.pdb
+C:\Embassy\gwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\Light8\gwtAssets\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtAssets.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtAssets.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtAssets.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\AdvancedDataGridViewControl.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\AdvancedDataGridViewControl.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\AdvancedDataGridViewControl.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetCategories.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetCategoriesListing.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetDisposal.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetRegistry.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetsMain.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.dll
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.xml
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.pdb
+C:\Embassy\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetCategories.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetCategoriesListing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetDisposal.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetRegistry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetsMain.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtAssets.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtAssets.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtAssets.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCryptor.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\MultiColumnComboBox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCryptor.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCryptor.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\MultiColumnComboBox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\FreeFlowDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.CopyComplete
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtAssets.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtAssets.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtAssets.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCryptor.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\MultiColumnComboBox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\MetroFramework.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\FreeFlowDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\SmartReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCryptor.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtCryptor.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\MultiColumnComboBox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\FreeFlowDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\FreeFlowDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetCategories.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetCategoriesListing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetDisposal.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetRegistry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetsMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.Up2Date
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtAssets.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\QRCoder.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\QRCoder.xml

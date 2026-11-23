@@ -1,0 +1,1 @@
+INSERT INTO GroupCashbookTransactions (BranchName, AccountNumber, TransactionDate, Amount, Description, ContraAccount, UserName, UserBranch, TransactionType, Reference) VALUES ('Speke', '10012001', '03-May-2012', 100, 'CASH SALE - BEPURA CYNTHIA -12345', '50027-002', 'Embassy', 'Speke', 'DEBIT', 12318)

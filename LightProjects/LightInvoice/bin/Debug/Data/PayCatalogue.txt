@@ -1,0 +1,4 @@
+MAVIYA AUTOPARTS|data source=.\;initial catalog=AutoParts;User ID=sa;Password=ochmas;provider=SQLOLEDB
+TOLLGATE AUTOPARTS|data source=.\;initial catalog=AutoPartsTollgate;User ID=sa;Password=ochmas;provider=SQLOLEDB
+MAVIYA MAIN|data source=.\;initial catalog=MaviyaMain;User ID=sa;Password=ochmas;provider=SQLOLEDB
+BRUSH AND PAINT|data source=.\;initial catalog=BrushnPaint;User ID=sa;Password=ochmas;provider=SQLOLEDB

@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9437954D-3385-4437-B699-3F5929D7E71B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LendLight.My.MyApplication</StartupObject>
+    <RootNamespace>LendLight</RootNamespace>
+    <AssemblyName>LendLight</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LendLight.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LendLight.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Sunny.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridViewControl">
+      <HintPath>..\..\..\Controls\AdvancedDataGridViewControl\AdvancedDataGridViewControl\bin\Debug\AdvancedDataGridViewControl.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Design">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Component Factory\Krypton Toolkit 4.4.0\Bin\ComponentFactory.Krypton.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Component Factory\Krypton Toolkit 4.4.0\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Design">
+      <HintPath>..\Light8\bin\Debug\DevComponents.DotNetBar.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.SuperGrid">
+      <HintPath>..\Light8\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\Light8\bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="MTGCCombobox">
+      <HintPath>..\..\..\Controls\MTGCCombobox.dll</HintPath>
+    </Reference>
+    <Reference Include="Numberbox">
+      <HintPath>..\..\..\Controls\Numberbox\Numberbox\bin\Debug\Numberbox.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartColumnReportWriter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Light8\bin\Debug\SmartColumnReportWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.vb">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddBank.Designer.vb">
+      <DependentUpon>frmAddBank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddBank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBankAccountEntry.Designer.vb">
+      <DependentUpon>frmBankAccountEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBankAccountEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoanAdvancement.Designer.vb">
+      <DependentUpon>frmLoanAdvancement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoanAdvancement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoanCustomers.Designer.vb">
+      <DependentUpon>frmLoanCustomers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoanCustomers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoanRepayment.Designer.vb">
+      <DependentUpon>frmLoanRepayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoanRepayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoansListing.Designer.vb">
+      <DependentUpon>frmLoansListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoansListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoanTypes.Designer.vb">
+      <DependentUpon>frmLoanTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoanTypes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoanTypesListing.Designer.vb">
+      <DependentUpon>frmLoanTypesListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoanTypesListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMicroFinanceLight.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMicroFinanceLight.Designer.vb">
+      <DependentUpon>frmMicroFinanceLight.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrganisation.Designer.vb">
+      <DependentUpon>frmOrganisation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrganisation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRunBackup.Designer.vb">
+      <DependentUpon>frmRunBackup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRunBackup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRunRestore.Designer.vb">
+      <DependentUpon>frmRunRestore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRunRestore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserSecurityProfile.Designer.vb">
+      <DependentUpon>frmUserSecurityProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserSecurityProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modCommonVariablesAndFunctions.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBankAccountEntry.resx">
+      <DependentUpon>frmBankAccountEntry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoanAdvancement.resx">
+      <DependentUpon>frmLoanAdvancement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoanCustomers.resx">
+      <DependentUpon>frmLoanCustomers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoanRepayment.resx">
+      <DependentUpon>frmLoanRepayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoansListing.resx">
+      <DependentUpon>frmLoansListing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoanTypes.resx">
+      <DependentUpon>frmLoanTypes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoanTypesListing.resx">
+      <DependentUpon>frmLoanTypesListing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMicroFinanceLight.resx">
+      <DependentUpon>frmMicroFinanceLight.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrganisation.resx">
+      <DependentUpon>frmOrganisation.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRunBackup.resx">
+      <DependentUpon>frmRunBackup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRunRestore.resx">
+      <DependentUpon>frmRunRestore.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserSecurityProfile.resx">
+      <DependentUpon>frmUserSecurityProfile.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\gwtCommonLibrary\gwtCommonLibrary\gwtCommonLibrary.vbproj">
+      <Project>{F666E796-F44A-42E9-9343-E533B7458620}</Project>
+      <Name>gwtCommonLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DocumentWriter\CustomerDocumentWriter.vbproj">
+      <Project>{37202633-71C6-4FC3-92CE-379441EFA79F}</Project>
+      <Name>CustomerDocumentWriter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Sunny.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

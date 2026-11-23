@@ -1,0 +1,313 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+ <html xmlns:msxsl="urn:schemas-microsoft-com:xslt"><head><meta content="en-us" http-equiv="Content-Language" /><meta content="text/html; charset=utf-16" http-equiv="Content-Type" /><title _locID="ConversionReport0">
+          Migration Report
+        </title><style> 
+                    /* Body style, for the entire document */
+                    body
+                    {
+                        background: #F3F3F4;
+                        color: #1E1E1F;
+                        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+                        padding: 0;
+                        margin: 0;
+                    }
+
+                    /* Header1 style, used for the main title */
+                    h1
+                    {
+                        padding: 10px 0px 10px 10px;
+                        font-size: 21pt;
+                        background-color: #E2E2E2;
+                        border-bottom: 1px #C1C1C2 solid; 
+                        color: #201F20;
+                        margin: 0;
+                        font-weight: normal;
+                    }
+
+                    /* Header2 style, used for "Overview" and other sections */
+                    h2
+                    {
+                        font-size: 18pt;
+                        font-weight: normal;
+                        padding: 15px 0 5px 0;
+                        margin: 0;
+                    }
+
+                    /* Header3 style, used for sub-sections, such as project name */
+                    h3
+                    {
+                        font-weight: normal;
+                        font-size: 15pt;
+                        margin: 0;
+                        padding: 15px 0 5px 0;
+                        background-color: transparent;
+                    }
+
+                    /* Color all hyperlinks one color */
+                    a
+                    {
+                        color: #1382CE;
+                    }
+
+                    /* Table styles */ 
+                    table
+                    {
+                        border-spacing: 0 0;
+                        border-collapse: collapse;
+                        font-size: 10pt;
+                    }
+
+                    table th
+                    {
+                        background: #E7E7E8;
+                        text-align: left;
+                        text-decoration: none;
+                        font-weight: normal;
+                        padding: 3px 6px 3px 6px;
+                    }
+
+                    table td
+                    {
+                        vertical-align: top;
+                        padding: 3px 6px 5px 5px;
+                        margin: 0px;
+                        border: 1px solid #E7E7E8;
+                        background: #F7F7F8;
+                    }
+
+                    /* Local link is a style for hyperlinks that link to file:/// content, there are lots so color them as 'normal' text until the user mouse overs */
+                    .localLink
+                    {
+                        color: #1E1E1F;
+                        background: #EEEEED;
+                        text-decoration: none;
+                    }
+
+                    .localLink:hover
+                    {
+                        color: #1382CE;
+                        background: #FFFF99;
+                        text-decoration: none;
+                    }
+
+                    /* Center text, used in the over views cells that contain message level counts */ 
+                    .textCentered
+                    {
+                        text-align: center;
+                    }
+
+                    /* The message cells in message tables should take up all avaliable space */
+                    .messageCell
+                    {
+                        width: 100%;
+                    }
+
+                    /* Padding around the content after the h1 */ 
+                    #content 
+                    {
+	                    padding: 0px 12px 12px 12px; 
+                    }
+
+                    /* The overview table expands to width, with a max width of 97% */ 
+                    #overview table
+                    {
+                        width: auto;
+                        max-width: 75%; 
+                    }
+
+                    /* The messages tables are always 97% width */
+                    #messages table
+                    {
+                        width: 97%;
+                    }
+
+                    /* All Icons */
+                    .IconSuccessEncoded, .IconInfoEncoded, .IconWarningEncoded, .IconErrorEncoded
+                    {
+                        min-width:18px;
+                        min-height:18px; 
+                        background-repeat:no-repeat;
+                        background-position:center;
+                    }
+
+                    /* Success icon encoded */
+                    .IconSuccessEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconSuccess#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABcElEQVR4Xq2TsUsCURzHv15g8ZJcBWlyiYYgCIWcb9DFRRwMW5TA2c0/QEFwFkxxUQdxVlBwCYWOi6IhWgQhBLHJUCkhLr/BW8S7gvrAg+N+v8/v+x68Z8MGy+XSCyABQAXgBgHGALoASkIIDWSLeLBetdHryMjd5IxQPWT4rn1c/P7+xxp72Cs9m5SZ0Bq2vPnbPFafK2zDvmNHypdC0BPkLlQhxJsCAhQoZwdZU5mwxh720qGo8MzTxTTKZDPCx2HoVzp6lz0Q9tKhyx0kGs8Ny+TkWRKk8lCROwEduhyg9l/6lunOPSfmH3NUH6uQ0KHLAe7JYvJjevm+DAMGJHToKtigE+vwvIidxLamb8IBY9e+C5LiXREkfho3TSd06HJA13/oh6T51MTsfQbHrsMynQ5dDihFjiK8JJAU9AKIWTp76dCVN7HWHrajmUEGvyF9nkbAE6gLIS7kTUyuf2gscLoJrElZo/Mvj+nPz/kLTmfnEwP3tB0AAAAASUVORK5CYII=);
+                    }
+
+                    /* Information icon encoded */
+                    .IconInfoEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconInformation#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHElEQVR4Xs2TsUoDQRRF7wwoziokjZUKadInhdhukR9YP8DMX1hYW+QvdsXa/QHBbcXC7W0CamWTQnclFutceIQJwwaWNLlwm5k5d94M76mmaeCrrmsLYOocY12FcxZFUeozCqKqqgYA8uevv1H6VuPxcwlfk5N92KHBxfFeCSAxxswlYAW/Xr989x/mv9gkhtyMDhcAxgzRsp7flj8B/HF1RsMXq+NZMkopaHe7lbKxQUEIGbKsYNoGn969060hZBkQex/W8oRQwsQaW2o3Ago2SVcJUzAgY3N0lTCZZm+zPS8HB51gMmS1DEYyOz9acKO1D8JWTlafKIMxdhvlfdyT94Vv5h7P8Ky7nQzACmhvKq3zk3PjW9asz9D/1oigecsioooAAAAASUVORK5CYII=);
+                    }
+
+                    /* Warning icon encoded */
+                    .IconWarningEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconWarning#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAx0lEQVR4XpWSMQ7CMAxFf4xAyBMLCxMrO8dhaBcuwdCJS3RJBw7SA/QGTCxdWJgiQYWKXJWKIXHIlyw5lqr34tQgEOdcBsCOx5yZK3hCCKdYXneQkh4pEfqzLfu+wVDSyyzFoJjfz9NB+pAF+eizx2Vruts0k15mPgvS6GYvpVtQhB61IB/dk6AF6fS4Ben0uIX5odtFe8Q/eW1KvFeH4e8khT6+gm5B+t3juyDt7n0jpe+CANTd+oTUjN/U3yVaABnSUjFz/gFq44JaVSCXeQAAAABJRU5ErkJggg==);
+                    }
+
+                    /* Error icon encoded */
+                    .IconErrorEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconError#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABQElEQVR4XqWTvUoEQRCE6wYPZUA80AfwAQz23uCMjA7MDRQEIzPBVEyNTQUFIw00vcQTTMzuAh/AxEQQT8HF/3G/oGGnEUGuoNnd6qoZuqltyKEsyzVJq5I6rnUp6SjGeGhESikzzlc1eL7opfuVbrqbU1Zw9NCgtQMaZpY0eNnaaL2fHusvTK5vKu7sjSS1Y4y3QUA6K3e3Mau5UFDyMP7tYF9o8cAHZv68vipoIJg971PZIZ5HiwdvYGGvFVFHmGmZ2MxwmQYPXubPl9Up0tfoMQGetXd6mRbvhBw+boZ6WF7Mbv1+GsHRk0fQmPAH1GfmZirbCfDJ61tw3Px8/8pZsPAG4jlVhcPgZ7adwNWBB68lkRQWFiTgFlbnLY3DGGM7izIJIyT/jjIvEJw6fdJTc6krDzh6aMwMP9bvDH4ADSsa9uSWVJkAAAAASUVORK5CYII=);
+                    }
+                 </style><script type="text/javascript" language="javascript"> 
+          
+            // Startup 
+            // Hook up the the loaded event for the document/window, to linkify the document content
+            var startupFunction = function() { linkifyElement("messages"); };
+            
+            if(window.attachEvent)
+            {
+              window.attachEvent('onload', startupFunction);
+            }
+            else if (window.addEventListener) 
+            {
+              window.addEventListener('load', startupFunction, false);
+            }
+            else 
+            {
+              document.addEventListener('load', startupFunction, false);
+            } 
+            
+            // Toggles the visibility of table rows with the specified name 
+            function toggleTableRowsByName(name)
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  if(!!currentName && currentName.indexOf(name) == 0)
+                  {
+                      var isVisible = allRows[i].style.display == ''; 
+                      isVisible ? allRows[i].style.display = 'none' : allRows[i].style.display = '';
+                  }
+               }
+            }
+            
+            function scrollToFirstVisibleRow(name) 
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  var isVisible = allRows[i].style.display == ''; 
+                  if(!!currentName && currentName.indexOf(name) == 0 && isVisible)
+                  {
+                     allRows[i].scrollIntoView(true); 
+                     return true; 
+                  }
+               }
+               
+               return false;
+            }
+            
+            // Linkifies the specified text content, replaces candidate links with html links 
+            function linkify(text)
+            {
+                 if(!text || 0 === text.length)
+                 {
+                     return text; 
+                 }
+
+                 // Find http, https and ftp links and replace them with hyper links 
+                 var urlLink = /(http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+(:[a-zA-Z0-9]*)?\/?([a-zA-Z0-9\-\._\?\,\/\\\+&%\$#\=~;\{\}])*/gi;
+                 
+                 return text.replace(urlLink, '<a href="$&">$&</a>') ;
+            }
+            
+            // Linkifies the specified element by ID
+            function linkifyElement(id)
+            {
+                var element = document.getElementById(id);
+                if(!!element)
+                {
+                  element.innerHTML = linkify(element.innerHTML); 
+                }
+            }
+            
+            function ToggleMessageVisibility(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              toggleTableRowsByName("MessageRowClass" + projectName);
+              toggleTableRowsByName('MessageRowHeaderShow' + projectName);
+              toggleTableRowsByName('MessageRowHeaderHide' + projectName); 
+            }
+            
+            function ScrollToFirstVisibleMessage(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              // First try the 'Show messages' row
+              if(!scrollToFirstVisibleRow('MessageRowHeaderShow' + projectName))
+              {
+                // Failed to find a visible row for 'Show messages', try an actual message row 
+                scrollToFirstVisibleRow('MessageRowClass' + projectName); 
+              }
+            }
+           </script></head><body><h1 _locID="ConversionReport">
+          Migration Report - </h1><div id="content"><h2 _locID="OverviewTitle">Overview</h2><div id="overview"><table><tr><th></th><th _locID="ProjectTableHeader">Project</th><th _locID="PathTableHeader">Path</th><th _locID="ErrorsTableHeader">Errors</th><th _locID="WarningsTableHeader">Warnings</th><th _locID="MessagesTableHeader">Messages</th></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#eManagerDeploy">eManagerDeploy</a></strong></td><td>..\..\eManager\eManagerDeploy\eManagerDeploy.vdproj</td><td class="textCentered"><a href="#eManagerDeployError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#LightR8">LightR8</a></strong></td><td>LightR8\LightR8.vdproj</td><td class="textCentered"><a href="#LightR8Error">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#PatientPlusInstall">PatientPlusInstall</a></strong></td><td>PatientPlusInstall\PatientPlusInstall.vdproj</td><td class="textCentered"><a href="#PatientPlusInstallError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#PaylightInstall">PaylightInstall</a></strong></td><td>PaylightInstall\PaylightInstall.vdproj</td><td class="textCentered"><a href="#PaylightInstallError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#ScholasticaInstall">ScholasticaInstall</a></strong></td><td>..\Scholastica\ScholasticaInstall\ScholasticaInstall.vdproj</td><td class="textCentered"><a href="#ScholasticaInstallError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#CoopLight">CoopLight</a></strong></td><td>..\CoopLight\CoopLight\CoopLight.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#CrmLight">CrmLight</a></strong></td><td>CRMLight\CrmLight.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#CustomerDocumentWriter">CustomerDocumentWriter</a></strong></td><td>DocumentWriter\CustomerDocumentWriter.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#DateDataGridView">DateDataGridView</a></strong></td><td>DateDataGridView\DateDataGridView.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#DebtCollector">DebtCollector</a></strong></td><td>..\DebtCollector\DebtCollector.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#DocTest">DocTest</a></strong></td><td>..\SmartDocumentWriter\DocTest\DocTest.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#eManager">eManager</a></strong></td><td>..\eManager\eManager\eManager\eManager.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EncryptDecryptData">EncryptDecryptData</a></strong></td><td>..\EncryptDecryptData\EncryptDecryptData\EncryptDecryptData.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Farming">Farming</a></strong></td><td>Farming\Farming.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Financial Light 6.0">Financial Light 6.0</a></strong></td><td>..\..\Financial Light 6.0\Financial Light 6.0\Financial Light 6.0.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#GreatPay">GreatPay</a></strong></td><td>..\..\..\Great Wits Projects\Greatpay\GreatPay\GreatPay\GreatPay.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#GreatPayLight">GreatPayLight</a></strong></td><td>GreatPayLight\GreatPayLight.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#gwtAccounting">gwtAccounting</a></strong></td><td>..\gwtAccounting\gwtAccounting.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#gwtAdministration">gwtAdministration</a></strong></td><td>..\gwtAdministration\gwtAdministration.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#gwtAssets">gwtAssets</a></strong></td><td>gwtAssets\gwtAssets.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#gwtCashbook">gwtCashbook</a></strong></td><td>..\gwtCashbook\gwtCashbook.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#gwtCommonLibrary">gwtCommonLibrary</a></strong></td><td>..\..\gwtCommonLibrary\gwtCommonLibrary\gwtCommonLibrary.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#gwtEmployees">gwtEmployees</a></strong></td><td>gwtEmployees\gwtEmployees.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#gwtInventory">gwtInventory</a></strong></td><td>..\gwtinv\gwtInventory.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#gwtLightInvoice">gwtLightInvoice</a></strong></td><td>..\LightInvoice\gwtLightInvoice.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#gwtprconfig">gwtprconfig</a></strong></td><td>gwtprconfig\gwtprconfig.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#HotelManagement">HotelManagement</a></strong></td><td>HotelManagement\HotelManagement.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#LendLight">LendLight</a></strong></td><td>LendLight\LendLight.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Light8">Light8</a></strong></td><td>Light8\Light8.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#LightPurchasing">LightPurchasing</a></strong></td><td>..\LightPurchasing\LightPurchasing.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Mediplus">Mediplus</a></strong></td><td>..\Mediplus\Mediplus\Mediplus.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#MOC">MOC</a></strong></td><td>..\MOC\MOC\MOC.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Ochmas">Ochmas</a></strong></td><td>..\Ochmas\Ochmas.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#PatientPlus">PatientPlus</a></strong></td><td>PatientPlus\PatientPlus.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#POS">POS</a></strong></td><td>..\POS\POS\POS.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#ProjectLight">ProjectLight</a></strong></td><td>..\ProjectLight\ProjectLight.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#SmartColumnReportWriter">SmartColumnReportWriter</a></strong></td><td>..\..\SmartColumnReportWriter\SmartColumnReportWriter\SmartColumnReportWriter.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#SmartDocumentWriter">SmartDocumentWriter</a></strong></td><td>..\SmartDocumentWriter\SmartDocumentWriter\SmartDocumentWriter.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#SmartReportWriter">SmartReportWriter</a></strong></td><td>..\..\SmartReportWriter\SmartReportWriter\SmartReportWriter.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#SmartRichReportWriter">SmartRichReportWriter</a></strong></td><td>..\SmartRichReportWriter\SmartRichReportWriter\SmartRichReportWriter.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#TestingApp">TestingApp</a></strong></td><td>TestingApp\TestingApp.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Solution"><span _locID="OverviewSolutionSpan">Solution</span></a></strong></td><td>Light8.sln</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('Solution'); return false;">1</a></td></tr></table></div><h2 _locID="SolutionAndProjectsTitle">Solution and projects</h2><div id="messages"><a name="eManagerDeploy" /><h3>eManagerDeploy</h3><table><tr id="eManagerDeployHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClasseManagerDeploy"><td class="IconErrorEncoded"><a name="eManagerDeployError" /></td><td class="messageCell"><strong>..\..\eManager\eManagerDeploy\eManagerDeploy.vdproj:
+        </strong><span>The application which this project type is based on was not found. Please try this link for further information: 54435603-dbb4-11d2-8724-00a0c9a8b90c</span></td></tr></table><a name="LightR8" /><h3>LightR8</h3><table><tr id="LightR8HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClassLightR8"><td class="IconErrorEncoded"><a name="LightR8Error" /></td><td class="messageCell"><strong>LightR8\LightR8.vdproj:
+        </strong><span>The application which this project type is based on was not found. Please try this link for further information: 54435603-dbb4-11d2-8724-00a0c9a8b90c</span></td></tr></table><a name="PatientPlusInstall" /><h3>PatientPlusInstall</h3><table><tr id="PatientPlusInstallHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClassPatientPlusInstall"><td class="IconErrorEncoded"><a name="PatientPlusInstallError" /></td><td class="messageCell"><strong>PatientPlusInstall\PatientPlusInstall.vdproj:
+        </strong><span>The application which this project type is based on was not found. Please try this link for further information: 54435603-dbb4-11d2-8724-00a0c9a8b90c</span></td></tr></table><a name="PaylightInstall" /><h3>PaylightInstall</h3><table><tr id="PaylightInstallHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClassPaylightInstall"><td class="IconErrorEncoded"><a name="PaylightInstallError" /></td><td class="messageCell"><strong>PaylightInstall\PaylightInstall.vdproj:
+        </strong><span>The application which this project type is based on was not found. Please try this link for further information: 54435603-dbb4-11d2-8724-00a0c9a8b90c</span></td></tr></table><a name="ScholasticaInstall" /><h3>ScholasticaInstall</h3><table><tr id="ScholasticaInstallHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClassScholasticaInstall"><td class="IconErrorEncoded"><a name="ScholasticaInstallError" /></td><td class="messageCell"><strong>..\Scholastica\ScholasticaInstall\ScholasticaInstall.vdproj:
+        </strong><span>The application which this project type is based on was not found. Please try this link for further information: 54435603-dbb4-11d2-8724-00a0c9a8b90c</span></td></tr></table><a name="CoopLight" /><h3>CoopLight</h3><table><tr id="CoopLightHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">CoopLight logged no messages.
+                  </td></tr></table><a name="CrmLight" /><h3>CrmLight</h3><table><tr id="CrmLightHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">CrmLight logged no messages.
+                  </td></tr></table><a name="CustomerDocumentWriter" /><h3>CustomerDocumentWriter</h3><table><tr id="CustomerDocumentWriterHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">CustomerDocumentWriter logged no messages.
+                  </td></tr></table><a name="DateDataGridView" /><h3>DateDataGridView</h3><table><tr id="DateDataGridViewHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">DateDataGridView logged no messages.
+                  </td></tr></table><a name="DebtCollector" /><h3>DebtCollector</h3><table><tr id="DebtCollectorHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">DebtCollector logged no messages.
+                  </td></tr></table><a name="DocTest" /><h3>DocTest</h3><table><tr id="DocTestHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">DocTest logged no messages.
+                  </td></tr></table><a name="eManager" /><h3>eManager</h3><table><tr id="eManagerHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">eManager logged no messages.
+                  </td></tr></table><a name="EncryptDecryptData" /><h3>EncryptDecryptData</h3><table><tr id="EncryptDecryptDataHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EncryptDecryptData logged no messages.
+                  </td></tr></table><a name="Farming" /><h3>Farming</h3><table><tr id="FarmingHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Farming logged no messages.
+                  </td></tr></table><a name="Financial Light 6.0" /><h3>Financial Light 6.0</h3><table><tr id="Financial Light 6.0HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Financial Light 6.0 logged no messages.
+                  </td></tr></table><a name="GreatPay" /><h3>GreatPay</h3><table><tr id="GreatPayHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">GreatPay logged no messages.
+                  </td></tr></table><a name="GreatPayLight" /><h3>GreatPayLight</h3><table><tr id="GreatPayLightHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">GreatPayLight logged no messages.
+                  </td></tr></table><a name="gwtAccounting" /><h3>gwtAccounting</h3><table><tr id="gwtAccountingHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">gwtAccounting logged no messages.
+                  </td></tr></table><a name="gwtAdministration" /><h3>gwtAdministration</h3><table><tr id="gwtAdministrationHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">gwtAdministration logged no messages.
+                  </td></tr></table><a name="gwtAssets" /><h3>gwtAssets</h3><table><tr id="gwtAssetsHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">gwtAssets logged no messages.
+                  </td></tr></table><a name="gwtCashbook" /><h3>gwtCashbook</h3><table><tr id="gwtCashbookHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">gwtCashbook logged no messages.
+                  </td></tr></table><a name="gwtCommonLibrary" /><h3>gwtCommonLibrary</h3><table><tr id="gwtCommonLibraryHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">gwtCommonLibrary logged no messages.
+                  </td></tr></table><a name="gwtEmployees" /><h3>gwtEmployees</h3><table><tr id="gwtEmployeesHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">gwtEmployees logged no messages.
+                  </td></tr></table><a name="gwtInventory" /><h3>gwtInventory</h3><table><tr id="gwtInventoryHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">gwtInventory logged no messages.
+                  </td></tr></table><a name="gwtLightInvoice" /><h3>gwtLightInvoice</h3><table><tr id="gwtLightInvoiceHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">gwtLightInvoice logged no messages.
+                  </td></tr></table><a name="gwtprconfig" /><h3>gwtprconfig</h3><table><tr id="gwtprconfigHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">gwtprconfig logged no messages.
+                  </td></tr></table><a name="HotelManagement" /><h3>HotelManagement</h3><table><tr id="HotelManagementHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">HotelManagement logged no messages.
+                  </td></tr></table><a name="LendLight" /><h3>LendLight</h3><table><tr id="LendLightHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">LendLight logged no messages.
+                  </td></tr></table><a name="Light8" /><h3>Light8</h3><table><tr id="Light8HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Light8 logged no messages.
+                  </td></tr></table><a name="LightPurchasing" /><h3>LightPurchasing</h3><table><tr id="LightPurchasingHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">LightPurchasing logged no messages.
+                  </td></tr></table><a name="Mediplus" /><h3>Mediplus</h3><table><tr id="MediplusHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Mediplus logged no messages.
+                  </td></tr></table><a name="MOC" /><h3>MOC</h3><table><tr id="MOCHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">MOC logged no messages.
+                  </td></tr></table><a name="Ochmas" /><h3>Ochmas</h3><table><tr id="OchmasHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Ochmas logged no messages.
+                  </td></tr></table><a name="PatientPlus" /><h3>PatientPlus</h3><table><tr id="PatientPlusHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">PatientPlus logged no messages.
+                  </td></tr></table><a name="POS" /><h3>POS</h3><table><tr id="POSHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">POS logged no messages.
+                  </td></tr></table><a name="ProjectLight" /><h3>ProjectLight</h3><table><tr id="ProjectLightHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">ProjectLight logged no messages.
+                  </td></tr></table><a name="SmartColumnReportWriter" /><h3>SmartColumnReportWriter</h3><table><tr id="SmartColumnReportWriterHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">SmartColumnReportWriter logged no messages.
+                  </td></tr></table><a name="SmartDocumentWriter" /><h3>SmartDocumentWriter</h3><table><tr id="SmartDocumentWriterHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">SmartDocumentWriter logged no messages.
+                  </td></tr></table><a name="SmartReportWriter" /><h3>SmartReportWriter</h3><table><tr id="SmartReportWriterHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">SmartReportWriter logged no messages.
+                  </td></tr></table><a name="SmartRichReportWriter" /><h3>SmartRichReportWriter</h3><table><tr id="SmartRichReportWriterHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">SmartRichReportWriter logged no messages.
+                  </td></tr></table><a name="TestingApp" /><h3>TestingApp</h3><table><tr id="TestingAppHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">TestingApp logged no messages.
+                  </td></tr></table><a name="Solution" /><h3 _locID="ProjectDisplayNameHeader">Solution</h3><table><tr id="SolutionHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="MessageRowHeaderShowSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Show 1 additional messages
+        </a></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>Light8.sln:
+        </strong><span>The solution file does not require migration.</span></td></tr><tr style="display: none" name="MessageRowHeaderHideSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Hide 1 additional messages
+        </a></td></tr></table></div></div></body></html>

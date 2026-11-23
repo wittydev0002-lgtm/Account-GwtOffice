@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Light8
+</name>
+</assembly>
+<members>
+<member name="T:Light8.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Light8.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Light8.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Light8.My.Resources.Resources.Loan_Customer_information">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Light8.frmFind">
+ <summary>
+ This class provides two subroutines used to:
+ Find (find the first instance of a search term)
+ Find Next (find other instances of the search term after the first one is found)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:Light8.frmReplace">
+ <summary>
+ This class provides four subroutines used to:
+ Find (find the first instance of a search term)
+ Find Next (find other instances of the search term after the first one is found)
+ Replace (replace the current selection with replacement text)
+ Replace All (replace all instances of search term with replacement text)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Light8.QRCodePrinter.GenerateAndPrintQRCode(System.String,System.Int32,System.Int32,System.String,System.Int32,System.Int32)">
+ <summary>
+ Generate QR Code and print to POS thermal printer
+ </summary>
+</member>
+<member name="M:Light8.QRCodePrinter.GenerateQRCode(System.String,System.Int32,System.Int32)">
+ <summary>
+ Generate QR Code image
+ </summary>
+</member>
+<member name="M:Light8.QRCodePrinter.PrintQRCode(System.String,System.Int32,System.Int32)">
+ <summary>
+ Print QR Code to thermal printer
+ </summary>
+</member>
+<member name="M:Light8.QRCodePrinter.PrintPageHandler(System.Object,System.Drawing.Printing.PrintPageEventArgs,System.String,System.Int32)">
+ <summary>
+ Print page event handler
+ </summary>
+</member>
+<member name="M:Light8.QRCodePrinter.GetDefaultPrinter">
+ <summary>
+ Get default printer name
+ </summary>
+</member>
+<member name="M:Light8.QRCodePrinter.GetAvailablePrinters">
+ <summary>
+ Get list of available printers
+ </summary>
+</member>
+</members>
+</doc>

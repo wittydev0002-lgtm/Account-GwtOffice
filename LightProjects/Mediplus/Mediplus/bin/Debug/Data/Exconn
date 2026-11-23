@@ -1,0 +1,1 @@
+data source=.\;initial catalog=GTJuly2015;user ID=sa;password=ochmas;provider=SQLOLEDB

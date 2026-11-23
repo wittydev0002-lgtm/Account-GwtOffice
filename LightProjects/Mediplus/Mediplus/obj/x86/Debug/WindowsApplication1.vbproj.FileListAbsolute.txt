@@ -1,0 +1,28 @@
+C:\Users\Embassy Phiri\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Embassy Phiri\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Embassy Phiri\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Embassy Phiri\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Embassy Phiri\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Embassy Phiri\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Embassy Phiri\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Embassy Phiri\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Embassy Phiri\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Embassy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Embassy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Embassy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Embassy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Embassy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Embassy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Embassy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Embassy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Embassy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Embassy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Embassy\WindowsApplication1\WindowsApplication1\bin\Debug\ObjectListView.dll
+C:\Embassy\WindowsApplication1\WindowsApplication1\bin\Debug\ObjectListView.pdb
+C:\Embassy\WindowsApplication1\WindowsApplication1\bin\Debug\ObjectListView.xml
+C:\Embassy\WindowsApplication1\WindowsApplication1\bin\Debug\Guifreaks.Common.dll
+C:\Embassy\WindowsApplication1\WindowsApplication1\bin\Debug\Guifreaks.Navisuite.dll
+C:\Embassy\WindowsApplication1\WindowsApplication1\bin\Debug\nl-nl\Guifreaks.Navisuite.resources.dll
+C:\Embassy\WindowsApplication1\WindowsApplication1\bin\Debug\Guifreaks.Navisuite.XmlSerializers.dll
+C:\Embassy\WindowsApplication1\WindowsApplication1\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Embassy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmMedlightMain.resources

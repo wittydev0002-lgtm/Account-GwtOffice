@@ -1,0 +1,1 @@
+ACCOUNTING LITE PLUS|data source=.\;initial catalog=Greatwits;User ID=sa;Password=ochmas;provider=SQLOLEDB

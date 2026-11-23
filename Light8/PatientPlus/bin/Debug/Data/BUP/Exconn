@@ -1,0 +1,1 @@
+data source=.\;initial catalog=QgasWaterfalls;user ID=sa;password=ochmas;provider=SQLOLEDB

@@ -1,0 +1,46 @@
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\bin\Debug\DocTest.exe
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\bin\Debug\DocTest.pdb
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\bin\Debug\DocTest.xml
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\bin\Debug\SmartDocumentWriter.dll
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\bin\Debug\SmartDocumentWriter.pdb
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\bin\Debug\SmartDocumentWriter.xml
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.Form1.resources
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.Resources.resources
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.exe
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.xml
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.pdb
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.vbproj.GenerateResource.Cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\DocTest.exe
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\DocTest.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\DocTest.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\SmartDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\SmartDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\SmartDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.vbprojAssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.Form1.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.vbproj.CopyComplete
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.exe
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\DocTest.exe.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\DocTest.exe
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\DocTest.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\DocTest.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\SmartDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\SmartDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\SmartDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.Form1.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.exe
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\obj\x86\Debug\DocTest.vbproj.Up2Date
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\QRCoder.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\DocTest\bin\Debug\QRCoder.xml

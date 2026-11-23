@@ -1,0 +1,1 @@
+MANGWANA AND PARTNERS|data source=.\;initial catalog=MangwanaLocalLive;User ID=sa;Password=ochmas;provider=SQLOLEDB

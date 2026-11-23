@@ -1,0 +1,282 @@
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\ProjectLight.dll.config
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\ProjectLight.dll
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\ProjectLight.pdb
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\ProjectLight.xml
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmAdvancedSearch.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmCustomerKeyInformation.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmDenyAcces.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmJobCardInvoiceDetails.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmJobsServiceParameters.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmBrowseDebtors.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmCashbookExpenses.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmCashbookSelection.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmClaimsComment.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmJobCardEntry.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmJobInvoicing.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmOpenProjectClaims.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmProjectCallings.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmProjectDetails.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmCreditNoteEntry.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmCustomerAccountsAdjustment.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmCustomerDetails.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmCustomerReferenceChange.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmCustomerTradingHistory.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmDateSpecifier.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmDocumentConversion.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmEmailDocument.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmFindInventory.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmInvoice.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmPastEmployers.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmPrintCopies.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmProjectExpenses.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmProjectResources.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmProjectSetup.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmProjectsMain.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmQuotation.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmSerialNumberSelection.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmSupervisorAuthorizaton.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmTransactionsPickList.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.Resources.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.dll
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.xml
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.pdb
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.frmInvoiceSeries.resources
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice\ProjectLight\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice\ProjectLight\obj\Debug\ProjectLight.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.dll.config
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.dll
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.pdb
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.xml
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\MTGCCombobox.dll
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\Numberbox.dll
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartColumnReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\Numberbox.pdb
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\Numberbox.xml
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartColumnReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartColumnReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.vbprojResolveAssemblyReference.cache
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmAdvancedSearch.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerKeyInformation.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmDenyAcces.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmInvoiceSeries.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobCardInvoiceDetails.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobsServiceParameters.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmBrowseDebtors.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCashbookExpenses.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCashbookSelection.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmClaimsComment.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobCardEntry.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobInvoicing.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmOpenProjectClaims.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectCallings.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectDetails.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCreditNoteEntry.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerAccountsAdjustment.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerDetails.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerReferenceChange.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerTradingHistory.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmDateSpecifier.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmDocumentConversion.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmEmailDocument.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmFindInventory.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmInvoice.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmPastEmployers.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmPrintCopies.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectExpenses.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectResources.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectSetup.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectsMain.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmQuotation.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmSerialNumberSelection.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmSupervisorAuthorizaton.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmTransactionsPickList.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.dll
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.xml
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.pdb
+C:\Embassy\gwtOffice_Goldtech\ProjectLight\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmAdvancedSearch.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerKeyInformation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmDenyAcces.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmInvoiceSeries.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobCardInvoiceDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobsServiceParameters.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmBrowseDebtors.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCashbookExpenses.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCashbookSelection.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmClaimsComment.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobCardEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobInvoicing.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmOpenProjectClaims.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectCallings.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCreditNoteEntry.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerAccountsAdjustment.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerDetails.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerReferenceChange.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerTradingHistory.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmDateSpecifier.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmDocumentConversion.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmEmailDocument.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmFindInventory.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmInvoice.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmPastEmployers.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmPrintCopies.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectExpenses.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectResources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectSetup.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectsMain.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmQuotation.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmSerialNumberSelection.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmSupervisorAuthorizaton.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmTransactionsPickList.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCommonLibrary.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\Numberbox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCryptor.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\MultiColumnComboBox.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\MetroFramework.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCommonLibrary.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCommonLibrary.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCommonLibrary.dll.config
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\Numberbox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\Numberbox.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCryptor.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCryptor.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\MultiColumnComboBox.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\FreeFlowDocumentWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.vbproj.CopyComplete
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ProjectLight.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCommonLibrary.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\Numberbox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartRichReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCryptor.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\MultiColumnComboBox.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\MetroFramework.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\FreeFlowDocumentWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCommonLibrary.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCommonLibrary.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCommonLibrary.dll.config
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\Numberbox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\Numberbox.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartRichReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\SmartRichReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCryptor.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\gwtCryptor.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\MultiColumnComboBox.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\FreeFlowDocumentWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\FreeFlowDocumentWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.vbproj.ResolveComReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmAdvancedSearch.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerKeyInformation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmDenyAcces.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmInvoiceSeries.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobCardInvoiceDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobsServiceParameters.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmBrowseDebtors.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCashbookExpenses.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCashbookSelection.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmClaimsComment.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobCardEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmJobInvoicing.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmOpenProjectClaims.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectCallings.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCreditNoteEntry.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerAccountsAdjustment.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerDetails.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerReferenceChange.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmCustomerTradingHistory.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmDateSpecifier.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmDocumentConversion.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmEmailDocument.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmFindInventory.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmInvoice.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmPastEmployers.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmPrintCopies.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectExpenses.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectResources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectSetup.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmProjectsMain.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmQuotation.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmSerialNumberSelection.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmSupervisorAuthorizaton.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.frmTransactionsPickList.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectLight.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\obj\Debug\ProjectL.327BBB4B.Up2Date
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\QRCoder.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\ProjectLight\bin\Debug\QRCoder.xml

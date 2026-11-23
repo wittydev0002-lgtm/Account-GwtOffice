@@ -1,0 +1,39 @@
+C:\Embassy\gwtOffice\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.Resources.resources
+C:\Embassy\gwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.Resources.resources
+C:\Embassy\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.vbproj.GenerateResource.Cache
+C:\Embassy\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.dll
+C:\Embassy\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.xml
+C:\Embassy\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.pdb
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.vbproj.AssemblyReference.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.Resources.resources
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.vbproj.GenerateResource.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.vbproj.CoreCompileInputs.cache
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.dll
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.xml
+C:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.vbproj.AssemblyReference.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.Resources.resources
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.vbproj.GenerateResource.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.vbproj.CoreCompileInputs.cache
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.pdb
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\QRCoder.dll
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\QRCoder.xml
+D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRic.CC5E9440.Up2Date
