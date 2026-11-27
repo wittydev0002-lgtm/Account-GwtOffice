@@ -156,3 +156,42 @@ D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\obj\Debug\
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\gwtAssets.dll.config
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\QRCoder.dll
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\gwtAssets\bin\Debug\QRCoder.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\gwtAssets.dll.config
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\gwtAssets.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\gwtAssets.pdb
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\gwtAssets.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\QRCoder.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\gwtCryptor.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\MultiColumnComboBox.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\MetroFramework.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\FreeFlowDocumentWriter.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\QRCoder.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.pdb
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\SmartColumnReportWriter.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\SmartReportWriter.pdb
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\SmartReportWriter.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.pdb
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\gwtCommonLibrary.dll.config
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\FreeFlowDocumentWriter.pdb
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\bin\Debug\FreeFlowDocumentWriter.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.AssemblyReference.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetCategories.resources
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetCategoriesListing.resources
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetDisposal.resources
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetRegistry.resources
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.frmAssetsMain.resources
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.Resources.resources
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.GenerateResource.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.CoreCompileInputs.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.vbproj.Up2Date
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\gwtAssets\obj\Debug\gwtAssets.pdb

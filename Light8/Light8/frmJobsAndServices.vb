@@ -474,7 +474,12 @@ RaiseErr:
     End Sub
 
     Private Sub frmJobsAndServices_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
-
+        'Technicians work on job sheets only: no deleting, no invoicing and no value summaries
+        If GtiCurrentAccessLevel = GtiLevelTechnician Then
+            btnDeleteJob.Visible = False
+            btnConvertJob.Visible = False
+            SuperTabItem2.Visible = False
+        End If
     End Sub
 
     Private Sub btnMore_Click(sender As Object, e As EventArgs) Handles btnMore.Click

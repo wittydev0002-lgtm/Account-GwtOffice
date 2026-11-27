@@ -62,7 +62,12 @@ RaiseErr:
             If IsNumeric(objReader("InitialValue").ToString) Then txtContractValue.Text = Format(CDbl(objReader("InitialValue").ToString), "##0.00")
             If IsNumeric(objReader("RevisedValue").ToString) Then txtRevisedValue.Text = Format(CDbl(objReader("RevisedValue").ToString), "##0.00")
             If IsDate(objReader("TakeOnDate").ToString) Then dpTakeonDate.Value = objReader("TakeOnDate").ToString
-            If Not IsDBNull(objReader("Owner").ToString) Then cboPersonnel.Text = objReader("Owner").ToString
+            If Not IsDBNull(objReader("Owner").ToString) Then
+                'Keep the saved owner selectable even when that person is no longer in the employee list
+                Dim strOwner As String = objReader("Owner").ToString
+                If strOwner <> "" AndAlso cboPersonnel.Items.IndexOf(strOwner) < 0 Then cboPersonnel.Items.Add(strOwner)
+                cboPersonnel.Text = strOwner
+            End If
             txtReference.Text = intSelectedProjectNumber
             'Get the customer name
             objCommand = New Data.OleDb.OleDbCommand("SELECT AccountName FROM Customers WHERE AccountNumber = '" & objReader("CustomerNumber").ToString & "'", cnn)
@@ -112,6 +117,14 @@ RaiseErr:
         LoadEmployees()
         If boolEditStatus = False Then
             txtReference.Text = CStr(gwt_comm.GetNextDocumentNumber("ProjectsNumber"))
+            'Started from a client's project list: the client is already known
+            If Not String.IsNullOrEmpty(GtiPresetProjectCustomerNumber) Then
+                cboClient.Text = UCase(GtiPresetProjectCustomerName & "")
+                txtCustomerNumber.Text = GtiPresetProjectCustomerNumber
+                'Lock the client so it cannot be changed by accident while the other fields are filled in
+                cboClient.Enabled = False : txtCustomerNumber.Enabled = False
+                btnFindAccount.Enabled = False : btnAddNew.Enabled = False
+            End If
         Else
             txtReference.Text = intSelectedProjectNumber
             LoadMainDetails()
@@ -376,22 +389,27 @@ RaiseErr:
         End If
         Dim objCommand As Data.OleDb.OleDbCommand
 
-        If boolEditStatus = True Then
-            'Delete the record completely
-            objCommand = New Data.OleDb.OleDbCommand("DELETE FROM ProjectsConsultants WHERE ContractNumber = " & intSelectedProjectNumber & "", cnn)
-            objCommand.ExecuteNonQuery()
-            objCommand = New Data.OleDb.OleDbCommand("DELETE FROM ProjectsTransactions WHERE ContractNumber = " & intSelectedProjectNumber & "", cnn)
-            objCommand.ExecuteNonQuery()
-            objCommand = New Data.OleDb.OleDbCommand("DELETE FROM ProjectsMain WHERE ContractNumber = " & intSelectedProjectNumber & "", cnn)
-            objCommand.ExecuteNonQuery()
+        'A project started from a client's project list always belongs to that client
+        If boolEditStatus = False AndAlso Not String.IsNullOrEmpty(GtiPresetProjectCustomerNumber) Then
+            txtCustomerNumber.Text = GtiPresetProjectCustomerNumber
         End If
 
-        objCommand = New Data.OleDb.OleDbCommand("INSERT INTO ProjectsMain ([ContractNumber],[TakeOnDate]," _
-            & "[ContractName],[CustomerNumber],[InitialValue],[RevisedValue], [Owner]) VALUES " _
-            & "(" & txtReference.Text & ", '" & gwt_comm.shortMonthDateFormat(dpTakeonDate.Value) & "', " _
-            & "'" & txtContractName.Text & "', '" & txtCustomerNumber.Text & "', " & CDbl(txtContractValue.Text) & ", " _
-            & "" & CDbl(txtRevisedValue.Text) & ", '" & cboPersonnel.Text & "')", cnn)
-        objCommand.ExecuteNonQuery()
+        If Not IsNumeric(txtContractValue.Text) Then txtContractValue.Text = "0.00"
+        If Not IsNumeric(txtRevisedValue.Text) Then txtRevisedValue.Text = "0.00"
+
+        If boolEditStatus = True Then
+            'Update the project in place. The record used to be deleted and added again, which
+            'cleared the variation orders, the consultants and the site details of the project.
+            GtiExecute("UPDATE ProjectsMain SET [TakeOnDate] = ?, [ContractName] = ?, [CustomerNumber] = ?, " _
+                & "[InitialValue] = ?, [RevisedValue] = ?, [Owner] = ? WHERE [ContractNumber] = ?",
+                dpTakeonDate.Value.Date, txtContractName.Text, txtCustomerNumber.Text, CDbl(txtContractValue.Text),
+                CDbl(txtRevisedValue.Text), cboPersonnel.Text, intSelectedProjectNumber)
+        Else
+            GtiExecute("INSERT INTO ProjectsMain ([ContractNumber],[TakeOnDate],[ContractName],[CustomerNumber]," _
+                & "[InitialValue],[RevisedValue],[Owner]) VALUES (?, ?, ?, ?, ?, ?, ?)",
+                CInt(txtReference.Text), dpTakeonDate.Value.Date, txtContractName.Text, txtCustomerNumber.Text,
+                CDbl(txtContractValue.Text), CDbl(txtRevisedValue.Text), cboPersonnel.Text)
+        End If
 
         If boolEditStatus = False Then
             objCommand = New Data.OleDb.OleDbCommand("UPDATE ControlNumbers SET ProjectsNumber = " & txtReference.Text & "", cnn)

@@ -48,12 +48,59 @@ Public Class frmUserSecurityProfile
             .Rows.Add("Returns and Rejections Management")
         End With
         LoadBranches()
+
+        'The four access levels replace the older level names
+        boolLoadingLevels = True
+        cboUserLevel.Items.Clear()
+        cboUserLevel.Items.AddRange(GtiAccessLevels)
         If boolEditStatus = True Then
             LoadData()
             txtUserPassword.Enabled = False
             txtConfirmPassword.Enabled = False
+            LoadAccessLevel()
         End If
+        boolLoadingLevels = False
 
+    End Sub
+
+    Dim boolLoadingLevels As Boolean = False
+
+    'Shows the access level of the user being edited (older users are shown with the matching level)
+    Private Sub LoadAccessLevel()
+        Try
+            Dim strLevel As String = ""
+            Dim dt As DataTable = GtiTable("SELECT AccessLevel, UserLevel FROM Users WHERE UserName = ?", strSelectedUser)
+            If dt.Rows.Count > 0 Then
+                strLevel = Trim(dt.Rows(0)("AccessLevel").ToString)
+                If strLevel = "" Then strLevel = GtiAccessLevelFromLegacy(dt.Rows(0)("UserLevel").ToString)
+            End If
+            If cboUserLevel.Items.IndexOf(strLevel) >= 0 Then cboUserLevel.SelectedItem = strLevel
+        Catch ex As Exception
+            strErrorMessages = ex.Message & vbCrLf & "On User Setup"
+            ShowErrorMessage()
+        End Try
+    End Sub
+
+    Private Function NoOtherOwnerExists(ByVal strExceptUser As String) As Boolean
+        Try
+            Return GtiOwnerCount(strExceptUser) = 0
+        Catch ex As Exception
+            Return False
+        End Try
+    End Function
+
+    'Choosing an access level ticks the matching permissions; they can still be adjusted per user
+    Private Sub cboUserLevel_SelectedIndexChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cboUserLevel.SelectedIndexChanged
+        If boolLoadingLevels = True Then Exit Sub
+        If cboUserLevel.SelectedIndex < 0 Then Exit Sub
+        Dim intPreset() As Integer = GtiPermissionPreset(cboUserLevel.Text)
+        For i As Integer = 0 To dGrid.Rows.Count - 1
+            Dim intValue As Integer = 0
+            If i < intPreset.Length Then intValue = intPreset(i)
+            dGrid.Rows(i).Cells(1).Value = (intValue = 2)
+            dGrid.Rows(i).Cells(2).Value = (intValue = 1)
+            dGrid.Rows(i).Cells(3).Value = (intValue = 0)
+        Next
     End Sub
 
     Private Sub dGrid_MouseUp(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles dGrid.MouseUp
@@ -119,6 +166,21 @@ RaiseErr:
             Exit Sub
         End If
 
+        If cboUserLevel.SelectedIndex < 0 Then
+            MessageBox.Show("Please select the access level of the user", "Missing Access Level", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            cboUserLevel.Focus()
+            Exit Sub
+        End If
+
+        'There must always be at least one user with full access
+        If cboUserLevel.Text <> GtiLevelOwner Then
+            If NoOtherOwnerExists(txtUserName.Text) Then
+                MessageBox.Show("This is the only user with full (Owner) access. " _
+                    & "Give another user Owner access before you lower this one.", "Access Level", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+                Exit Sub
+            End If
+        End If
+
         GetSelectedValues()
 
         On Error GoTo RaiseErr
@@ -171,7 +233,8 @@ RaiseErr:
         strInBranchName = cboLocation.Text
         strInChangeDate = CStr(gwt_comm.shortMonthDateFormat(Now))
         strInEmailAddress = txtEmailAddress.Text
-        strInUserLevel = cboUserLevel.Text
+        'The older screens check for Administrator / Manager, so that value is stored next to the access level
+        strInUserLevel = GtiLegacyUserLevel(cboUserLevel.Text)
 
         IntQuotations = CInt(arrUserOptions.Item(0))
         IntInvoicing = CInt(arrUserOptions.Item(1))
@@ -210,10 +273,15 @@ RaiseErr:
         intPrescribedDrugs = CInt(arrUserOptions.Item(34))
         intReturnsRejections = CInt(arrUserOptions.Item(35))
 
-        'Whether you are in edit mode or new entry mode, delete any previous similar record
-        Dim objCommand As New Data.OleDb.OleDbCommand("DELETE FROM Users WHERE UserName = '" & txtUserName.Text & "'", Cnn)
-        objCommand.ExecuteNonQuery()
+        Dim objCommand As Data.OleDb.OleDbCommand
+        Dim boolUserExists As Boolean = CInt(GtiScalar("SELECT COUNT(*) FROM Users WHERE UserName = ?", strInUserName)) > 0
 
+        If boolEditStatus = False And boolUserExists = True Then
+            MessageBox.Show("A user with the login name '" & strInUserName & "' already exists. Please choose another login name, " _
+                & "or use Edit to change the existing user.", "User Already Exists", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            txtUserName.Focus()
+            Exit Sub
+        End If
         If boolEditStatus = False Then strInUserPassword = gwt_comm.UnEncryption(txtUserPassword.Text) Else strInUserPassword = txtUserPassword.Text
 
         Dim strSql As String = "INSERT INTO [Users] ([UserName],[UserPassword],[UserLevel],[BranchName]," _
@@ -234,8 +302,34 @@ RaiseErr:
             & "" & IntDefineServerBackupPath & ", " & IntCategoriesSetup & ", " & IntStockDataUpload & ", " & IntStockDataDownload & ", " _
             & "" & IntSalesDataDownloads & ", " & IntSalesDataUploads & ", " & IntCashbookDataUpload & ", " & IntCashbookDataDownload & ", " _
             & "" & IntExpenses & ", " & IntUserSetup & ", " & IntExchanges & ", " & intPrescribedDrugs & ", " & intReturnsRejections & ", '" & txtGivenNames.Text & "')"
-        objCommand = New Data.OleDb.OleDbCommand(strSql, Cnn)
-        objCommand.ExecuteNonQuery()
+        If boolUserExists = True Then
+            'Existing user: update the record in place. It used to be deleted and added again, which failed
+            'for users with saved home page settings and cleared fields that are not on this screen.
+            'The password and its change date are not touched here.
+            GtiExecute("UPDATE [Users] SET [UserLevel] = ?, [BranchName] = ?, [EmailAddress] = ?, [GivenNames] = ?, " _
+                & "[Quotations] = ?, [Invoicing] = ?, [Customers] = ?, [Suppliers] = ?, [SalesAgents] = ?, [Inventory] = ?, " _
+                & "[CashSales] = ?, [StoresManagement] = ?, [ReceiveGoods] = ?, [CashbookEntries] = ?, [StockTake] = ?, " _
+                & "[LedgerEntries] = ?, [AssetManagement] = ?, [PrintStatements] = ?, [PrintLedgers] = ?, [PrintTrialBalance] = ?, " _
+                & "[BankReconciliation] = ?, [CashbookSetup] = ?, [BranchSetup] = ?, [ControlNumbersSetup] = ?, [TransferStock] = ?, " _
+                & "[DefaultSalesAccountSetup] = ?, [ReinitialiseInventoryQuantities] = ?, [DefineServerBackupPath] = ?, " _
+                & "[CategoriesSetup] = ?, [StockDataUpload] = ?, [StockDataDownload] = ?, [SalesDataDownloads] = ?, " _
+                & "[SalesDataUploads] = ?, [CashbookDataUpload] = ?, [CashbookDataDownload] = ?, [Expenses] = ?, [UserSetup] = ?, " _
+                & "[Exchanges] = ?, [PrescribedDrugs] = ?, [ReturnsRejections] = ? WHERE [UserName] = ?",
+                strInUserLevel, strInBranchName, strInEmailAddress, txtGivenNames.Text,
+                IntQuotations, IntInvoicing, IntCustomers, IntSuppliers, IntSalesAgents, IntInventory,
+                IntCashSales, IntStoresManagement, IntReceiveGoods, IntCashbookEntries, IntStockTake,
+                IntLedgerEntries, IntAssetManagement, IntPrintStatements, IntPrintLedgers, IntPrintTrialBalance,
+                IntBankReconciliation, IntCashbookSetup, IntBranchSetup, IntControlNumbersSetup, IntTransferStock,
+                IntDefaultSalesAccountSetup, IntReinitialiseInventoryQuantities, IntDefineServerBackupPath,
+                IntCategoriesSetup, IntStockDataUpload, IntStockDataDownload, IntSalesDataDownloads,
+                IntSalesDataUploads, IntCashbookDataUpload, IntCashbookDataDownload, IntExpenses, IntUserSetup,
+                IntExchanges, intPrescribedDrugs, intReturnsRejections, strInUserName)
+        Else
+            objCommand = New Data.OleDb.OleDbCommand(strSql, Cnn)
+            objCommand.ExecuteNonQuery()
+        End If
+        GtiExecute("UPDATE Users SET AccessLevel = ? WHERE UserName = ?", cboUserLevel.Text, strInUserName)
+        GtiLogActivity("Users", "User " & strInUserName & " saved with access level " & cboUserLevel.Text)
 
         'Send a message to the group administrator
         If UCase(strMachineTillStatus) = "CASHOUT" Then

@@ -37,3 +37,16 @@ D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\Smart
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\QRCoder.dll
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\QRCoder.xml
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRic.CC5E9440.Up2Date
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.pdb
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\SmartRichReportWriter.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\QRCoder.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\bin\Debug\QRCoder.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.vbproj.AssemblyReference.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.Resources.resources
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.vbproj.GenerateResource.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.vbproj.CoreCompileInputs.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRic.CC5E9440.Up2Date
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartRichReportWriter\SmartRichReportWriter\obj\Debug\SmartRichReportWriter.pdb

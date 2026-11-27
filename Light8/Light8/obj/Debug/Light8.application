@@ -7,14 +7,14 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Light8.exe.manifest" size="37661">
+    <dependentAssembly dependencyType="install" codebase="Light8.exe.manifest" size="38326">
       <assemblyIdentity name="Light8.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ym5Vc+bbAsb2XE0ev5mWT8B8u7xzZzwWPa4iN/cm9nw=</dsig:DigestValue>
+        <dsig:DigestValue>unjY3AM/h7zgQnnnwUU43wSmWrWmiIY7ABRPCWoGeMk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

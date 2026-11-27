@@ -195,7 +195,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9XT5CqVktwoKkb1sBKrcL4VdAJmqUULkbOiFKKvW9gQ=</dsig:DigestValue>
+        <dsig:DigestValue>KQLKyVQivcAD9oC3ZBQ/GO6ser/r1oXEiGoRYMxxx3k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -363,7 +363,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>F2iJGEVGP4hiaZu+e5tbtMN30ApVnmsXvyGFrKkyv2U=</dsig:DigestValue>
+        <dsig:DigestValue>kmvbUsxD3bnScRnCOVhbrwzWrEfBGiBvtcH+Z5Bkz+Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -392,26 +392,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="gwtEmployees.dll" size="614912">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="gwtEmployees.dll" size="615424">
       <assemblyIdentity name="gwtEmployees" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eitx3YKvV1HFpvGMFReYtjaLzB0JDgQTW67dACu/B30=</dsig:DigestValue>
+        <dsig:DigestValue>kVRvnm4wfGF63m0YWLZW3eTRkHKA6zWSHWxXMKP8oFs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="gwtprconfig.dll" size="858112">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="gwtprconfig.dll" size="858624">
       <assemblyIdentity name="gwtprconfig" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wdaOqBgCF1w9mo4WU6hRD+pPMnhsx3otk12JvhnkvSo=</dsig:DigestValue>
+        <dsig:DigestValue>EsPtxDW6n7ckRX9ILrxC9gsrmnIqeYeEJUebaN66JtA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -428,14 +428,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Light8.exe" size="11341824">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Light8.exe" size="11390976">
       <assemblyIdentity name="Light8" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fWwm/bpRmgyRCXhY3ttc/VdQzFTYDwB7ZvayL0zHZWY=</dsig:DigestValue>
+        <dsig:DigestValue>TAn3Jxs7Uip9uRN6wpq9m2N4qscAwYI1qS87t/NsJ1w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -447,7 +447,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Q/A2ButTuAyFz+/6lfnsPjIn34I3f4r20kBAPyIx320=</dsig:DigestValue>
+        <dsig:DigestValue>61/ZRYnH4JeY+1Nir9akZVLn4ezNEW88lPJ4270mCds=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -524,14 +524,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProjectLight.dll" size="1512448">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProjectLight.dll" size="1513472">
       <assemblyIdentity name="ProjectLight" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IucNeikqipkRaZGKLb0+xJxDOElsmPHr6LJUXt3hCcE=</dsig:DigestValue>
+        <dsig:DigestValue>JNWLts8OvhuKV2anS6lydD85Oi0oNyWgBMGuILQkJVg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -591,7 +591,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>95DlxOH+sCppRV9Rvu0Du4EZEu4GKjdrubjwhPmC6Pc=</dsig:DigestValue>
+        <dsig:DigestValue>s5aDGJ1K7S51eNAi4fax2dHCLtUIZ8hrw6TKuZQW4Rs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -615,7 +615,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>apXJYRH1qlDQPwFbQDO4VxUymHPTBPUGTcUyOG+pEjk=</dsig:DigestValue>
+        <dsig:DigestValue>VTQ7SbzMHKuXuqml6b01N1QCpkDJew2DZ2qobRCflac=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stdole.dll" size="16224">
+      <assemblyIdentity name="stdole" version="18.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>NlebGSI5fE84BEh8OaGs6g5HNNMpP2wIcnIEjH1oObA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

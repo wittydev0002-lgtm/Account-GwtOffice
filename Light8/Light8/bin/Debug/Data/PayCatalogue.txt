@@ -14,3 +14,5 @@ iTEL NETWORK|data source=.\;initial catalog=iTelTest;User ID=sa;Password=ochmas;
 iTEL LOCAL|data source=.\;initial catalog=iTel;User ID=sa;Password=ochmas;provider=SQLOLEDB
 CELLONE|data source=.\MSSQL2022;initial catalog=Cellone;User ID=sa;Password=ochmas;provider=SQLOLEDB
 POLOMO|data source=.\;initial catalog=gwtPolomo;User ID=sa;Password=ochmas;provider=SQLOLEDB
+LOCAL GTI COPY|Provider=SQLOLEDB;Data Source=.\SQLEXPRESS;Initial Catalog=GTI_DEV;Integrated Security=SSPI
+LOCAL TEST|gti1:AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAng9ECF4+OEeWukPzJnI92wQAAAACAAAAAAAQZgAAAAEAACAAAADivwWgfJkjThfinsWK/JafzjaIdD6d4N3yLwBiwdT9ggAAAAAOgAAAAAIAACAAAABKWTDz0U1kWWcQO0LDFhvZDF+lwlUHkk7BG3MrMhpxWmAAAABEWTbaj7tT22uqi7+45F92alv6j3ctpJTlblU0VeVthRATCzs9PQeeI/SdZ8Eozoi2MbN/0ApSbI5y3zvu1l5jn5LEo44LYJduwKq3GP+kdntsbd0hUA7SuAWZmbKYp/BAAAAAJ6eioGsRsdkgEjxD2pyGp2PVUU0cmzLMiyQu3dOsr5Odk1NcjQWoPnXF7ZMX3B4OcQVjr1U2VIsJC3mRpy6YYg==

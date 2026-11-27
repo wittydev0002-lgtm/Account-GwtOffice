@@ -1947,13 +1947,18 @@ RaiseErr:
 
     Private Sub LoadUsers()
         On Error GoTo RaiseErr
-        Dim sqlCommand As New Data.OleDb.OleDbCommand("SELECT UserName, UserLevel FROM Users ORDER BY UserName", cnn)
+        Dim sqlCommand As New Data.OleDb.OleDbCommand("SELECT UserName, UserLevel, AccessLevel FROM Users ORDER BY UserName", cnn)
         Dim objReader As Data.OleDb.OleDbDataReader = sqlCommand.ExecuteReader
         dGridUsers.Rows.Clear()
         While objReader.Read
             dGridUsers.Rows.Add(1)
             If Not IsDBNull(objReader(0).ToString) Then dGridUsers.Rows(dGridUsers.Rows.Count - 1).Cells(0).Value = objReader(0).ToString
             If Not IsDBNull(objReader(1).ToString) Then dGridUsers.Rows(dGridUsers.Rows.Count - 1).Cells(1).Value = objReader(1).ToString
+            'Show the access level next to the user; the older level name stays in the row for the other buttons
+            Dim strAccess As String = Trim(objReader(2).ToString)
+            If strAccess = "" Then strAccess = GtiAccessLevelFromLegacy(objReader(1).ToString)
+            dGridUsers.Rows(dGridUsers.Rows.Count - 1).Cells(1).Tag = objReader(1).ToString
+            dGridUsers.Rows(dGridUsers.Rows.Count - 1).Cells(1).Value = strAccess
         End While
         objReader.Close()
         Exit Sub
@@ -1974,7 +1979,7 @@ RaiseErr:
     Private Sub GetSelectedUser()
         If dGridUsers.Rows.Count > 0 Then
             strSelectedUser = dGridUsers.CurrentRow.Cells(0).Value.ToString
-            strSelectedUserLevel = dGridUsers.CurrentRow.Cells(1).Value.ToString
+            strSelectedUserLevel = Convert.ToString(dGridUsers.CurrentRow.Cells(1).Tag)
         End If
     End Sub
 
@@ -1997,6 +2002,14 @@ RaiseErr:
     Private Sub btnDeleteUser_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnDeleteUser.Click
         On Error GoTo RaiseErr
         GetSelectedUser()
+        'There must always be at least one user with full access
+        If UCase(strSelectedUserLevel & "") = "ADMINISTRATOR" Then
+            If GtiOwnerCount(strSelectedUser) = 0 Then
+                MessageBox.Show("This is the only user with full (Owner) access and cannot be deleted.",
+                    "User Record Deletion", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+                Exit Sub
+            End If
+        End If
         If MessageBox.Show("Are you sure you want to delete user " & strSelectedUser & " from the system?",
                 "User Record Deletion Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = MsgBoxResult.Yes Then
             Dim sqlCommand As New Data.OleDb.OleDbCommand("DELETE FROM Users WHERE UserName = '" & strSelectedUser & "' AND UserLevel = '" & strSelectedUserLevel & "'", cnn)

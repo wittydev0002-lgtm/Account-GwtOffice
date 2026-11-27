@@ -45,6 +45,89 @@ Light8
  </summary>
  <remarks></remarks>
 </member>
+<member name="T:Light8.GtiCore">
+ <summary>
+ Shared code for the GTI Air Phase 1 upgrade: database additions, user access
+ levels, and protected database connection settings.
+ </summary>
+</member>
+<member name="F:Light8.GtiCore.GtiCurrentAccessLevel">
+ <summary>Access level of the logged-in user. Empty means an older user record that has no level yet.</summary>
+</member>
+<member name="M:Light8.GtiCore.GtiLegacyUserLevel(System.String)">
+ <summary>
+ The older screens only know "Administrator", "Manager" and everything else.
+ Each access level is stored together with the matching older value so those screens keep working.
+ </summary>
+</member>
+<member name="M:Light8.GtiCore.GtiAccessLevelFromLegacy(System.String)">
+ <summary>Access level to show for a user record that was created before access levels existed.</summary>
+</member>
+<member name="M:Light8.GtiCore.GtiPermissionPreset(System.String)">
+ <summary>
+ Default permissions for an access level, in the row order of the user setup grid.
+ 2 = full access, 1 = read only, 0 = no access.
+ </summary>
+</member>
+<member name="M:Light8.GtiCore.GtiLoadCurrentAccessLevel">
+ <summary>Reads the access level of the user who has just logged in.</summary>
+</member>
+<member name="M:Light8.GtiCore.GtiOwnerCount(System.String)">
+ <summary>Number of users who have full (Owner) access, optionally leaving one user out.</summary>
+</member>
+<member name="F:Light8.GtiCore.GtiPresetProjectCustomerNumber">
+ <summary>Client to pre-select when a new project is started from the client's project list.</summary>
+</member>
+<member name="M:Light8.GtiCore.GtiEnsureSchema">
+ <summary>
+ Adds the columns the Phase 1 upgrade needs. Only ever adds; existing columns and data are not touched,
+ so the previous version of the program keeps working on the same database.
+ </summary>
+</member>
+<member name="M:Light8.GtiCore.GtiLogActivity(System.String,System.String)">
+ <summary>Writes a line to the existing activity log (who changed what, and when).</summary>
+</member>
+<member name="M:Light8.GtiCore.GtiProtectConnection(System.String)">
+ <summary>
+ Protects a connection string for storage in the Data folder, so the database password is not kept as readable text.
+ It can only be read back on the same computer.
+ </summary>
+</member>
+<member name="M:Light8.GtiCore.GtiResolveConnection(System.String)">
+ <summary>Returns the usable connection string for a stored line (older, unprotected lines are returned as they are).</summary>
+</member>
+<member name="T:Light8.frmGtiClientProjects">
+ <summary>
+ All projects / sites of one client on a single screen, with the site details of each project.
+ </summary>
+</member>
+<member name="T:Light8.frmGtiDatabaseConnection">
+ <summary>
+ Enter, test and save the connection to the company database (cloud server or local server).
+ The saved connection is protected so the database password is not stored as readable text.
+ </summary>
+</member>
+<member name="P:Light8.frmGtiDatabaseConnection.ConnectionSaved">
+ <summary>True when a connection was saved, so the caller can reload its list.</summary>
+</member>
+<member name="M:Light8.frmGtiDatabaseConnection.BuildConnectionString">
+ <summary>Checks the entries and builds the connection string. Returns Nothing when something is missing.</summary>
+</member>
+<member name="M:Light8.frmGtiDatabaseConnection.TestConnection(System.String,System.String@)">
+ <summary>Opens the connection and checks that it is a database of this program.</summary>
+</member>
+<member name="T:Light8.frmGtiDocumentNumbers">
+ <summary>
+ One simple screen to see and change the next number of every document type
+ (invoices, quotes, pro forma invoices, orders, ...), including a quick way to start a new year.
+ </summary>
+</member>
+<member name="M:Light8.frmGtiDocumentNumbers.LooksLikeYearNumber(System.Int64)">
+ <summary>True for numbers in the "year + running number" style, for example 2025030.</summary>
+</member>
+<member name="M:Light8.frmGtiDocumentNumbers.ExistingDocuments(Light8.frmGtiDocumentNumbers.DocumentType,System.Int64)">
+ <summary>Number of saved documents in the 1000 numbers starting at the given number.</summary>
+</member>
 <member name="M:Light8.QRCodePrinter.GenerateAndPrintQRCode(System.String,System.Int32,System.Int32,System.String,System.Int32,System.Int32)">
  <summary>
  Generate QR Code and print to POS thermal printer

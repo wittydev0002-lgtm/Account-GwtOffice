@@ -52,6 +52,48 @@ Public Class frmCustomersListing
         UpdateFormTables()
         LoadCustomerData("ALL")
         cboCustomerSearchBy.SelectedIndex = 1
+        AddClientProjectsCommands()
+    End Sub
+
+    Private WithEvents btnClientProjects As DevComponents.DotNetBar.ButtonItem
+    Private WithEvents mnuClientProjects As ToolStripMenuItem
+
+    'Adds the "Projects / Sites" command to the toolbar and to the right-click menu
+    Private Sub AddClientProjectsCommands()
+        If btnClientProjects IsNot Nothing Then Exit Sub
+        btnClientProjects = New DevComponents.DotNetBar.ButtonItem("btnClientProjects", "Projects / Sites")
+        btnClientProjects.ButtonStyle = DevComponents.DotNetBar.eButtonStyle.ImageAndText
+        btnClientProjects.Tooltip = "Show all projects and sites of the selected client"
+        Dim intPosition As Integer = Bar14.Items.IndexOf(btnEditCustomer)
+        If intPosition >= 0 Then
+            Bar14.Items.Insert(intPosition + 1, btnClientProjects)
+        Else
+            Bar14.Items.Add(btnClientProjects)
+        End If
+        Bar14.RecalcLayout()
+
+        mnuClientProjects = New ToolStripMenuItem("Projects / Sites")
+        Dim intMenuPosition As Integer = cm1.Items.IndexOf(mnuOpen)
+        cm1.Items.Insert(If(intMenuPosition >= 0, intMenuPosition + 1, 0), mnuClientProjects)
+    End Sub
+
+    Private Sub ShowClientProjects()
+        If dGridCustomers.Rows.Count <= 0 OrElse dGridCustomers.CurrentRow Is Nothing Then
+            MessageBox.Show("Please select a client first", "Projects / Sites", MessageBoxButtons.OK, MessageBoxIcon.Information)
+            Exit Sub
+        End If
+        GetSelectedCustomer()
+        Using f As New frmGtiClientProjects(strSelectedAccount, strSelectedAccountName)
+            f.ShowDialog()
+        End Using
+    End Sub
+
+    Private Sub btnClientProjects_Click(sender As Object, e As System.EventArgs) Handles btnClientProjects.Click
+        ShowClientProjects()
+    End Sub
+
+    Private Sub mnuClientProjects_Click(sender As Object, e As System.EventArgs) Handles mnuClientProjects.Click
+        ShowClientProjects()
     End Sub
 
     Private Sub btnNewCustomer_Click(sender As System.Object, e As System.EventArgs) Handles btnNewCustomer.Click

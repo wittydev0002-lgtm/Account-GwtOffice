@@ -282,6 +282,12 @@ Public Class frmLight8
             End If
         End If
 
+        'GTI Phase 1: add the new columns (if missing) and read the access level of this user
+        If cnn IsNot Nothing AndAlso cnn.State = ConnectionState.Open Then
+            GtiEnsureSchema()
+            GtiLoadCurrentAccessLevel()
+        End If
+
         Dim strSql As String = Nothing
         Dim objCommand As Data.OleDb.OleDbCommand
 
@@ -337,6 +343,9 @@ Public Class frmLight8
             btnAdministration.Enabled = True
         End If
 
+        GtiAddSettingsButtons()
+        GtiApplyAccessLevel()
+
         HomePageUserPreferences()
         lblAccountsStatus.Text = strAccountSettingStatus
         Me.Text = Me.Text & " [" & strCompanyName & "]"
@@ -352,14 +361,109 @@ Public Class frmLight8
     End Sub
 
     Private Sub CheckSynchronisationStatus()
-        If UCase(strUserLevel) = UCase("MANAGER") Or UCase(strUserLevel) = "ADMINISTRATOR" Then
+        'Data synchronisation is a system task: it is only offered to the Owner.
+        'Other users simply continue to the main window (they used to get an "access denied" message here).
+        If GtiIsOwner() Then
             Dim f As New frmDatabaseSynchronization
             f.ShowDialog()
-        Else
-            gwt_comm.DenyAccess()
-            Exit Sub
         End If
     End Sub
+
+#Region "GTI Phase 1 - access levels and settings"
+
+    Private WithEvents btnGtiDocumentNumbers As DevComponents.DotNetBar.ButtonItem
+    Private WithEvents btnGtiDatabaseConnection As DevComponents.DotNetBar.ButtonItem
+
+    'Adds "Document Numbers" and "Database Connection" to the Settings page
+    Private Sub GtiAddSettingsButtons()
+        If btnGtiDocumentNumbers IsNot Nothing Then Exit Sub
+
+        btnGtiDocumentNumbers = GtiNewSettingsButton("btnGtiDocumentNumbers", "Document Numbers",
+            "Set the next number of invoices, quotes, pro formas and orders")
+        btnGtiDatabaseConnection = GtiNewSettingsButton("btnGtiDatabaseConnection", "Database Connection",
+            "Set the cloud or local database server this computer uses")
+
+        'System settings: Owner only
+        btnGtiDocumentNumbers.Enabled = GtiIsOwner()
+        btnGtiDatabaseConnection.Enabled = GtiIsOwner()
+
+        Dim intPosition As Integer = recentDocsItemPane.Items.IndexOf(btnOrganisation)
+        If intPosition < 0 Then intPosition = recentDocsItemPane.Items.Count - 1
+        recentDocsItemPane.Items.Insert(intPosition + 1, btnGtiDocumentNumbers)
+        recentDocsItemPane.Items.Insert(intPosition + 2, btnGtiDatabaseConnection)
+        recentDocsItemPane.RecalcLayout()
+    End Sub
+
+    Private Function GtiNewSettingsButton(ByVal strName As String, ByVal strTitle As String, ByVal strDescription As String) As DevComponents.DotNetBar.ButtonItem
+        Dim btn As New DevComponents.DotNetBar.ButtonItem(strName)
+        btn.ButtonStyle = btnOrganisation.ButtonStyle
+        btn.ImagePaddingHorizontal = btnOrganisation.ImagePaddingHorizontal
+        btn.ImagePaddingVertical = btnOrganisation.ImagePaddingVertical
+        btn.Shape = New DevComponents.DotNetBar.RoundRectangleShapeDescriptor()
+        btn.Symbol = btnOrganisation.Symbol
+        btn.SymbolSet = btnOrganisation.SymbolSet
+        btn.ForeColor = Color.Black
+        btn.Text = strTitle & "<br/><font color=""Gray"">" & strDescription & "</font>"
+        Return btn
+    End Function
+
+    Private Sub btnGtiDocumentNumbers_Click(sender As Object, e As System.EventArgs) Handles btnGtiDocumentNumbers.Click
+        Using frm As New frmGtiDocumentNumbers
+            frm.ShowDialog(Me)
+        End Using
+    End Sub
+
+    Private Sub btnGtiDatabaseConnection_Click(sender As Object, e As System.EventArgs) Handles btnGtiDatabaseConnection.Click
+        Using frm As New frmGtiDatabaseConnection
+            frm.ShowDialog(Me)
+        End Using
+    End Sub
+
+    'Shows each user only the parts of the program that belong to the user's access level
+    Private Sub GtiApplyAccessLevel()
+        Select Case GtiCurrentAccessLevel
+
+            Case GtiLevelManager
+                'Daily work, accounting and reports; no system setup
+                For Each btn As DevComponents.DotNetBar.ButtonItem In New DevComponents.DotNetBar.ButtonItem() {
+                        btnAdministration, btnOrganisation, btnSynchronizeData, btnDataTransfer, btnRestore,
+                        btnCreateDatabase, btnFinancialYearEndClearDown, btnGtiDocumentNumbers, btnGtiDatabaseConnection}
+                    btn.Enabled = False
+                Next
+
+            Case GtiLevelOffice
+                'Invoicing, orders, clients, suppliers and projects
+                Accounts.Visible = False
+                HRManagement.Visible = False
+                SideNavItem3.Visible = False    'Special Apps
+                SideNavItem2.Visible = False    'Reports
+                Settings.Visible = False
+
+            Case GtiLevelTechnician
+                'Job sheets only
+                SideNavItem8.Visible = False    'Dashboard
+                Accounts.Visible = False
+                Inventory.Visible = False
+                SideNavItem4.Visible = False    'Purchasing
+                SideNavItem6.Visible = False    'Creditors
+                Sales.Visible = False
+                SideNavItem5.Visible = False    'Debtors
+                HRManagement.Visible = False
+                SideNavItem3.Visible = False    'Special Apps
+                SideNavItem2.Visible = False    'Reports
+                Settings.Visible = False
+                btnProjectsListings.Visible = False
+                btnProjectClaims.Visible = False
+                ItemPanel6.RecalcLayout()
+                SideNav1.SelectedItem = SideNavItem7
+                Dim frmJobs As New frmJobsAndServices
+                AddTabbedForm(frmJobs, tabProjects, DevComponents.DotNetBar.eTabItemColor.OfficeMobile2014Orange)
+
+        End Select
+        SideNav1.Refresh()
+    End Sub
+
+#End Region
 
     Private Sub LoadCustomers()
         Dim frm As New frmCustomersListing

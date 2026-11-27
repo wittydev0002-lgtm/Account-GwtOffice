@@ -218,6 +218,7 @@
     <Reference Include="System.Design" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Transactions" />
     <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Windows.Forms" />
@@ -2136,6 +2137,16 @@
     </Compile>
     <Compile Include="MD5_Crypt.vb" />
     <Compile Include="modCommons.vb" />
+    <Compile Include="GtiCore.vb" />
+    <Compile Include="frmGtiClientProjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGtiDatabaseConnection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGtiDocumentNumbers.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="modEmail.vb" />
     <Compile Include="modReports.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />

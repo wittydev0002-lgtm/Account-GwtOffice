@@ -50,7 +50,8 @@ Public Class frmLogin
             End If
         End If
 
-        Dim strConnectionFields As String = lblSelectedConnection.Text
+        'Connections saved from the Database Connection screen are stored protected
+        Dim strConnectionFields As String = GtiResolveConnection(lblSelectedConnection.Text)
         gwt_comm = New CommonLibrary.Commons.CommonFunctions
 
         Cursor = Cursors.WaitCursor
@@ -362,7 +363,37 @@ RaiseErr:
         If Asc(e.KeyChar) = 13 Then btnLogin.Focus()
     End Sub
 
+    Private WithEvents lnkDatabaseConnection As LinkLabel
+
+    'Link to enter the details of the database server (cloud or local)
+    Private Sub AddDatabaseConnectionLink()
+        If lnkDatabaseConnection IsNot Nothing Then Exit Sub
+        lnkDatabaseConnection = New LinkLabel()
+        lnkDatabaseConnection.Name = "lnkDatabaseConnection"
+        lnkDatabaseConnection.Text = "Database connection..."
+        lnkDatabaseConnection.AutoSize = True
+        lnkDatabaseConnection.BackColor = Color.Transparent
+        lnkDatabaseConnection.Location = New Point(95, 128)
+        lnkDatabaseConnection.TabStop = False
+        KryptonPanel1.Controls.Add(lnkDatabaseConnection)
+        lnkDatabaseConnection.BringToFront()
+    End Sub
+
+    Private Sub lnkDatabaseConnection_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles lnkDatabaseConnection.LinkClicked
+        Using f As New frmGtiDatabaseConnection
+            f.ShowDialog(Me)
+            If f.ConnectionSaved Then
+                'Use the connection that was just saved
+                chkSelectOtherCompany.Checked = False
+                txtUsername.Enabled = True : txtPassword.Enabled = True : btnLogin.Enabled = True
+                txtUsername.Focus()
+            End If
+        End Using
+    End Sub
+
     Private Sub frmLogin_Load(sender As Object, e As System.EventArgs) Handles Me.Load
+        AddDatabaseConnectionLink()
+
         On Error GoTo RaiseErr
 
         If chkSelectOtherCompany.Checked = False Then
@@ -424,11 +455,13 @@ RaiseErr:
             End If
 
         Else
-            MessageBox.Show("Application is missing the database configuration files." & vbCrLf & _
-                "Please contact your software provider", "Missing Configuration Settings",
-                MessageBoxButtons.OK, MessageBoxIcon.Stop)
-            boolAbort = True
-            Me.Close()
+            'New installation: no company database has been set up on this computer yet
+            Directory.CreateDirectory(Application.StartupPath & "\Data")
+            File.WriteAllText(Application.StartupPath & "\Data\PayCatalogue.txt", "")
+            Cursor = Cursors.Default
+            MessageBox.Show("No database has been set up on this computer yet." & vbCrLf &
+                "Click 'Database connection...' and enter the details of the database server.", "Database Connection",
+                MessageBoxButtons.OK, MessageBoxIcon.Information)
         End If
 
         Cursor = Cursors.Default

@@ -63,3 +63,16 @@ D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDo
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\QRCoder.dll
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\QRCoder.xml
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDoc.46130DC0.Up2Date
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.pdb
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\SmartDocumentWriter.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\QRCoder.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\bin\Debug\QRCoder.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.AssemblyReference.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.Resources.resources
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.GenerateResource.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.vbproj.CoreCompileInputs.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDoc.46130DC0.Up2Date
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\SmartDocumentWriter\SmartDocumentWriter\obj\Debug\SmartDocumentWriter.pdb

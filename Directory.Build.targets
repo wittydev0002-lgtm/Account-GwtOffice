@@ -1,0 +1,70 @@
+<Project>
+  <!--
+    Shared build fix-ups for every project in this repository.
+
+    The original project files point at folders that only existed on the previous
+    developer's PC (third-party controls, and the gwtCommonLibrary / DebtCollector
+    source projects, which were never supplied), and at a local Microsoft Office
+    installation. Instead of editing every old .vbproj, this file redirects those
+    references to the compiled copies in \lib.
+
+      lib\          third-party controls and the compiled gwtCommonLibrary / DebtCollector
+      lib\interop\  Microsoft Office interop assemblies (build-time only, types are embedded)
+      lib\smo\      SQL Server Management Objects (Microsoft.SqlServer.SqlManagementObjects 140.17283.0)
+  -->
+  <PropertyGroup>
+    <GwtLibDir>$(MSBuildThisFileDirectory)lib\</GwtLibDir>
+    <!-- Searched last, so a reference whose original HintPath still works keeps using it. -->
+    <AssemblySearchPaths>$(AssemblySearchPaths);$(GwtLibDir);$(GwtLibDir)interop\;$(GwtLibDir)smo\</AssemblySearchPaths>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <_GwtMissingCommonRef Include="@(ProjectReference->WithMetadataValue('Filename','gwtCommonLibrary'))" />
+    <_GwtMissingDebtRef Include="@(ProjectReference->WithMetadataValue('Filename','DebtCollector'))" />
+    <_GwtOfficeComRef Include="@(COMReference->WithMetadataValue('Identity','Microsoft.Office.Core'))" />
+    <_GwtOfficeComRef Include="@(COMReference->WithMetadataValue('Identity','Microsoft.Office.Interop.Outlook'))" />
+    <_GwtOfficeComRef Include="@(COMReference->WithMetadataValue('Identity','stdole'))" />
+  </ItemGroup>
+
+  <!-- gwtCommonLibrary: source project not supplied, use the compiled DLL. -->
+  <ItemGroup Condition="'@(_GwtMissingCommonRef)' != ''">
+    <ProjectReference Remove="@(_GwtMissingCommonRef)" />
+    <Reference Include="gwtCommonLibrary">
+      <HintPath>$(GwtLibDir)gwtCommonLibrary.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+  </ItemGroup>
+
+  <!-- DebtCollector: source project not supplied, use the compiled EXE. -->
+  <ItemGroup Condition="'@(_GwtMissingDebtRef)' != ''">
+    <ProjectReference Remove="@(_GwtMissingDebtRef)" />
+    <Reference Include="DebtCollector">
+      <HintPath>$(GwtLibDir)DebtCollector.exe</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+  </ItemGroup>
+
+  <!--
+    Office COM references need Microsoft Office registered on the build machine.
+    Use the interop assemblies instead, so the build works without Office installed.
+  -->
+  <ItemGroup Condition="'@(_GwtOfficeComRef)' != ''">
+    <COMReference Remove="@(_GwtOfficeComRef)" />
+    <Reference Include="office">
+      <HintPath>$(GwtLibDir)interop\Office.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Outlook">
+      <HintPath>$(GwtLibDir)interop\Microsoft.Office.Interop.Outlook.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="stdole">
+      <HintPath>$(GwtLibDir)interop\stdole.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <!-- This stdole build cannot be embedded; it is copied next to the program instead. -->
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+  </ItemGroup>
+</Project>

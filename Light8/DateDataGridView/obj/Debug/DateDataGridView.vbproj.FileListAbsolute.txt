@@ -37,3 +37,16 @@ D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\QRCoder.dll
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\bin\Debug\QRCoder.xml
 D:\Embassy\Light Goltech Versions\gwtOffice_Goldtech\Light8\DateDataGridView\obj\Debug\DateData.F794E78E.Up2Date
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\bin\Debug\DateDataGridView.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\bin\Debug\DateDataGridView.pdb
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\bin\Debug\DateDataGridView.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\bin\Debug\QRCoder.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\bin\Debug\QRCoder.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.vbproj.AssemblyReference.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.Resources.resources
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.vbproj.GenerateResource.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.vbproj.CoreCompileInputs.cache
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\obj\Debug\DateData.F794E78E.Up2Date
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.dll
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.xml
+C:\Projects\Account-GwtOffice\Account-GwtOffice\Light8\DateDataGridView\obj\Debug\DateDataGridView.pdb
